@@ -1,3 +1,15 @@
+# COGS 108 Group 38
+Members:
+- Ashley Vo
+- Dorje Pradhan
+- Kilhoon (Andy) Kim
+- Kobe Wood
+- Vy (Kiet) Dang
+
+View our [team rules](/admin/rules.md) here.
+
+--- 
+
 This is your group repo for your final project for COGS108.
 
 This repository is private, and is only visible to the course instructors and your group mates; it is not visible to anyone else.
