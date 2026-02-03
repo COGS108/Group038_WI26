@@ -6,7 +6,7 @@ Members:
 - Kobe Wood
 - Vy (Kiet) Dang
 
-View our [team rules](/admin/rules.md) here.
+View our [team rules](./admin/rules.md) here.
 
 --- 
 
