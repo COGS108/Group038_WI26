@@ -164,10 +164,10 @@ cython_debug/
 
 # Prevents common data formats from being kept in git
 # if for some reason you want to source code control your data you will need to remove this
-data/*.csv
-data/*/*.csv
-data/*.CSV
-data/*/*.CSV
+#data/*.csv
+#data/*/*.csv
+#data/*.CSV
+#data/*/*.CSV
 data/*.json
 data/*/*.json
 data/*.JSON
