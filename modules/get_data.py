@@ -45,19 +45,15 @@ def get_raw(file_list, destination_directory):
             print(f"An unexpected error occurred for {filename}: {e}")
 
 def get_steam250(years, destination_directory):
-    headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-    }
-
     for year in tqdm(years):
         url = f'https://steam250.com/{year}'
 
         try:
-            html = requests.get(url, headers=headers).text
+            html = requests.get(url).text
             soup = BeautifulSoup(html, 'html.parser')
 
             section = soup.select_one("section.applist.compact")
-            rows = section.find_all("div", id=True)
+            rows = section.find_all("div", id=True) 
 
             records = []
 
@@ -97,10 +93,10 @@ def get_steam250(years, destination_directory):
             df = pd.DataFrame(records)
             output = os.path.join(destination_directory, f'{year}_top250.csv')
             df.to_csv(output, index=False)
-            print(f'saved file {year}_top250.csv')
+            print(f" saved file {year}_top250.csv")
         
         except Exception as e:
-            print(f"error find on {year}: {e}")
+            print(f" error find on {year}: {e}")
 
 if __name__ == "__main__":
     script_dir = os.path.dirname(os.path.abspath(__file__))
