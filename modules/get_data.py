@@ -70,17 +70,19 @@ def get_steam250(years, destination_directory):
                     game = name_tag.text.strip()
 
                     company_tag = row.select_one("span.company")
-                    company = company_tag.text.strip() if company_tag else ""
+                    if company_tag:
+                        company = company_tag.text.strip()
+                    else:
+                        company = ""
 
                     score_tag = row.select_one("span.score")
-                    score = score_tag.text.strip() if score_tag else ""
+                    if score_tag:
+                        score = score_tag.text.strip()
+                    else:
+                        score = ""
 
                     rating_tag = row.select_one("span.rating")
-                    rating = rating_tag.text.strip() if rating_tag else ""
-
                     vote_tag = row.select_one("span.votes")
-
-                    rating = ""
 
                     if rating_tag:
                         rating = rating_tag.text.strip()
