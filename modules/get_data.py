@@ -106,5 +106,3 @@ if __name__ == "__main__":
 
     years = [2018, 2019, 2020, 2021, 2022, 2023]
     get_steam250(years, rawdata_dir)
-
-
