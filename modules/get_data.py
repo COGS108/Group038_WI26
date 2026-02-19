@@ -6,6 +6,7 @@ import pandas as pd
 import kagglehub
 import shutil
 import time
+import hashlib
 from typing import Optional
 from pathlib import Path
 
@@ -767,7 +768,7 @@ def main():
     years = [2018, 2019, 2020, 2021, 2022, 2023]
     get_steam250(years, rawdata_dir)
     get_kaggle()
-    # steamcharts_main()
+    steamcharts_main()
 
 if __name__ == "__main__":
     main()
