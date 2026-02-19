@@ -108,7 +108,7 @@ def get_kaggle():
     # https://www.kaggle.com/datasets/srgiomanhes/steam-games-dataset-2025
     # path = kagglehub.dataset_download("srgiomanhes/steam-games-dataset-2025")
     
-    # https://www.kaggle.com/datasets/fronkongames/steam-games-dataset
+    # Source: https://www.kaggle.com/datasets/fronkongames/steam-games-dataset
     path = kagglehub.dataset_download("fronkongames/steam-games-dataset")
 
     os.makedirs(target_dir, exist_ok= True)
