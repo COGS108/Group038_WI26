@@ -1,251 +1,251 @@
 ,rank,appid,name,num_votes,rating,tags
-0,1,1118200,People Playground,305060,98.0,['singleplayer']
-1,2,646570,Slay the Spire,204931,98.0,['singleplayer']
-2,3,814380,Sekiro™: Shadows Die Twice - GOTY Edition,343207,95.0,['singleplayer']
-3,4,883710,Resident Evil 2,189816,97.0,['singleplayer']
-4,5,1174180,Red Dead Redemption 2,845767,92.0,"['multiplayer', 'co-op', 'singleplayer']"
-5,6,457140,Oxygen Not Included,137921,97.0,['singleplayer']
-6,7,601150,Devil May Cry 5,158682,96.0,"['multiplayer', 'co-op', 'singleplayer']"
-7,8,460950,Katana ZERO,74138,98.0,['singleplayer']
-8,9,813780,Age of Empires II: Definitive Edition,174251,95.0,"['multiplayer', 'co-op', 'singleplayer']"
-9,10,976730,Halo: The Master Chief Collection,254177,92.0,"['multiplayer', 'co-op', 'singleplayer']"
-10,11,620980,Beat Saber,75721,96.0,"['multiplayer', 'singleplayer']"
-11,12,787480,Phoenix Wright: Ace Attorney Trilogy,41955,98.0,['singleplayer']
-12,13,1055540,A Short Hike,21260,99.0,['singleplayer']
-13,14,632470,Disco Elysium - The Final Cut,123555,93.0,['singleplayer']
-14,15,977950,A Dance of Fire and Ice,78970,94.0,['singleplayer']
-15,16,736260,Baba Is You,23529,98.0,['singleplayer']
-16,17,942970,Unheard - Voices of Crime,32406,96.0,['singleplayer']
-17,18,752590,A Plague Tale: Innocence,66314,93.0,['singleplayer']
-18,19,1170880,Grimm's Hollow,14250,99.0,['singleplayer']
-19,20,677620,Splitgate,111186,91.0,"['multiplayer', 'singleplayer']"
-20,21,621060,PC Building Simulator,52303,94.0,['singleplayer']
-21,22,557340,My Friend Pedro,28088,96.0,['singleplayer']
-22,23,1127400,Mindustry,24748,96.0,"['multiplayer', 'co-op', 'singleplayer']"
-23,24,512900,Streets of Rogue,22613,96.0,"['multiplayer', 'co-op', 'singleplayer']"
-24,25,1093910,Tales of the Black Forest,14983,98.0,['singleplayer']
-25,26,703080,Planet Zoo,93336,91.0,['singleplayer']
-26,27,655500,MX Bikes,33301,94.0,"['multiplayer', 'singleplayer']"
-27,28,774171,Muse Dash,124122,90.0,['singleplayer']
+0,1,1118200,People Playground,305186,98.0,['singleplayer']
+1,2,646570,Slay the Spire,205020,98.0,['singleplayer']
+2,3,814380,Sekiro™: Shadows Die Twice - GOTY Edition,343254,95.0,['singleplayer']
+3,4,883710,Resident Evil 2,190004,97.0,['singleplayer']
+4,5,1174180,Red Dead Redemption 2,846142,92.0,"['co-op', 'multiplayer', 'singleplayer']"
+5,6,457140,Oxygen Not Included,137958,97.0,['singleplayer']
+6,7,601150,Devil May Cry 5,158716,96.0,"['co-op', 'multiplayer', 'singleplayer']"
+7,8,460950,Katana ZERO,74136,98.0,['singleplayer']
+8,9,813780,Age of Empires II: Definitive Edition,174310,95.0,"['co-op', 'multiplayer', 'singleplayer']"
+9,10,976730,Halo: The Master Chief Collection,254197,92.0,"['co-op', 'multiplayer', 'singleplayer']"
+10,11,620980,Beat Saber,75720,96.0,"['multiplayer', 'singleplayer']"
+11,12,787480,Phoenix Wright: Ace Attorney Trilogy,41978,98.0,['singleplayer']
+12,13,1055540,A Short Hike,21269,99.0,['singleplayer']
+13,14,632470,Disco Elysium - The Final Cut,123592,93.0,['singleplayer']
+14,15,977950,A Dance of Fire and Ice,78992,94.0,['singleplayer']
+15,16,736260,Baba Is You,23533,98.0,['singleplayer']
+16,17,942970,Unheard - Voices of Crime,32412,96.0,['singleplayer']
+17,18,752590,A Plague Tale: Innocence,66320,93.0,['singleplayer']
+18,19,1170880,Grimm's Hollow,14252,99.0,['singleplayer']
+19,20,677620,Splitgate,111183,91.0,"['multiplayer', 'singleplayer']"
+20,21,621060,PC Building Simulator,52304,94.0,['singleplayer']
+21,22,557340,My Friend Pedro,28089,96.0,['singleplayer']
+22,23,1127400,Mindustry,24753,96.0,"['co-op', 'multiplayer', 'singleplayer']"
+23,24,512900,Streets of Rogue,22613,96.0,"['co-op', 'multiplayer', 'singleplayer']"
+24,25,1093910,Tales of the Black Forest,14986,98.0,['singleplayer']
+25,26,703080,Planet Zoo,93345,91.0,['singleplayer']
+26,27,655500,MX Bikes,33329,94.0,"['multiplayer', 'singleplayer']"
+27,28,774171,Muse Dash,124147,90.0,['singleplayer']
 28,29,851100,Touhou Luna Nights,14560,97.0,['singleplayer']
-29,30,412020,Metro Exodus,128272,90.0,['singleplayer']
-30,31,692850,Bloodstained: Ritual of the Night,40726,93.0,"['multiplayer', 'co-op', 'singleplayer']"
-31,32,805550,Assetto Corsa Competizione,44024,93.0,"['multiplayer', 'singleplayer']"
+29,30,412020,Metro Exodus,128275,90.0,['singleplayer']
+30,31,692850,Bloodstained: Ritual of the Night,40733,93.0,"['co-op', 'multiplayer', 'singleplayer']"
+31,32,805550,Assetto Corsa Competizione,44057,93.0,"['multiplayer', 'singleplayer']"
 32,33,812810,missed messages.,15395,96.0,['singleplayer']
-33,34,1172380,STAR WARS Jedi: Fallen Order™,167633,88.0,['singleplayer']
-34,35,1070710,Kind Words (lo fi chill beats to write to),8997,98.0,"['multiplayer', 'co-op', 'singleplayer']"
-35,36,314650,SpaceEngine,14527,96.0,['singleplayer']
-36,37,681280,Descenders,22173,94.0,"['multiplayer', 'singleplayer']"
-37,38,1189490,觅长生,30680,93.0,['singleplayer']
-38,39,244850,Space Engineers,135742,89.0,"['multiplayer', 'co-op', 'singleplayer']"
-39,40,943700,Monster Girl Island: Prologue,16957,95.0,['singleplayer']
-40,41,823500,BONEWORKS,36191,92.0,['singleplayer']
-41,42,666140,My Time at Portia,43970,92.0,['singleplayer']
-42,43,732690,FIVE NIGHTS AT FREDDY'S: HELP WANTED,12900,96.0,['singleplayer']
-43,44,1012880,60 Seconds! Reatomized,18469,94.0,['singleplayer']
-44,45,996580,Spyro™ Reignited Trilogy,21476,94.0,['singleplayer']
-45,46,813630,Supraland,14499,95.0,['singleplayer']
-46,47,1147690,NGU IDLE,12589,96.0,['singleplayer']
-47,48,1046030,ISLANDERS,16678,94.0,['singleplayer']
-48,49,585420,Trailmakers,32660,92.0,"['multiplayer', 'co-op', 'singleplayer']"
-49,50,1067310,Gravitas,7017,98.0,['singleplayer']
-50,51,774361,Blasphemous,60986,90.0,['singleplayer']
-51,52,572890,Pikuniku,10837,96.0,"['multiplayer', 'co-op', 'singleplayer']"
+33,34,1172380,STAR WARS Jedi: Fallen Order™,167674,88.0,['singleplayer']
+34,35,1070710,Kind Words (lo fi chill beats to write to),8996,98.0,"['co-op', 'multiplayer', 'singleplayer']"
+35,36,314650,SpaceEngine,14534,96.0,['singleplayer']
+36,37,681280,Descenders,22176,94.0,"['multiplayer', 'singleplayer']"
+37,38,1189490,觅长生,30686,93.0,['singleplayer']
+38,39,244850,Space Engineers,135748,89.0,"['co-op', 'multiplayer', 'singleplayer']"
+39,40,943700,Monster Girl Island: Prologue,16955,95.0,['singleplayer']
+40,41,823500,BONEWORKS,36193,92.0,['singleplayer']
+41,42,666140,My Time at Portia,43973,92.0,['singleplayer']
+42,43,732690,FIVE NIGHTS AT FREDDY'S: HELP WANTED,12901,96.0,['singleplayer']
+43,44,1012880,60 Seconds! Reatomized,18472,94.0,['singleplayer']
+44,45,996580,Spyro™ Reignited Trilogy,21481,94.0,['singleplayer']
+45,46,813630,Supraland,14505,95.0,['singleplayer']
+46,47,1147690,NGU IDLE,12590,96.0,['singleplayer']
+47,48,1046030,ISLANDERS,16679,94.0,['singleplayer']
+48,49,585420,Trailmakers,32672,92.0,"['co-op', 'multiplayer', 'singleplayer']"
+49,50,1067310,Gravitas,7016,98.0,['singleplayer']
+50,51,774361,Blasphemous,61005,90.0,['singleplayer']
+51,52,572890,Pikuniku,10843,96.0,"['co-op', 'multiplayer', 'singleplayer']"
 52,53,1122720,Sayonara Wild Hearts,8692,97.0,['singleplayer']
 53,54,601220,Zup! F,8321,97.0,['singleplayer']
-54,55,588030,Derail Valley,8695,97.0,['singleplayer']
-55,56,976310,Mortal Kombat 11,112149,88.0,"['multiplayer', 'singleplayer']"
-56,57,489520,Minion Masters,65148,89.0,"['multiplayer', 'co-op', 'singleplayer']"
-57,58,1067850,Kindergarten 2,5564,98.0,['singleplayer']
-58,59,1044620,Aokana - Four Rhythms Across the Blue,6299,97.0,['singleplayer']
-59,60,1017180,The Long Drive,53044,89.0,['singleplayer']
-60,61,1082710,Bug Fables: The Everlasting Sapling,5814,97.0,['singleplayer']
-61,62,1007040,EARTH DEFENSE FORCE 5,11226,94.0,"['multiplayer', 'co-op', 'singleplayer']"
-62,63,751780,Forager,42784,90.0,['singleplayer']
-63,64,900270,Reventure,9714,95.0,['singleplayer']
-64,65,1066780,Transport Fever 2,30903,90.0,['singleplayer']
+54,55,588030,Derail Valley,8699,97.0,['singleplayer']
+55,56,976310,Mortal Kombat 11,112177,88.0,"['multiplayer', 'singleplayer']"
+56,57,489520,Minion Masters,65148,89.0,"['co-op', 'multiplayer', 'singleplayer']"
+57,58,1067850,Kindergarten 2,5565,98.0,['singleplayer']
+58,59,1044620,Aokana - Four Rhythms Across the Blue,6300,97.0,['singleplayer']
+59,60,1017180,The Long Drive,53050,89.0,['singleplayer']
+60,61,1082710,Bug Fables: The Everlasting Sapling,5819,97.0,['singleplayer']
+61,62,1007040,EARTH DEFENSE FORCE 5,11227,94.0,"['co-op', 'multiplayer', 'singleplayer']"
+62,63,751780,Forager,42788,90.0,['singleplayer']
+63,64,900270,Reventure,9713,95.0,['singleplayer']
+64,65,1066780,Transport Fever 2,30913,90.0,['singleplayer']
 65,66,597760,Yuppie Psycho: Executive Edition,9029,95.0,['singleplayer']
 66,67,937170,Otaku's Adventure,8804,95.0,['singleplayer']
-67,68,844590,Hypnospace Outlaw,5283,97.0,['singleplayer']
-68,69,1103210,We Become What We Behold [Fan-Made Port],6396,96.0,['singleplayer']
-69,70,914710,Cat Quest II,6945,95.0,"['multiplayer', 'co-op', 'singleplayer']"
-70,71,690790,DiRT Rally 2.0,46986,89.0,"['multiplayer', 'singleplayer']"
-71,72,1049280,Pilgrims,5957,96.0,['singleplayer']
+67,68,844590,Hypnospace Outlaw,5284,97.0,['singleplayer']
+68,69,1103210,We Become What We Behold [Fan-Made Port],6394,96.0,['singleplayer']
+69,70,914710,Cat Quest II,6946,95.0,"['co-op', 'multiplayer', 'singleplayer']"
+70,71,690790,DiRT Rally 2.0,46997,89.0,"['multiplayer', 'singleplayer']"
+71,72,1049280,Pilgrims,5964,96.0,['singleplayer']
 72,73,1064610,Neon Beats,6542,96.0,['singleplayer']
-73,74,954740,Terminator: Resistance,17914,92.0,['singleplayer']
-74,75,714120,Little Misfortune,13357,92.0,['singleplayer']
-75,76,502500,ACE COMBAT™ 7: SKIES UNKNOWN,53598,88.0,"['multiplayer', 'singleplayer']"
-76,77,578620,GORN,8191,94.0,['singleplayer']
+73,74,954740,Terminator: Resistance,17920,92.0,['singleplayer']
+74,75,714120,Little Misfortune,13364,92.0,['singleplayer']
+75,76,502500,ACE COMBAT™ 7: SKIES UNKNOWN,53617,88.0,"['multiplayer', 'singleplayer']"
+76,77,578620,GORN,8192,94.0,['singleplayer']
 77,78,1069230,月影魅像-解放之羽-,3704,97.0,['singleplayer']
-78,79,801480,Agent A: A puzzle in disguise,5925,95.0,['singleplayer']
-79,80,359510,Tangle Tower,5876,95.0,['singleplayer']
+78,79,801480,Agent A: A puzzle in disguise,5926,95.0,['singleplayer']
+79,80,359510,Tangle Tower,5877,95.0,['singleplayer']
 80,81,598980,The Coin Game,5612,95.0,['singleplayer']
 81,82,992310,Tails Noir: Prologue,4116,97.0,['singleplayer']
 82,83,980300,One Finger Death Punch 2,4470,96.0,['singleplayer']
-83,84,604240,Shotgun Farmers,9808,93.0,"['multiplayer', 'co-op', 'singleplayer']"
-84,85,1122750,异化之恶〇Abnormal Treatment,3559,97.0,['singleplayer']
-85,86,1038740,Fluffy Store,3733,97.0,['singleplayer']
-86,87,1121910,"I Love You, Colonel Sanders! A Finger Lickin’ Good Dating Simulator",12667,92.0,['singleplayer']
+83,84,604240,Shotgun Farmers,9807,93.0,"['co-op', 'multiplayer', 'singleplayer']"
+84,85,1122750,异化之恶〇Abnormal Treatment,3560,97.0,['singleplayer']
+85,86,1038740,Fluffy Store,3734,97.0,['singleplayer']
+86,87,1121910,"I Love You, Colonel Sanders! A Finger Lickin’ Good Dating Simulator",12666,92.0,['singleplayer']
 87,88,1072390,BirdGut,5105,95.0,['singleplayer']
-88,89,1048540,Kao the Kangaroo: Round 2 (2003 re-release),7914,93.0,['singleplayer']
-89,90,505230,Pathologic 2,11791,92.0,['singleplayer']
+88,89,1048540,Kao the Kangaroo: Round 2 (2003 re-release),7916,93.0,['singleplayer']
+89,90,505230,Pathologic 2,11794,92.0,['singleplayer']
 90,91,986800,AVICII Invector,3356,97.0,"['multiplayer', 'singleplayer']"
-91,92,673130,AMID EVIL,7499,93.0,['singleplayer']
-92,93,611760,Don't Escape: 4 Days to Survive,2619,98.0,['singleplayer']
-93,94,1222680,Need for Speed™ Heat,144088,84.0,"['multiplayer', 'co-op', 'singleplayer']"
+91,92,673130,AMID EVIL,7501,93.0,['singleplayer']
+92,93,611760,Don't Escape: 4 Days to Survive,2620,98.0,['singleplayer']
+93,94,1222680,Need for Speed™ Heat,144116,84.0,"['co-op', 'multiplayer', 'singleplayer']"
 94,95,944020,Dream Ending,3189,97.0,['singleplayer']
-95,96,815370,Green Hell,91883,85.0,"['multiplayer', 'co-op', 'singleplayer']"
+95,96,815370,Green Hell,91933,85.0,"['co-op', 'multiplayer', 'singleplayer']"
 96,97,866440,What Never Was,5051,95.0,['singleplayer']
 97,98,1021950,When the Darkness comes,8395,92.0,['singleplayer']
 98,99,1160490,Master Of Pottery,2880,97.0,"['multiplayer', 'singleplayer']"
 99,100,1058640,RED HOT VENGEANCE,3534,96.0,['singleplayer']
-100,101,916730,Gato Roboto,5020,94.0,['singleplayer']
+100,101,916730,Gato Roboto,5021,94.0,['singleplayer']
 101,102,679900,Swords & Souls: Neverseen,6117,93.0,['singleplayer']
-102,103,330020,Children of Morta,22386,89.0,"['multiplayer', 'co-op', 'singleplayer']"
-103,104,1072420,DRAGON QUEST BUILDERS™ 2,7712,92.0,"['multiplayer', 'co-op', 'singleplayer']"
+102,103,330020,Children of Morta,22387,89.0,"['co-op', 'multiplayer', 'singleplayer']"
+103,104,1072420,DRAGON QUEST BUILDERS™ 2,7711,92.0,"['co-op', 'multiplayer', 'singleplayer']"
 104,105,1092720,Hello Neighbor Alpha 2,4434,95.0,['singleplayer']
-105,106,948740,AI: The Somnium Files,9028,92.0,['singleplayer']
+105,106,948740,AI: The Somnium Files,9029,92.0,['singleplayer']
 106,107,1069740,Seen,9923,91.0,['singleplayer']
 107,108,382560,Hot Lava,6057,93.0,"['multiplayer', 'singleplayer']"
 108,109,1018850,Smile For Me,2904,96.0,['singleplayer']
-109,110,492720,Tropico 6,28601,88.0,"['multiplayer', 'co-op', 'singleplayer']"
-110,111,966320,Later Alligator,2958,96.0,['singleplayer']
-111,112,1567440,inbento,2625,97.0,['singleplayer']
-112,113,1042550,Digimon Story Cyber Sleuth: Complete Edition,12565,90.0,"['multiplayer', 'singleplayer']"
-113,114,447150,APE OUT,3909,95.0,['singleplayer']
-114,115,967050,Pacify,42297,86.0,"['multiplayer', 'co-op', 'singleplayer']"
+109,110,492720,Tropico 6,28605,88.0,"['co-op', 'multiplayer', 'singleplayer']"
+110,111,966320,Later Alligator,2959,96.0,['singleplayer']
+111,112,1567440,inbento,2627,97.0,['singleplayer']
+112,113,1042550,Digimon Story Cyber Sleuth: Complete Edition,12569,90.0,"['multiplayer', 'singleplayer']"
+113,114,447150,APE OUT,3910,95.0,['singleplayer']
+114,115,967050,Pacify,42300,86.0,"['co-op', 'multiplayer', 'singleplayer']"
 115,116,1064730,Fantasy Girl,4707,94.0,['singleplayer']
-116,117,1061090,Jump King,12989,90.0,['singleplayer']
-117,118,1031480,TouHou Makuka Sai ~ Fantastic Danmaku Festival Part II,2584,97.0,['singleplayer']
-118,119,1033420,9-nine-:Episode 2,1858,98.0,['singleplayer']
+116,117,1061090,Jump King,12990,90.0,['singleplayer']
+117,118,1031480,TouHou Makuka Sai ~ Fantastic Danmaku Festival Part II,2585,97.0,['singleplayer']
+118,119,1033420,9-nine-:Episode 2,1859,98.0,['singleplayer']
 119,120,1004240,Hentai Girl Karen,4420,94.0,['singleplayer']
-120,121,1047440,DATE A LIVE: Rio Reincarnation,3698,95.0,['singleplayer']
-121,122,1084020,TheoTown,4214,94.0,"['multiplayer', 'singleplayer']"
+120,121,1047440,DATE A LIVE: Rio Reincarnation,3699,95.0,['singleplayer']
+121,122,1084020,TheoTown,4217,94.0,"['multiplayer', 'singleplayer']"
 122,123,1079800,Pistol Whip,4082,94.0,['singleplayer']
-123,124,619150,while True: learn(),7975,91.0,['singleplayer']
+123,124,619150,while True: learn(),7976,91.0,['singleplayer']
 124,125,433550,DARQ: Complete Edition,4134,94.0,['singleplayer']
 125,126,1200860,The Good Time Garden,2833,96.0,['singleplayer']
-126,127,1146950,Hentai Girl Fantasy,4005,94.0,['singleplayer']
-127,128,1043340,No Time,2015,97.0,"['multiplayer', 'singleplayer']"
-128,129,934840,FrostRunner,3414,95.0,['singleplayer']
+126,127,1146950,Hentai Girl Fantasy,4006,94.0,['singleplayer']
+127,128,1043340,No Time,2016,97.0,"['multiplayer', 'singleplayer']"
+128,129,934840,FrostRunner,3413,95.0,['singleplayer']
 129,130,1002560,Tiny Snow,4164,94.0,['singleplayer']
-130,131,644930,They Are Billions,50413,85.0,['singleplayer']
-131,132,913550,I wanna be the Creator,2957,95.0,"['multiplayer', 'singleplayer']"
-132,133,1005300,The Jackbox Party Pack 6,3051,95.0,"['multiplayer', 'co-op', 'singleplayer']"
+130,131,644930,They Are Billions,50417,85.0,['singleplayer']
+131,132,913550,I wanna be the Creator,2956,95.0,"['multiplayer', 'singleplayer']"
+132,133,1005300,The Jackbox Party Pack 6,3051,95.0,"['co-op', 'multiplayer', 'singleplayer']"
 133,134,562860,Ion Fury,7894,91.0,['singleplayer']
-134,135,690640,Trine 4: The Nightmare Prince,13951,89.0,"['multiplayer', 'co-op', 'singleplayer']"
-135,136,861540,Dicey Dungeons,11466,89.0,['singleplayer']
+134,135,690640,Trine 4: The Nightmare Prince,13954,89.0,"['co-op', 'multiplayer', 'singleplayer']"
+135,136,861540,Dicey Dungeons,11469,89.0,['singleplayer']
 136,137,622220,Fate/EXTELLA LINK,4651,93.0,"['multiplayer', 'singleplayer']"
 137,138,792220,Paunch,11265,89.0,['multiplayer']
-138,139,617290,Remnant: From the Ashes,55250,85.0,"['multiplayer', 'co-op', 'singleplayer']"
+138,139,617290,Remnant: From the Ashes,55257,85.0,"['co-op', 'multiplayer', 'singleplayer']"
 139,140,970570,CHAOS;CHILD,3725,94.0,['singleplayer']
-140,141,702050,The Song of Saya,8803,90.0,['singleplayer']
-141,142,440310,Project Arrhythmia,2543,95.0,"['multiplayer', 'co-op', 'singleplayer']"
-142,143,1161770,Breeders of the Nephelym,10173,89.0,['singleplayer']
+140,141,702050,The Song of Saya,8814,90.0,['singleplayer']
+141,142,440310,Project Arrhythmia,2542,95.0,"['co-op', 'multiplayer', 'singleplayer']"
+142,143,1161770,Breeders of the Nephelym,10174,89.0,['singleplayer']
 143,144,621000,异常 | Exception,1660,97.0,['singleplayer']
-144,145,1070580,Drift86,6004,91.0,"['multiplayer', 'singleplayer']"
-145,146,1073440,コイカツ！ / Koikatsu Party,5740,91.0,['singleplayer']
-146,147,761600,Onimusha: Warlords,3213,94.0,['singleplayer']
+144,145,1070580,Drift86,6005,91.0,"['multiplayer', 'singleplayer']"
+145,146,1073440,コイカツ！ / Koikatsu Party,5739,91.0,['singleplayer']
+146,147,761600,Onimusha: Warlords,3214,94.0,['singleplayer']
 147,148,1104660,MO:Astray,5014,92.0,['singleplayer']
 148,149,931690,Himno,5803,91.0,['singleplayer']
 149,150,1092710,Hello Neighbor Alpha 1,3975,93.0,['singleplayer']
-150,151,1085510,Garfield Kart - Furious Racing,14904,88.0,['multiplayer']
-151,152,518150,Intruder,6834,90.0,['multiplayer']
+150,151,1085510,Garfield Kart - Furious Racing,14903,88.0,['multiplayer']
+151,152,518150,Intruder,6836,90.0,['multiplayer']
 152,153,1184770,The Political Process,2088,96.0,['singleplayer']
-153,154,667530,Drunken Wrestlers 2,18372,87.0,['multiplayer']
+153,154,667530,Drunken Wrestlers 2,18375,87.0,['multiplayer']
 154,155,1071120,Mushroom Cats,1713,96.0,['singleplayer']
-155,156,678960,CODE VEIN,60974,83.0,"['multiplayer', 'co-op', 'singleplayer']"
+155,156,678960,CODE VEIN,60989,83.0,"['co-op', 'multiplayer', 'singleplayer']"
 156,157,1047220,Frog Detective 2: The Case of the Invisible Wizard,2127,95.0,['singleplayer']
 157,158,1198320,DOTOKOI / 像素男友,1144,99.0,['singleplayer']
 158,159,1057680,人间 The Lost We Lost,2480,94.0,['singleplayer']
-159,160,858810,Dawn of Man,17580,87.0,['singleplayer']
+159,160,858810,Dawn of Man,17581,87.0,['singleplayer']
 160,161,939600,LOVE³ -Love Cube-,2450,94.0,['singleplayer']
-161,162,1098340,Zup! 9,1910,96.0,['singleplayer']
+161,162,1098340,Zup! 9,1912,96.0,['singleplayer']
 162,163,1026820,Coloring Game,3933,92.0,['singleplayer']
-163,164,965200,Walking Zombie 2,12960,88.0,['singleplayer']
-164,165,1046930,Dota Underlords,90969,82.0,"['multiplayer', 'singleplayer']"
-165,166,976390,9-nine-:Episode 1,1873,95.0,['singleplayer']
+163,164,965200,Walking Zombie 2,12962,88.0,['singleplayer']
+164,165,1046930,Dota Underlords,90971,82.0,"['multiplayer', 'singleplayer']"
+165,166,976390,9-nine-:Episode 1,1874,95.0,['singleplayer']
 166,167,1109460,There is No GreenDam,1943,95.0,['singleplayer']
-167,168,1022450,War Selection,22883,86.0,"['multiplayer', 'singleplayer']"
-168,169,1028630,Cricket 19,3988,92.0,"['multiplayer', 'co-op', 'singleplayer']"
-169,170,970560,STEINS;GATE: My Darling's Embrace,1721,96.0,['singleplayer']
-170,171,1070330,Russian Life Simulator,8164,89.0,"['multiplayer', 'singleplayer']"
+167,168,970560,STEINS;GATE: My Darling's Embrace,1725,96.0,['singleplayer']
+168,169,1028630,Cricket 19,3990,92.0,"['co-op', 'multiplayer', 'singleplayer']"
+169,170,1022450,War Selection,22885,86.0,"['multiplayer', 'singleplayer']"
+170,171,1070330,Russian Life Simulator,8165,89.0,"['multiplayer', 'singleplayer']"
 171,172,1053680,Granny Simulator,5967,90.0,"['multiplayer', 'singleplayer']"
 172,173,1012560,Snakeybus,2521,94.0,"['multiplayer', 'singleplayer']"
-173,174,428660,Deliver Us The Moon,8949,88.0,['singleplayer']
-174,175,859570,Secret Neighbor: Hello Neighbor Multiplayer,18980,86.0,"['multiplayer', 'co-op']"
-175,176,1148510,Pretty Angel,3540,92.0,['singleplayer']
+173,174,428660,Deliver Us The Moon,8950,88.0,['singleplayer']
+174,175,859570,Secret Neighbor: Hello Neighbor Multiplayer,18985,86.0,"['co-op', 'multiplayer']"
+175,176,1148510,Pretty Angel,3541,92.0,['singleplayer']
 176,177,1205040,Granny: Chapter Two,1849,95.0,['singleplayer']
 177,178,1010890,Touhou Fantasia / 东方梦想曲,1484,96.0,['singleplayer']
 178,179,1055430,Swords and Sandals Classic Collection,2851,93.0,"['multiplayer', 'singleplayer']"
-179,180,889510,SENRAN KAGURA Burst Re:Newal,2547,93.0,['singleplayer']
+179,180,889510,SENRAN KAGURA Burst Re:Newal,2549,93.0,['singleplayer']
 180,181,965820,沉睡的法则 Things as They Are,1152,97.0,['singleplayer']
-181,182,930910,STEINS;GATE: Linear Bounded Phenogram,1192,97.0,['singleplayer']
-182,183,1187510,Rock Simulator,1819,95.0,"['multiplayer', 'co-op', 'singleplayer']"
-183,184,893180,Catherine Classic,10649,87.0,"['multiplayer', 'singleplayer']"
+181,182,930910,STEINS;GATE: Linear Bounded Phenogram,1193,97.0,['singleplayer']
+182,183,1187510,Rock Simulator,1819,95.0,"['co-op', 'multiplayer', 'singleplayer']"
+183,184,893180,Catherine Classic,10652,87.0,"['multiplayer', 'singleplayer']"
 184,185,976010,I hate this game,2504,93.0,['singleplayer']
-185,186,921570,OCTOPATH TRAVELER™,16254,86.0,['singleplayer']
+185,186,921570,OCTOPATH TRAVELER™,16255,86.0,['singleplayer']
 186,187,1144110,Open World Game: the Open World Game,2531,93.0,['singleplayer']
 187,188,1079160,Touhou Kikeijuu ~ Wily Beast and Weakest Creature.,1040,97.0,['singleplayer']
-188,189,1085660,Destiny 2,644179,77.0,"['multiplayer', 'co-op', 'singleplayer']"
-189,190,1026840,Ultra Fight Da ! Kyanta 2,1208,96.0,"['multiplayer', 'singleplayer']"
-190,191,715560,Eastshade,5295,89.0,['singleplayer']
+188,189,1085660,Destiny 2,644202,77.0,"['co-op', 'multiplayer', 'singleplayer']"
+189,190,1026840,Ultra Fight Da ! Kyanta 2,1210,96.0,"['multiplayer', 'singleplayer']"
+190,191,715560,Eastshade,5297,89.0,['singleplayer']
 191,192,979120,Autonauts,4901,90.0,['singleplayer']
 192,193,328080,Rise to Ruins,7727,88.0,['singleplayer']
-193,194,959080,Unsung Warriors - Prologue,1434,95.0,"['multiplayer', 'co-op', 'singleplayer']"
+193,194,959080,Unsung Warriors - Prologue,1434,95.0,"['co-op', 'multiplayer', 'singleplayer']"
 194,195,1012240,旅燕归航 Swallow Homing,836,98.0,['singleplayer']
-195,196,641320,Cooking Simulator,19250,85.0,['singleplayer']
+195,196,641320,Cooking Simulator,19251,85.0,['singleplayer']
 196,197,829660,No Time to Relax,2712,92.0,"['multiplayer', 'singleplayer']"
 197,198,1151080,Legend of Keepers: Prologue,2369,92.0,['singleplayer']
 198,199,1040550,Spring Falls,985,97.0,['singleplayer']
 199,200,951000,Trap Shrine,1616,94.0,['singleplayer']
 200,201,631570,Whispers of a Machine,1941,93.0,['singleplayer']
 201,202,935880,Glass Masquerade 2: Illusions,3140,91.0,['singleplayer']
-202,203,227780,Serious Sam Classics: Revolution,3707,90.0,"['multiplayer', 'co-op', 'singleplayer']"
+202,203,227780,Serious Sam Classics: Revolution,3706,90.0,"['co-op', 'multiplayer', 'singleplayer']"
 203,204,741140,Baldr Sky,1538,94.0,['singleplayer']
-204,205,952290,Zueirama,1501,94.0,['singleplayer']
+204,205,952290,Zueirama,1502,94.0,['singleplayer']
 205,206,1182370,Mr. Hopp's Playhouse,1799,93.0,['singleplayer']
-206,207,1092590,沙雕之路,1031,96.0,['singleplayer']
-207,208,665370,Mutilate-a-Doll 2,1733,94.0,['singleplayer']
-208,209,1116960,UNDEFEATED,7107,88.0,['singleplayer']
-209,210,891040,Pool 2D - Poolians,9963,86.0,"['multiplayer', 'singleplayer']"
-210,211,1070550,Don't Escape Trilogy,686,99.0,['singleplayer']
+206,207,1092590,沙雕之路,1032,96.0,['singleplayer']
+207,208,665370,Mutilate-a-Doll 2,1732,94.0,['singleplayer']
+208,209,1116960,UNDEFEATED,7106,88.0,['singleplayer']
+209,210,891040,Pool 2D - Poolians,9964,86.0,"['multiplayer', 'singleplayer']"
+210,211,1070550,Don't Escape Trilogy,687,99.0,['singleplayer']
 211,212,1080750,Mutazione,1341,95.0,['singleplayer']
-212,213,629760,MORDHAU,112979,80.0,"['multiplayer', 'co-op']"
+212,213,629760,MORDHAU,112989,80.0,"['co-op', 'multiplayer']"
 213,214,1051200,Trover Saves the Universe,3158,91.0,['singleplayer']
 214,215,559330,A Fisherman's Tale,1519,94.0,['singleplayer']
-215,216,633460,Tannenberg,9697,86.0,"['multiplayer', 'singleplayer']"
-216,217,905340,Heave Ho,2525,92.0,"['multiplayer', 'co-op', 'singleplayer']"
-217,218,699170,Fell Seal: Arbiter's Mark,6221,88.0,['singleplayer']
-218,219,924140,Hand Simulator: Survival,9899,86.0,"['multiplayer', 'co-op', 'singleplayer']"
-219,220,994730,Banner of the Maid,8092,87.0,"['multiplayer', 'singleplayer']"
+215,216,633460,Tannenberg,9698,86.0,"['multiplayer', 'singleplayer']"
+216,217,905340,Heave Ho,2525,92.0,"['co-op', 'multiplayer', 'singleplayer']"
+217,218,699170,Fell Seal: Arbiter's Mark,6222,88.0,['singleplayer']
+218,219,924140,Hand Simulator: Survival,9899,86.0,"['co-op', 'multiplayer', 'singleplayer']"
+219,220,994730,Banner of the Maid,8093,87.0,"['multiplayer', 'singleplayer']"
 220,221,657240,Tracks - The Train Set Game,1488,94.0,['singleplayer']
-221,222,1043180,Lovers of Aether,1584,94.0,['singleplayer']
-222,223,790740,Tick Tock: A Tale for Two,11596,86.0,"['multiplayer', 'co-op']"
+221,222,790740,Tick Tock: A Tale for Two,11598,86.0,"['co-op', 'multiplayer']"
+222,223,1043180,Lovers of Aether,1584,94.0,['singleplayer']
 223,224,1067900,HOME,3338,90.0,['singleplayer']
-224,225,711540,Lonely Mountains: Downhill,2966,91.0,['singleplayer']
+224,225,711540,Lonely Mountains: Downhill,2968,91.0,['singleplayer']
 225,226,1158470,Voxelgram,688,98.0,['singleplayer']
 226,227,1101450,Miss Neko,4451,89.0,['singleplayer']
-227,228,915460,ULTIMATE HARDBASS DEFENCE,2209,92.0,"['multiplayer', 'co-op', 'singleplayer']"
-228,229,563840,LOST EMBER,5153,88.0,['singleplayer']
-229,230,1065100,Golden Treasure: The Great Green,932,96.0,['singleplayer']
-230,231,1147750,Fishy,1421,94.0,['singleplayer']
-231,232,1036950,Super Jigsaw Puzzle: Generations,1092,95.0,['singleplayer']
-232,233,777130,Blush Blush,7437,87.0,['singleplayer']
+227,228,915460,ULTIMATE HARDBASS DEFENCE,2208,92.0,"['co-op', 'multiplayer', 'singleplayer']"
+228,229,563840,LOST EMBER,5154,88.0,['singleplayer']
+229,230,1065100,Golden Treasure: The Great Green,934,96.0,['singleplayer']
+230,231,1036950,Super Jigsaw Puzzle: Generations,1092,95.0,['singleplayer']
+231,232,777130,Blush Blush,7438,87.0,['singleplayer']
+232,233,1147750,Fishy,1422,94.0,['singleplayer']
 233,234,1142500,Fun with Ragdolls: The Game,5109,88.0,['singleplayer']
 234,235,1146510,Deep Sleep Trilogy,771,97.0,['singleplayer']
-235,236,572220,MageQuit,1397,94.0,"['multiplayer', 'co-op']"
+235,236,572220,MageQuit,1398,94.0,"['co-op', 'multiplayer']"
 236,237,1084570,The Lar,1088,95.0,['singleplayer']
 237,238,1005930,Timeflow – Life Sim,1597,93.0,"['multiplayer', 'singleplayer']"
-238,239,1012030,Detective Girl of the Steam City,1963,92.0,['singleplayer']
+238,239,1012030,Detective Girl of the Steam City,1962,92.0,['singleplayer']
 239,240,602320,Train Valley 2,3038,90.0,['singleplayer']
-240,241,1017900,Age of Empires: Definitive Edition,14995,84.0,"['multiplayer', 'singleplayer']"
+240,241,1017900,Age of Empires: Definitive Edition,15000,84.0,"['multiplayer', 'singleplayer']"
 241,242,865570,Pact with a witch,1661,92.0,['singleplayer']
 242,243,1044490,The Expression Amrilato,731,97.0,['singleplayer']
 243,244,1092700,Hello Neighbor Pre-Alpha,2320,91.0,['singleplayer']
 244,245,982270,Dealer's Life,1298,93.0,['singleplayer']
 245,246,939330,Tailor Tales,999,95.0,['singleplayer']
 246,247,322770,Vanishing Realms™,2573,90.0,['singleplayer']
-247,248,1057850,Neon Boost,2474,90.0,['singleplayer']
+247,248,1057850,Neon Boost,2473,90.0,['singleplayer']
 248,249,1056490,The World is Your Weapon,667,97.0,['singleplayer']
 249,250,664830,Zombotron,3473,89.0,['singleplayer']
