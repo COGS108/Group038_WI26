@@ -313,26 +313,26 @@ year,rank,name,appid,month,avg_players,peak_players,status
 2018,44,Lethal League Blaze,553310,2018-10,893.67,2538.0,ok
 2018,44,Lethal League Blaze,553310,2018-11,216.46,776.0,ok
 2018,44,Lethal League Blaze,553310,2018-12,101.63,298.0,ok
-2018,45,CrossCode,368340,2018-01,103.79,263.0,ok
-2018,45,CrossCode,368340,2018-02,50.88,107.0,ok
-2018,45,CrossCode,368340,2018-03,38.42,76.0,ok
-2018,45,CrossCode,368340,2018-04,32.35,63.0,ok
-2018,45,CrossCode,368340,2018-05,31.21,59.0,ok
-2018,45,CrossCode,368340,2018-06,37.24,80.0,ok
-2018,45,CrossCode,368340,2018-07,43.71,82.0,ok
-2018,45,CrossCode,368340,2018-08,27.23,52.0,ok
-2018,45,CrossCode,368340,2018-09,739.09,3368.0,ok
-2018,45,CrossCode,368340,2018-10,809.19,2107.0,ok
-2018,45,CrossCode,368340,2018-11,433.4,891.0,ok
-2018,45,CrossCode,368340,2018-12,494.92,1170.0,ok
-2018,46,STEINS;GATE 0,825630,2018-05,316.9,774.0,ok
-2018,46,STEINS;GATE 0,825630,2018-06,129.88,342.0,ok
-2018,46,STEINS;GATE 0,825630,2018-07,107.2,234.0,ok
-2018,46,STEINS;GATE 0,825630,2018-08,82.5,190.0,ok
-2018,46,STEINS;GATE 0,825630,2018-09,54.98,129.0,ok
-2018,46,STEINS;GATE 0,825630,2018-10,37.52,88.0,ok
-2018,46,STEINS;GATE 0,825630,2018-11,29.03,72.0,ok
-2018,46,STEINS;GATE 0,825630,2018-12,27.94,82.0,ok
+2018,45,STEINS;GATE 0,825630,2018-05,316.9,774.0,ok
+2018,45,STEINS;GATE 0,825630,2018-06,129.88,342.0,ok
+2018,45,STEINS;GATE 0,825630,2018-07,107.2,234.0,ok
+2018,45,STEINS;GATE 0,825630,2018-08,82.5,190.0,ok
+2018,45,STEINS;GATE 0,825630,2018-09,54.98,129.0,ok
+2018,45,STEINS;GATE 0,825630,2018-10,37.52,88.0,ok
+2018,45,STEINS;GATE 0,825630,2018-11,29.03,72.0,ok
+2018,45,STEINS;GATE 0,825630,2018-12,27.94,82.0,ok
+2018,46,CrossCode,368340,2018-01,103.79,263.0,ok
+2018,46,CrossCode,368340,2018-02,50.88,107.0,ok
+2018,46,CrossCode,368340,2018-03,38.42,76.0,ok
+2018,46,CrossCode,368340,2018-04,32.35,63.0,ok
+2018,46,CrossCode,368340,2018-05,31.21,59.0,ok
+2018,46,CrossCode,368340,2018-06,37.24,80.0,ok
+2018,46,CrossCode,368340,2018-07,43.71,82.0,ok
+2018,46,CrossCode,368340,2018-08,27.23,52.0,ok
+2018,46,CrossCode,368340,2018-09,739.09,3368.0,ok
+2018,46,CrossCode,368340,2018-10,809.19,2107.0,ok
+2018,46,CrossCode,368340,2018-11,433.4,891.0,ok
+2018,46,CrossCode,368340,2018-12,494.92,1170.0,ok
 2018,47,Fox Hime Zero,844930,2018-05,85.22,340.0,ok
 2018,47,Fox Hime Zero,844930,2018-06,19.42,74.0,ok
 2018,47,Fox Hime Zero,844930,2018-07,14.73,37.0,ok
@@ -576,20 +576,20 @@ year,rank,name,appid,month,avg_players,peak_players,status
 2018,78,Jurassic World Evolution,648350,2018-10,716.09,1506.0,ok
 2018,78,Jurassic World Evolution,648350,2018-11,1652.25,6575.0,ok
 2018,78,Jurassic World Evolution,648350,2018-12,3085.9,8964.0,ok
-2018,79,Mutant Year Zero: Road to Eden,760060,2018-03,0.68,4.0,ok
-2018,79,Mutant Year Zero: Road to Eden,760060,2018-12,1366.31,4013.0,ok
-2018,80,Hello Charlotte EP3: Childhood's End,760890,2018-01,11.33,67.0,ok
-2018,80,Hello Charlotte EP3: Childhood's End,760890,2018-02,2.71,11.0,ok
-2018,80,Hello Charlotte EP3: Childhood's End,760890,2018-03,4.13,16.0,ok
-2018,80,Hello Charlotte EP3: Childhood's End,760890,2018-04,2.42,10.0,ok
-2018,80,Hello Charlotte EP3: Childhood's End,760890,2018-05,1.96,9.0,ok
-2018,80,Hello Charlotte EP3: Childhood's End,760890,2018-06,2.13,9.0,ok
-2018,80,Hello Charlotte EP3: Childhood's End,760890,2018-07,2.34,11.0,ok
-2018,80,Hello Charlotte EP3: Childhood's End,760890,2018-08,2.09,9.0,ok
-2018,80,Hello Charlotte EP3: Childhood's End,760890,2018-09,3.05,15.0,ok
-2018,80,Hello Charlotte EP3: Childhood's End,760890,2018-10,2.37,13.0,ok
-2018,80,Hello Charlotte EP3: Childhood's End,760890,2018-11,2.57,10.0,ok
-2018,80,Hello Charlotte EP3: Childhood's End,760890,2018-12,2.23,11.0,ok
+2018,79,Hello Charlotte EP3: Childhood's End,760890,2018-01,11.33,67.0,ok
+2018,79,Hello Charlotte EP3: Childhood's End,760890,2018-02,2.71,11.0,ok
+2018,79,Hello Charlotte EP3: Childhood's End,760890,2018-03,4.13,16.0,ok
+2018,79,Hello Charlotte EP3: Childhood's End,760890,2018-04,2.42,10.0,ok
+2018,79,Hello Charlotte EP3: Childhood's End,760890,2018-05,1.96,9.0,ok
+2018,79,Hello Charlotte EP3: Childhood's End,760890,2018-06,2.13,9.0,ok
+2018,79,Hello Charlotte EP3: Childhood's End,760890,2018-07,2.34,11.0,ok
+2018,79,Hello Charlotte EP3: Childhood's End,760890,2018-08,2.09,9.0,ok
+2018,79,Hello Charlotte EP3: Childhood's End,760890,2018-09,3.05,15.0,ok
+2018,79,Hello Charlotte EP3: Childhood's End,760890,2018-10,2.37,13.0,ok
+2018,79,Hello Charlotte EP3: Childhood's End,760890,2018-11,2.57,10.0,ok
+2018,79,Hello Charlotte EP3: Childhood's End,760890,2018-12,2.23,11.0,ok
+2018,80,Mutant Year Zero: Road to Eden,760060,2018-03,0.68,4.0,ok
+2018,80,Mutant Year Zero: Road to Eden,760060,2018-12,1366.31,4013.0,ok
 2018,81,For The King,527230,2018-01,360.06,1115.0,ok
 2018,81,For The King,527230,2018-02,164.07,339.0,ok
 2018,81,For The King,527230,2018-03,119.57,234.0,ok
@@ -695,14 +695,14 @@ year,rank,name,appid,month,avg_players,peak_players,status
 2018,95,The Hex,510420,2018-11,8.46,25.0,ok
 2018,95,The Hex,510420,2018-12,21.81,91.0,ok
 2018,96,Katamari Damacy REROLL,848350,2018-12,128.37,352.0,ok
-2018,97,GROUND BRANCH,16900,2018-08,71.45,185.0,ok
-2018,97,GROUND BRANCH,16900,2018-09,25.44,64.0,ok
-2018,97,GROUND BRANCH,16900,2018-10,17.98,60.0,ok
-2018,97,GROUND BRANCH,16900,2018-11,13.74,46.0,ok
-2018,97,GROUND BRANCH,16900,2018-12,42.83,91.0,ok
-2018,98,Dark Deception,332950,2018-10,29.11,69.0,ok
-2018,98,Dark Deception,332950,2018-11,16.38,97.0,ok
-2018,98,Dark Deception,332950,2018-12,10.38,27.0,ok
+2018,97,Dark Deception,332950,2018-10,29.11,69.0,ok
+2018,97,Dark Deception,332950,2018-11,16.38,97.0,ok
+2018,97,Dark Deception,332950,2018-12,10.38,27.0,ok
+2018,98,GROUND BRANCH,16900,2018-08,71.45,185.0,ok
+2018,98,GROUND BRANCH,16900,2018-09,25.44,64.0,ok
+2018,98,GROUND BRANCH,16900,2018-10,17.98,60.0,ok
+2018,98,GROUND BRANCH,16900,2018-11,13.74,46.0,ok
+2018,98,GROUND BRANCH,16900,2018-12,42.83,91.0,ok
 2018,99,"Guns, Gore and Cannoli 2",525510,2018-01,0.56,4.0,ok
 2018,99,"Guns, Gore and Cannoli 2",525510,2018-02,1.05,7.0,ok
 2018,99,"Guns, Gore and Cannoli 2",525510,2018-03,82.1,337.0,ok
@@ -770,12 +770,12 @@ year,rank,name,appid,month,avg_players,peak_players,status
 2018,106,Distance,233610,2018-10,54.19,183.0,ok
 2018,106,Distance,233610,2018-11,34.02,87.0,ok
 2018,106,Distance,233610,2018-12,43.22,112.0,ok
-2018,107,Wandersong,530320,2018-01,0.07,1.0,ok
-2018,107,Wandersong,530320,2018-10,16.58,52.0,ok
-2018,107,Wandersong,530320,2018-11,8.79,26.0,ok
-2018,107,Wandersong,530320,2018-12,10.17,43.0,ok
-2018,108,The Witch's House MV,885810,2018-11,30.63,151.0,ok
-2018,108,The Witch's House MV,885810,2018-12,10.78,36.0,ok
+2018,107,The Witch's House MV,885810,2018-11,30.63,151.0,ok
+2018,107,The Witch's House MV,885810,2018-12,10.78,36.0,ok
+2018,108,Wandersong,530320,2018-01,0.07,1.0,ok
+2018,108,Wandersong,530320,2018-10,16.58,52.0,ok
+2018,108,Wandersong,530320,2018-11,8.79,26.0,ok
+2018,108,Wandersong,530320,2018-12,10.17,43.0,ok
 2018,109,Bloodstained: Curse of the Moon,838310,2018-05,417.73,954.0,ok
 2018,109,Bloodstained: Curse of the Moon,838310,2018-06,111.76,333.0,ok
 2018,109,Bloodstained: Curse of the Moon,838310,2018-07,33.65,84.0,ok
@@ -806,11 +806,11 @@ year,rank,name,appid,month,avg_players,peak_players,status
 2018,115,Moss,846470,2018-10,7.84,33.0,ok
 2018,115,Moss,846470,2018-11,9.67,48.0,ok
 2018,115,Moss,846470,2018-12,16.92,60.0,ok
-2018,117,Hentai Girl Linda,927890,2018-12,46.09,382.0,ok
-2018,118,428: Shibuya Scramble,648580,2018-09,15.09,42.0,ok
-2018,118,428: Shibuya Scramble,648580,2018-10,3.35,13.0,ok
-2018,118,428: Shibuya Scramble,648580,2018-11,5.07,25.0,ok
-2018,118,428: Shibuya Scramble,648580,2018-12,8.74,30.0,ok
+2018,117,428: Shibuya Scramble,648580,2018-09,15.09,42.0,ok
+2018,117,428: Shibuya Scramble,648580,2018-10,3.35,13.0,ok
+2018,117,428: Shibuya Scramble,648580,2018-11,5.07,25.0,ok
+2018,117,428: Shibuya Scramble,648580,2018-12,8.74,30.0,ok
+2018,118,Hentai Girl Linda,927890,2018-12,46.09,382.0,ok
 2018,119,UNDER NIGHT IN-BIRTH Exe:Late[cl-r],801630,2018-08,431.09,854.0,ok
 2018,119,UNDER NIGHT IN-BIRTH Exe:Late[cl-r],801630,2018-09,153.37,380.0,ok
 2018,119,UNDER NIGHT IN-BIRTH Exe:Late[cl-r],801630,2018-10,83.2,173.0,ok
@@ -886,10 +886,12 @@ year,rank,name,appid,month,avg_players,peak_players,status
 2018,129,Unavowed,336140,2018-10,13.36,41.0,ok
 2018,129,Unavowed,336140,2018-11,11.38,38.0,ok
 2018,129,Unavowed,336140,2018-12,16.3,65.0,ok
-2018,131,War of Rights,424030,2018-01,23.22,165.0,ok
-2018,131,War of Rights,424030,2018-02,20.02,132.0,ok
-2018,131,War of Rights,424030,2018-03,34.21,198.0,ok
-2018,131,War of Rights,424030,2018-12,382.71,1112.0,ok
+2018,130,War of Rights,424030,2018-01,23.22,165.0,ok
+2018,130,War of Rights,424030,2018-02,20.02,132.0,ok
+2018,130,War of Rights,424030,2018-03,34.21,198.0,ok
+2018,130,War of Rights,424030,2018-12,382.71,1112.0,ok
+2018,131,Hentai Girl Hime,963690,2018-11,32.89,298.0,ok
+2018,131,Hentai Girl Hime,963690,2018-12,28.32,105.0,ok
 2018,132,The House in Fata Morgana: A Requiem for Innocence,804700,2018-05,18.33,50.0,ok
 2018,132,The House in Fata Morgana: A Requiem for Innocence,804700,2018-06,4.06,14.0,ok
 2018,132,The House in Fata Morgana: A Requiem for Innocence,804700,2018-07,2.85,11.0,ok
@@ -919,6 +921,7 @@ year,rank,name,appid,month,avg_players,peak_players,status
 2018,135,FINAL FANTASY XII THE ZODIAC AGE,595520,2018-10,182.39,318.0,ok
 2018,135,FINAL FANTASY XII THE ZODIAC AGE,595520,2018-11,250.55,700.0,ok
 2018,135,FINAL FANTASY XII THE ZODIAC AGE,595520,2018-12,400.09,893.0,ok
+2018,136,The Crown of Leaves,604330,2018-12,6.94,32.0,ok
 2018,137,DCS World Steam Edition,223750,2018-01,309.33,563.0,ok
 2018,137,DCS World Steam Edition,223750,2018-02,316.71,647.0,ok
 2018,137,DCS World Steam Edition,223750,2018-03,263.51,475.0,ok
@@ -1053,13 +1056,13 @@ year,rank,name,appid,month,avg_players,peak_players,status
 2018,153,The Legend of Heroes: Trails of Cold Steel II,748490,2018-10,71.99,119.0,ok
 2018,153,The Legend of Heroes: Trails of Cold Steel II,748490,2018-11,114.74,231.0,ok
 2018,153,The Legend of Heroes: Trails of Cold Steel II,748490,2018-12,123.09,216.0,ok
-2018,156,The Gardens Between,600990,2018-01,0.09,1.0,ok
-2018,156,The Gardens Between,600990,2018-02,0.08,1.0,ok
-2018,156,The Gardens Between,600990,2018-03,0.05,1.0,ok
-2018,156,The Gardens Between,600990,2018-09,12.78,39.0,ok
-2018,156,The Gardens Between,600990,2018-10,2.48,15.0,ok
-2018,156,The Gardens Between,600990,2018-11,1.71,8.0,ok
-2018,156,The Gardens Between,600990,2018-12,2.4,13.0,ok
+2018,155,The Gardens Between,600990,2018-01,0.09,1.0,ok
+2018,155,The Gardens Between,600990,2018-02,0.08,1.0,ok
+2018,155,The Gardens Between,600990,2018-03,0.05,1.0,ok
+2018,155,The Gardens Between,600990,2018-09,12.78,39.0,ok
+2018,155,The Gardens Between,600990,2018-10,2.48,15.0,ok
+2018,155,The Gardens Between,600990,2018-11,1.71,8.0,ok
+2018,155,The Gardens Between,600990,2018-12,2.4,13.0,ok
 2018,157,Project Hospital,868360,2018-11,780.66,2648.0,ok
 2018,157,Project Hospital,868360,2018-12,375.51,1106.0,ok
 2018,158,Cheeky Chooks,922460,2018-11,124.43,420.0,ok
@@ -1086,6 +1089,14 @@ year,rank,name,appid,month,avg_players,peak_players,status
 2018,160,Delete,773670,2018-10,1.18,6.0,ok
 2018,160,Delete,773670,2018-11,1.27,6.0,ok
 2018,160,Delete,773670,2018-12,2.02,11.0,ok
+2018,161,RetroMaze,852110,2018-05,0.61,4.0,ok
+2018,161,RetroMaze,852110,2018-06,0.22,3.0,ok
+2018,161,RetroMaze,852110,2018-07,0.32,4.0,ok
+2018,161,RetroMaze,852110,2018-08,0.21,3.0,ok
+2018,161,RetroMaze,852110,2018-09,0.3,4.0,ok
+2018,161,RetroMaze,852110,2018-10,0.27,4.0,ok
+2018,161,RetroMaze,852110,2018-11,0.16,3.0,ok
+2018,161,RetroMaze,852110,2018-12,0.31,3.0,ok
 2018,162,FINAL FANTASY XV WINDOWS EDITION,637650,2018-01,12.2,43.0,ok
 2018,162,FINAL FANTASY XV WINDOWS EDITION,637650,2018-02,15.31,43.0,ok
 2018,162,FINAL FANTASY XV WINDOWS EDITION,637650,2018-03,10128.71,29279.0,ok
@@ -1098,6 +1109,7 @@ year,rank,name,appid,month,avg_players,peak_players,status
 2018,162,FINAL FANTASY XV WINDOWS EDITION,637650,2018-10,1745.49,3809.0,ok
 2018,162,FINAL FANTASY XV WINDOWS EDITION,637650,2018-11,1106.21,2207.0,ok
 2018,162,FINAL FANTASY XV WINDOWS EDITION,637650,2018-12,1365.07,2969.0,ok
+2018,163,永冻之壳 The Shell of Permafrost,976940,2018-12,9.46,30.0,ok
 2018,164,Lost in Vivo,963710,2018-11,3.06,16.0,ok
 2018,164,Lost in Vivo,963710,2018-12,20.07,74.0,ok
 2018,165,Dragon Cliff,758190,2018-01,6.3,118.0,ok
@@ -1112,21 +1124,21 @@ year,rank,name,appid,month,avg_players,peak_players,status
 2018,165,Dragon Cliff,758190,2018-10,231.24,497.0,ok
 2018,165,Dragon Cliff,758190,2018-11,217.63,355.0,ok
 2018,165,Dragon Cliff,758190,2018-12,183.74,415.0,ok
-2018,166,Aimtastic,757240,2018-01,8.66,78.0,ok
-2018,166,Aimtastic,757240,2018-02,29.93,100.0,ok
-2018,166,Aimtastic,757240,2018-03,21.78,49.0,ok
-2018,166,Aimtastic,757240,2018-04,26.69,67.0,ok
-2018,166,Aimtastic,757240,2018-05,23.38,51.0,ok
-2018,166,Aimtastic,757240,2018-06,27.35,69.0,ok
-2018,166,Aimtastic,757240,2018-07,34.93,74.0,ok
-2018,166,Aimtastic,757240,2018-08,34.69,147.0,ok
-2018,166,Aimtastic,757240,2018-09,47.85,142.0,ok
-2018,166,Aimtastic,757240,2018-10,39.36,85.0,ok
-2018,166,Aimtastic,757240,2018-11,30.82,65.0,ok
-2018,166,Aimtastic,757240,2018-12,36.05,85.0,ok
-2018,167,The Ditzy Demons Are in Love With Me,802870,2018-10,101.66,139.0,ok
-2018,167,The Ditzy Demons Are in Love With Me,802870,2018-11,49.51,127.0,ok
-2018,167,The Ditzy Demons Are in Love With Me,802870,2018-12,35.12,83.0,ok
+2018,166,The Ditzy Demons Are in Love With Me,802870,2018-10,101.66,139.0,ok
+2018,166,The Ditzy Demons Are in Love With Me,802870,2018-11,49.51,127.0,ok
+2018,166,The Ditzy Demons Are in Love With Me,802870,2018-12,35.12,83.0,ok
+2018,167,Aimtastic,757240,2018-01,8.66,78.0,ok
+2018,167,Aimtastic,757240,2018-02,29.93,100.0,ok
+2018,167,Aimtastic,757240,2018-03,21.78,49.0,ok
+2018,167,Aimtastic,757240,2018-04,26.69,67.0,ok
+2018,167,Aimtastic,757240,2018-05,23.38,51.0,ok
+2018,167,Aimtastic,757240,2018-06,27.35,69.0,ok
+2018,167,Aimtastic,757240,2018-07,34.93,74.0,ok
+2018,167,Aimtastic,757240,2018-08,34.69,147.0,ok
+2018,167,Aimtastic,757240,2018-09,47.85,142.0,ok
+2018,167,Aimtastic,757240,2018-10,39.36,85.0,ok
+2018,167,Aimtastic,757240,2018-11,30.82,65.0,ok
+2018,167,Aimtastic,757240,2018-12,36.05,85.0,ok
 2018,168,Equilinox,853550,2018-11,257.1,485.0,ok
 2018,168,Equilinox,853550,2018-12,193.22,584.0,ok
 2018,169,EXAPUNKS,716490,2018-08,287.0,750.0,ok
@@ -1204,18 +1216,18 @@ year,rank,name,appid,month,avg_players,peak_players,status
 2018,180,Heroes of Hammerwatch,677120,2018-10,201.28,412.0,ok
 2018,180,Heroes of Hammerwatch,677120,2018-11,171.44,381.0,ok
 2018,180,Heroes of Hammerwatch,677120,2018-12,279.3,793.0,ok
-2018,183,Dig or Die,315460,2018-01,58.76,140.0,ok
-2018,183,Dig or Die,315460,2018-02,51.22,114.0,ok
-2018,183,Dig or Die,315460,2018-03,45.15,110.0,ok
-2018,183,Dig or Die,315460,2018-04,42.89,96.0,ok
-2018,183,Dig or Die,315460,2018-05,46.18,99.0,ok
-2018,183,Dig or Die,315460,2018-06,47.66,108.0,ok
-2018,183,Dig or Die,315460,2018-07,242.55,842.0,ok
-2018,183,Dig or Die,315460,2018-08,111.63,314.0,ok
-2018,183,Dig or Die,315460,2018-09,81.12,175.0,ok
-2018,183,Dig or Die,315460,2018-10,63.28,191.0,ok
-2018,183,Dig or Die,315460,2018-11,41.3,111.0,ok
-2018,183,Dig or Die,315460,2018-12,39.83,93.0,ok
+2018,182,Dig or Die,315460,2018-01,58.76,140.0,ok
+2018,182,Dig or Die,315460,2018-02,51.22,114.0,ok
+2018,182,Dig or Die,315460,2018-03,45.15,110.0,ok
+2018,182,Dig or Die,315460,2018-04,42.89,96.0,ok
+2018,182,Dig or Die,315460,2018-05,46.18,99.0,ok
+2018,182,Dig or Die,315460,2018-06,47.66,108.0,ok
+2018,182,Dig or Die,315460,2018-07,242.55,842.0,ok
+2018,182,Dig or Die,315460,2018-08,111.63,314.0,ok
+2018,182,Dig or Die,315460,2018-09,81.12,175.0,ok
+2018,182,Dig or Die,315460,2018-10,63.28,191.0,ok
+2018,182,Dig or Die,315460,2018-11,41.3,111.0,ok
+2018,182,Dig or Die,315460,2018-12,39.83,93.0,ok
 2018,184,7 Billion Humans,792100,2018-08,393.67,701.0,ok
 2018,184,7 Billion Humans,792100,2018-09,137.84,423.0,ok
 2018,184,7 Billion Humans,792100,2018-10,39.91,101.0,ok
@@ -1265,12 +1277,12 @@ year,rank,name,appid,month,avg_players,peak_players,status
 2018,193,Touhou Genso Wanderer -Reloaded-,931500,2018-10,532.28,1178.0,ok
 2018,193,Touhou Genso Wanderer -Reloaded-,931500,2018-11,305.34,1107.0,ok
 2018,193,Touhou Genso Wanderer -Reloaded-,931500,2018-12,133.38,355.0,ok
-2018,194,Circle Empires,834740,2018-08,242.71,1003.0,ok
-2018,194,Circle Empires,834740,2018-09,65.06,165.0,ok
-2018,194,Circle Empires,834740,2018-10,82.92,353.0,ok
-2018,194,Circle Empires,834740,2018-11,83.57,269.0,ok
-2018,194,Circle Empires,834740,2018-12,110.98,319.0,ok
-2018,195,Beholder 2,761620,2018-12,492.13,1939.0,ok
+2018,194,Beholder 2,761620,2018-12,492.13,1939.0,ok
+2018,195,Circle Empires,834740,2018-08,242.71,1003.0,ok
+2018,195,Circle Empires,834740,2018-09,65.06,165.0,ok
+2018,195,Circle Empires,834740,2018-10,82.92,353.0,ok
+2018,195,Circle Empires,834740,2018-11,83.57,269.0,ok
+2018,195,Circle Empires,834740,2018-12,110.98,319.0,ok
 2018,196,Hakuoki: Edo Blossoms,733340,2018-01,2.15,8.0,ok
 2018,196,Hakuoki: Edo Blossoms,733340,2018-02,2.02,8.0,ok
 2018,196,Hakuoki: Edo Blossoms,733340,2018-03,32.56,114.0,ok
@@ -1328,6 +1340,16 @@ year,rank,name,appid,month,avg_players,peak_players,status
 2018,203,Full Metal Furies,416600,2018-10,12.39,41.0,ok
 2018,203,Full Metal Furies,416600,2018-11,22.27,89.0,ok
 2018,203,Full Metal Furies,416600,2018-12,42.1,132.0,ok
+2018,205,Adventure of a Lifetime,820730,2018-05,2.2,11.0,ok
+2018,205,Adventure of a Lifetime,820730,2018-06,2.47,12.0,ok
+2018,205,Adventure of a Lifetime,820730,2018-07,1.27,12.0,ok
+2018,205,Adventure of a Lifetime,820730,2018-08,2.03,13.0,ok
+2018,205,Adventure of a Lifetime,820730,2018-09,0.99,6.0,ok
+2018,205,Adventure of a Lifetime,820730,2018-10,1.5,7.0,ok
+2018,205,Adventure of a Lifetime,820730,2018-11,1.06,5.0,ok
+2018,205,Adventure of a Lifetime,820730,2018-12,1.15,6.0,ok
+2018,206,Super Ledgehop: Double Laser,787070,2018-11,2.72,19.0,ok
+2018,206,Super Ledgehop: Double Laser,787070,2018-12,1.41,7.0,ok
 2018,207,The Adventure Pals,396710,2018-01,0.15,2.0,ok
 2018,207,The Adventure Pals,396710,2018-02,0.13,2.0,ok
 2018,207,The Adventure Pals,396710,2018-03,0.27,3.0,ok
@@ -1413,6 +1435,12 @@ year,rank,name,appid,month,avg_players,peak_players,status
 2018,224,Hiveswap Friendsim,833040,2018-10,25.08,347.0,ok
 2018,224,Hiveswap Friendsim,833040,2018-11,24.04,396.0,ok
 2018,224,Hiveswap Friendsim,833040,2018-12,41.57,634.0,ok
+2018,225,淑女同萌！,783120,2018-07,24.12,111.0,ok
+2018,225,淑女同萌！,783120,2018-08,4.82,16.0,ok
+2018,225,淑女同萌！,783120,2018-09,4.86,21.0,ok
+2018,225,淑女同萌！,783120,2018-10,2.88,16.0,ok
+2018,225,淑女同萌！,783120,2018-11,1.78,16.0,ok
+2018,225,淑女同萌！,783120,2018-12,2.24,11.0,ok
 2018,226,LEGO® The Incredibles,818320,2018-06,140.12,284.0,ok
 2018,226,LEGO® The Incredibles,818320,2018-07,97.41,204.0,ok
 2018,226,LEGO® The Incredibles,818320,2018-08,62.81,145.0,ok
@@ -1439,46 +1467,46 @@ year,rank,name,appid,month,avg_players,peak_players,status
 2018,229,The friends of Ringo Ishikawa,846110,2018-10,2.23,11.0,ok
 2018,229,The friends of Ringo Ishikawa,846110,2018-11,3.96,19.0,ok
 2018,229,The friends of Ringo Ishikawa,846110,2018-12,2.69,13.0,ok
-2018,230,NavalArt,842780,2018-06,1.05,8.0,ok
-2018,230,NavalArt,842780,2018-07,0.28,3.0,ok
-2018,230,NavalArt,842780,2018-08,0.37,4.0,ok
-2018,230,NavalArt,842780,2018-09,0.47,4.0,ok
-2018,230,NavalArt,842780,2018-10,0.48,6.0,ok
-2018,230,NavalArt,842780,2018-11,0.4,3.0,ok
-2018,230,NavalArt,842780,2018-12,1.5,7.0,ok
-2018,231,"Football, Tactics & Glory",375530,2018-01,38.66,93.0,ok
-2018,231,"Football, Tactics & Glory",375530,2018-02,47.68,119.0,ok
-2018,231,"Football, Tactics & Glory",375530,2018-03,37.9,84.0,ok
-2018,231,"Football, Tactics & Glory",375530,2018-04,66.54,186.0,ok
-2018,231,"Football, Tactics & Glory",375530,2018-05,46.21,105.0,ok
-2018,231,"Football, Tactics & Glory",375530,2018-06,327.57,720.0,ok
-2018,231,"Football, Tactics & Glory",375530,2018-07,354.24,721.0,ok
-2018,231,"Football, Tactics & Glory",375530,2018-08,152.41,335.0,ok
-2018,231,"Football, Tactics & Glory",375530,2018-09,79.97,205.0,ok
-2018,231,"Football, Tactics & Glory",375530,2018-10,53.69,114.0,ok
-2018,231,"Football, Tactics & Glory",375530,2018-11,47.56,105.0,ok
-2018,231,"Football, Tactics & Glory",375530,2018-12,49.08,117.0,ok
-2018,232,Cyberdimension Neptunia: 4 Goddesses Online,632350,2018-01,0.64,5.0,ok
-2018,232,Cyberdimension Neptunia: 4 Goddesses Online,632350,2018-02,83.13,3753.0,ok
-2018,232,Cyberdimension Neptunia: 4 Goddesses Online,632350,2018-03,629.47,3578.0,ok
-2018,232,Cyberdimension Neptunia: 4 Goddesses Online,632350,2018-04,78.04,190.0,ok
-2018,232,Cyberdimension Neptunia: 4 Goddesses Online,632350,2018-05,142.37,768.0,ok
-2018,232,Cyberdimension Neptunia: 4 Goddesses Online,632350,2018-06,101.86,356.0,ok
-2018,232,Cyberdimension Neptunia: 4 Goddesses Online,632350,2018-07,91.31,258.0,ok
-2018,232,Cyberdimension Neptunia: 4 Goddesses Online,632350,2018-08,41.29,91.0,ok
-2018,232,Cyberdimension Neptunia: 4 Goddesses Online,632350,2018-09,53.01,162.0,ok
-2018,232,Cyberdimension Neptunia: 4 Goddesses Online,632350,2018-10,29.13,117.0,ok
-2018,232,Cyberdimension Neptunia: 4 Goddesses Online,632350,2018-11,52.69,167.0,ok
-2018,232,Cyberdimension Neptunia: 4 Goddesses Online,632350,2018-12,52.26,128.0,ok
+2018,230,"Football, Tactics & Glory",375530,2018-01,38.66,93.0,ok
+2018,230,"Football, Tactics & Glory",375530,2018-02,47.68,119.0,ok
+2018,230,"Football, Tactics & Glory",375530,2018-03,37.9,84.0,ok
+2018,230,"Football, Tactics & Glory",375530,2018-04,66.54,186.0,ok
+2018,230,"Football, Tactics & Glory",375530,2018-05,46.21,105.0,ok
+2018,230,"Football, Tactics & Glory",375530,2018-06,327.57,720.0,ok
+2018,230,"Football, Tactics & Glory",375530,2018-07,354.24,721.0,ok
+2018,230,"Football, Tactics & Glory",375530,2018-08,152.41,335.0,ok
+2018,230,"Football, Tactics & Glory",375530,2018-09,79.97,205.0,ok
+2018,230,"Football, Tactics & Glory",375530,2018-10,53.69,114.0,ok
+2018,230,"Football, Tactics & Glory",375530,2018-11,47.56,105.0,ok
+2018,230,"Football, Tactics & Glory",375530,2018-12,49.08,117.0,ok
+2018,231,Cyberdimension Neptunia: 4 Goddesses Online,632350,2018-01,0.64,5.0,ok
+2018,231,Cyberdimension Neptunia: 4 Goddesses Online,632350,2018-02,83.13,3753.0,ok
+2018,231,Cyberdimension Neptunia: 4 Goddesses Online,632350,2018-03,629.47,3578.0,ok
+2018,231,Cyberdimension Neptunia: 4 Goddesses Online,632350,2018-04,78.04,190.0,ok
+2018,231,Cyberdimension Neptunia: 4 Goddesses Online,632350,2018-05,142.37,768.0,ok
+2018,231,Cyberdimension Neptunia: 4 Goddesses Online,632350,2018-06,101.86,356.0,ok
+2018,231,Cyberdimension Neptunia: 4 Goddesses Online,632350,2018-07,91.31,258.0,ok
+2018,231,Cyberdimension Neptunia: 4 Goddesses Online,632350,2018-08,41.29,91.0,ok
+2018,231,Cyberdimension Neptunia: 4 Goddesses Online,632350,2018-09,53.01,162.0,ok
+2018,231,Cyberdimension Neptunia: 4 Goddesses Online,632350,2018-10,29.13,117.0,ok
+2018,231,Cyberdimension Neptunia: 4 Goddesses Online,632350,2018-11,52.69,167.0,ok
+2018,231,Cyberdimension Neptunia: 4 Goddesses Online,632350,2018-12,52.26,128.0,ok
+2018,232,Strange Brigade,312670,2018-01,2.0,19.0,ok
+2018,232,Strange Brigade,312670,2018-02,1.46,12.0,ok
+2018,232,Strange Brigade,312670,2018-03,1.5,17.0,ok
+2018,232,Strange Brigade,312670,2018-09,290.75,1324.0,ok
+2018,232,Strange Brigade,312670,2018-10,110.69,246.0,ok
+2018,232,Strange Brigade,312670,2018-11,142.63,511.0,ok
+2018,232,Strange Brigade,312670,2018-12,114.71,368.0,ok
 2018,233,Snow Daze: The Music of Winter Special Edition,852480,2018-11,27.49,112.0,ok
 2018,233,Snow Daze: The Music of Winter Special Edition,852480,2018-12,10.96,34.0,ok
-2018,234,Strange Brigade,312670,2018-01,2.0,19.0,ok
-2018,234,Strange Brigade,312670,2018-02,1.46,12.0,ok
-2018,234,Strange Brigade,312670,2018-03,1.5,17.0,ok
-2018,234,Strange Brigade,312670,2018-09,290.75,1324.0,ok
-2018,234,Strange Brigade,312670,2018-10,110.69,246.0,ok
-2018,234,Strange Brigade,312670,2018-11,142.63,511.0,ok
-2018,234,Strange Brigade,312670,2018-12,114.71,368.0,ok
+2018,234,NavalArt,842780,2018-06,1.05,8.0,ok
+2018,234,NavalArt,842780,2018-07,0.28,3.0,ok
+2018,234,NavalArt,842780,2018-08,0.37,4.0,ok
+2018,234,NavalArt,842780,2018-09,0.47,4.0,ok
+2018,234,NavalArt,842780,2018-10,0.48,6.0,ok
+2018,234,NavalArt,842780,2018-11,0.4,3.0,ok
+2018,234,NavalArt,842780,2018-12,1.5,7.0,ok
 2018,235,WARRIORS OROCHI 4,831560,2018-10,2171.69,5834.0,ok
 2018,235,WARRIORS OROCHI 4,831560,2018-11,578.64,2241.0,ok
 2018,235,WARRIORS OROCHI 4,831560,2018-12,284.48,742.0,ok
@@ -1526,18 +1554,18 @@ year,rank,name,appid,month,avg_players,peak_players,status
 2018,241,Octogeddon,525620,2018-10,21.51,45.0,ok
 2018,241,Octogeddon,525620,2018-11,21.5,41.0,ok
 2018,241,Octogeddon,525620,2018-12,18.76,42.0,ok
-2018,242,AirMech,206500,2018-01,68.11,193.0,ok
-2018,242,AirMech,206500,2018-02,88.42,188.0,ok
-2018,242,AirMech,206500,2018-03,118.53,1004.0,ok
-2018,242,AirMech,206500,2018-04,511.83,1476.0,ok
-2018,242,AirMech,206500,2018-05,215.88,429.0,ok
-2018,242,AirMech,206500,2018-06,135.08,283.0,ok
-2018,242,AirMech,206500,2018-07,101.65,194.0,ok
-2018,242,AirMech,206500,2018-08,89.52,176.0,ok
-2018,242,AirMech,206500,2018-09,102.41,467.0,ok
-2018,242,AirMech,206500,2018-10,60.48,141.0,ok
-2018,242,AirMech,206500,2018-11,48.53,109.0,ok
-2018,242,AirMech,206500,2018-12,50.39,115.0,ok
+2018,243,AirMech,206500,2018-01,68.11,193.0,ok
+2018,243,AirMech,206500,2018-02,88.42,188.0,ok
+2018,243,AirMech,206500,2018-03,118.53,1004.0,ok
+2018,243,AirMech,206500,2018-04,511.83,1476.0,ok
+2018,243,AirMech,206500,2018-05,215.88,429.0,ok
+2018,243,AirMech,206500,2018-06,135.08,283.0,ok
+2018,243,AirMech,206500,2018-07,101.65,194.0,ok
+2018,243,AirMech,206500,2018-08,89.52,176.0,ok
+2018,243,AirMech,206500,2018-09,102.41,467.0,ok
+2018,243,AirMech,206500,2018-10,60.48,141.0,ok
+2018,243,AirMech,206500,2018-11,48.53,109.0,ok
+2018,243,AirMech,206500,2018-12,50.39,115.0,ok
 2018,244,Orion Sandbox Enhanced,929670,2018-09,2.69,12.0,ok
 2018,244,Orion Sandbox Enhanced,929670,2018-10,1.92,8.0,ok
 2018,244,Orion Sandbox Enhanced,929670,2018-11,1.64,7.0,ok
@@ -1553,6 +1581,14 @@ year,rank,name,appid,month,avg_players,peak_players,status
 2018,246,Evenicle,955560,2018-10,121.54,264.0,ok
 2018,246,Evenicle,955560,2018-11,53.61,106.0,ok
 2018,246,Evenicle,955560,2018-12,54.2,119.0,ok
+2018,249,Mini-Dead,851530,2018-05,9.8,34.0,ok
+2018,249,Mini-Dead,851530,2018-06,4.08,13.0,ok
+2018,249,Mini-Dead,851530,2018-07,2.05,11.0,ok
+2018,249,Mini-Dead,851530,2018-08,1.35,7.0,ok
+2018,249,Mini-Dead,851530,2018-09,0.89,76.0,ok
+2018,249,Mini-Dead,851530,2018-10,0.44,4.0,ok
+2018,249,Mini-Dead,851530,2018-11,0.48,4.0,ok
+2018,249,Mini-Dead,851530,2018-12,0.54,4.0,ok
 2018,250,The Crooked Man,736570,2018-01,6.02,19.0,ok
 2018,250,The Crooked Man,736570,2018-02,3.31,12.0,ok
 2018,250,The Crooked Man,736570,2018-03,3.15,11.0,ok

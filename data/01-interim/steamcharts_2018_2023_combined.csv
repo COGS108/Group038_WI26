@@ -316,26 +316,26 @@ year,rank,name,appid,month,avg_players,peak_players,status
 2018,44,Lethal League Blaze,553310,2018-10,893.67,2538.0,ok
 2018,44,Lethal League Blaze,553310,2018-11,216.46,776.0,ok
 2018,44,Lethal League Blaze,553310,2018-12,101.63,298.0,ok
-2018,45,CrossCode,368340,2018-01,103.79,263.0,ok
-2018,45,CrossCode,368340,2018-02,50.88,107.0,ok
-2018,45,CrossCode,368340,2018-03,38.42,76.0,ok
-2018,45,CrossCode,368340,2018-04,32.35,63.0,ok
-2018,45,CrossCode,368340,2018-05,31.21,59.0,ok
-2018,45,CrossCode,368340,2018-06,37.24,80.0,ok
-2018,45,CrossCode,368340,2018-07,43.71,82.0,ok
-2018,45,CrossCode,368340,2018-08,27.23,52.0,ok
-2018,45,CrossCode,368340,2018-09,739.09,3368.0,ok
-2018,45,CrossCode,368340,2018-10,809.19,2107.0,ok
-2018,45,CrossCode,368340,2018-11,433.4,891.0,ok
-2018,45,CrossCode,368340,2018-12,494.92,1170.0,ok
-2018,46,STEINS;GATE 0,825630,2018-05,316.9,774.0,ok
-2018,46,STEINS;GATE 0,825630,2018-06,129.88,342.0,ok
-2018,46,STEINS;GATE 0,825630,2018-07,107.2,234.0,ok
-2018,46,STEINS;GATE 0,825630,2018-08,82.5,190.0,ok
-2018,46,STEINS;GATE 0,825630,2018-09,54.98,129.0,ok
-2018,46,STEINS;GATE 0,825630,2018-10,37.52,88.0,ok
-2018,46,STEINS;GATE 0,825630,2018-11,29.03,72.0,ok
-2018,46,STEINS;GATE 0,825630,2018-12,27.94,82.0,ok
+2018,45,STEINS;GATE 0,825630,2018-05,316.9,774.0,ok
+2018,45,STEINS;GATE 0,825630,2018-06,129.88,342.0,ok
+2018,45,STEINS;GATE 0,825630,2018-07,107.2,234.0,ok
+2018,45,STEINS;GATE 0,825630,2018-08,82.5,190.0,ok
+2018,45,STEINS;GATE 0,825630,2018-09,54.98,129.0,ok
+2018,45,STEINS;GATE 0,825630,2018-10,37.52,88.0,ok
+2018,45,STEINS;GATE 0,825630,2018-11,29.03,72.0,ok
+2018,45,STEINS;GATE 0,825630,2018-12,27.94,82.0,ok
+2018,46,CrossCode,368340,2018-01,103.79,263.0,ok
+2018,46,CrossCode,368340,2018-02,50.88,107.0,ok
+2018,46,CrossCode,368340,2018-03,38.42,76.0,ok
+2018,46,CrossCode,368340,2018-04,32.35,63.0,ok
+2018,46,CrossCode,368340,2018-05,31.21,59.0,ok
+2018,46,CrossCode,368340,2018-06,37.24,80.0,ok
+2018,46,CrossCode,368340,2018-07,43.71,82.0,ok
+2018,46,CrossCode,368340,2018-08,27.23,52.0,ok
+2018,46,CrossCode,368340,2018-09,739.09,3368.0,ok
+2018,46,CrossCode,368340,2018-10,809.19,2107.0,ok
+2018,46,CrossCode,368340,2018-11,433.4,891.0,ok
+2018,46,CrossCode,368340,2018-12,494.92,1170.0,ok
 2018,47,Fox Hime Zero,844930,2018-05,85.22,340.0,ok
 2018,47,Fox Hime Zero,844930,2018-06,19.42,74.0,ok
 2018,47,Fox Hime Zero,844930,2018-07,14.73,37.0,ok
@@ -580,20 +580,20 @@ year,rank,name,appid,month,avg_players,peak_players,status
 2018,78,Jurassic World Evolution,648350,2018-10,716.09,1506.0,ok
 2018,78,Jurassic World Evolution,648350,2018-11,1652.25,6575.0,ok
 2018,78,Jurassic World Evolution,648350,2018-12,3085.9,8964.0,ok
-2018,79,Mutant Year Zero: Road to Eden,760060,2018-03,0.68,4.0,ok
-2018,79,Mutant Year Zero: Road to Eden,760060,2018-12,1366.31,4013.0,ok
-2018,80,Hello Charlotte EP3: Childhood's End,760890,2018-01,11.33,67.0,ok
-2018,80,Hello Charlotte EP3: Childhood's End,760890,2018-02,2.71,11.0,ok
-2018,80,Hello Charlotte EP3: Childhood's End,760890,2018-03,4.13,16.0,ok
-2018,80,Hello Charlotte EP3: Childhood's End,760890,2018-04,2.42,10.0,ok
-2018,80,Hello Charlotte EP3: Childhood's End,760890,2018-05,1.96,9.0,ok
-2018,80,Hello Charlotte EP3: Childhood's End,760890,2018-06,2.13,9.0,ok
-2018,80,Hello Charlotte EP3: Childhood's End,760890,2018-07,2.34,11.0,ok
-2018,80,Hello Charlotte EP3: Childhood's End,760890,2018-08,2.09,9.0,ok
-2018,80,Hello Charlotte EP3: Childhood's End,760890,2018-09,3.05,15.0,ok
-2018,80,Hello Charlotte EP3: Childhood's End,760890,2018-10,2.37,13.0,ok
-2018,80,Hello Charlotte EP3: Childhood's End,760890,2018-11,2.57,10.0,ok
-2018,80,Hello Charlotte EP3: Childhood's End,760890,2018-12,2.23,11.0,ok
+2018,79,Hello Charlotte EP3: Childhood's End,760890,2018-01,11.33,67.0,ok
+2018,79,Hello Charlotte EP3: Childhood's End,760890,2018-02,2.71,11.0,ok
+2018,79,Hello Charlotte EP3: Childhood's End,760890,2018-03,4.13,16.0,ok
+2018,79,Hello Charlotte EP3: Childhood's End,760890,2018-04,2.42,10.0,ok
+2018,79,Hello Charlotte EP3: Childhood's End,760890,2018-05,1.96,9.0,ok
+2018,79,Hello Charlotte EP3: Childhood's End,760890,2018-06,2.13,9.0,ok
+2018,79,Hello Charlotte EP3: Childhood's End,760890,2018-07,2.34,11.0,ok
+2018,79,Hello Charlotte EP3: Childhood's End,760890,2018-08,2.09,9.0,ok
+2018,79,Hello Charlotte EP3: Childhood's End,760890,2018-09,3.05,15.0,ok
+2018,79,Hello Charlotte EP3: Childhood's End,760890,2018-10,2.37,13.0,ok
+2018,79,Hello Charlotte EP3: Childhood's End,760890,2018-11,2.57,10.0,ok
+2018,79,Hello Charlotte EP3: Childhood's End,760890,2018-12,2.23,11.0,ok
+2018,80,Mutant Year Zero: Road to Eden,760060,2018-03,0.68,4.0,ok
+2018,80,Mutant Year Zero: Road to Eden,760060,2018-12,1366.31,4013.0,ok
 2018,81,For The King,527230,2018-01,360.06,1115.0,ok
 2018,81,For The King,527230,2018-02,164.07,339.0,ok
 2018,81,For The King,527230,2018-03,119.57,234.0,ok
@@ -700,14 +700,14 @@ year,rank,name,appid,month,avg_players,peak_players,status
 2018,95,The Hex,510420,2018-11,8.46,25.0,ok
 2018,95,The Hex,510420,2018-12,21.81,91.0,ok
 2018,96,Katamari Damacy REROLL,848350,2018-12,128.37,352.0,ok
-2018,97,GROUND BRANCH,16900,2018-08,71.45,185.0,ok
-2018,97,GROUND BRANCH,16900,2018-09,25.44,64.0,ok
-2018,97,GROUND BRANCH,16900,2018-10,17.98,60.0,ok
-2018,97,GROUND BRANCH,16900,2018-11,13.74,46.0,ok
-2018,97,GROUND BRANCH,16900,2018-12,42.83,91.0,ok
-2018,98,Dark Deception,332950,2018-10,29.11,69.0,ok
-2018,98,Dark Deception,332950,2018-11,16.38,97.0,ok
-2018,98,Dark Deception,332950,2018-12,10.38,27.0,ok
+2018,97,Dark Deception,332950,2018-10,29.11,69.0,ok
+2018,97,Dark Deception,332950,2018-11,16.38,97.0,ok
+2018,97,Dark Deception,332950,2018-12,10.38,27.0,ok
+2018,98,GROUND BRANCH,16900,2018-08,71.45,185.0,ok
+2018,98,GROUND BRANCH,16900,2018-09,25.44,64.0,ok
+2018,98,GROUND BRANCH,16900,2018-10,17.98,60.0,ok
+2018,98,GROUND BRANCH,16900,2018-11,13.74,46.0,ok
+2018,98,GROUND BRANCH,16900,2018-12,42.83,91.0,ok
 2018,99,"Guns, Gore and Cannoli 2",525510,2018-01,0.56,4.0,ok
 2018,99,"Guns, Gore and Cannoli 2",525510,2018-02,1.05,7.0,ok
 2018,99,"Guns, Gore and Cannoli 2",525510,2018-03,82.1,337.0,ok
@@ -775,12 +775,12 @@ year,rank,name,appid,month,avg_players,peak_players,status
 2018,106,Distance,233610,2018-10,54.19,183.0,ok
 2018,106,Distance,233610,2018-11,34.02,87.0,ok
 2018,106,Distance,233610,2018-12,43.22,112.0,ok
-2018,107,Wandersong,530320,2018-01,0.07,1.0,ok
-2018,107,Wandersong,530320,2018-10,16.58,52.0,ok
-2018,107,Wandersong,530320,2018-11,8.79,26.0,ok
-2018,107,Wandersong,530320,2018-12,10.17,43.0,ok
-2018,108,The Witch's House MV,885810,2018-11,30.63,151.0,ok
-2018,108,The Witch's House MV,885810,2018-12,10.78,36.0,ok
+2018,107,The Witch's House MV,885810,2018-11,30.63,151.0,ok
+2018,107,The Witch's House MV,885810,2018-12,10.78,36.0,ok
+2018,108,Wandersong,530320,2018-01,0.07,1.0,ok
+2018,108,Wandersong,530320,2018-10,16.58,52.0,ok
+2018,108,Wandersong,530320,2018-11,8.79,26.0,ok
+2018,108,Wandersong,530320,2018-12,10.17,43.0,ok
 2018,109,Bloodstained: Curse of the Moon,838310,2018-05,417.73,954.0,ok
 2018,109,Bloodstained: Curse of the Moon,838310,2018-06,111.76,333.0,ok
 2018,109,Bloodstained: Curse of the Moon,838310,2018-07,33.65,84.0,ok
@@ -813,11 +813,11 @@ year,rank,name,appid,month,avg_players,peak_players,status
 2018,115,Moss,846470,2018-11,9.67,48.0,ok
 2018,115,Moss,846470,2018-12,16.92,60.0,ok
 2018,116,"one night, hot springs",917680,,,,request_error
-2018,117,Hentai Girl Linda,927890,2018-12,46.09,382.0,ok
-2018,118,428: Shibuya Scramble,648580,2018-09,15.09,42.0,ok
-2018,118,428: Shibuya Scramble,648580,2018-10,3.35,13.0,ok
-2018,118,428: Shibuya Scramble,648580,2018-11,5.07,25.0,ok
-2018,118,428: Shibuya Scramble,648580,2018-12,8.74,30.0,ok
+2018,117,428: Shibuya Scramble,648580,2018-09,15.09,42.0,ok
+2018,117,428: Shibuya Scramble,648580,2018-10,3.35,13.0,ok
+2018,117,428: Shibuya Scramble,648580,2018-11,5.07,25.0,ok
+2018,117,428: Shibuya Scramble,648580,2018-12,8.74,30.0,ok
+2018,118,Hentai Girl Linda,927890,2018-12,46.09,382.0,ok
 2018,119,UNDER NIGHT IN-BIRTH Exe:Late[cl-r],801630,2018-08,431.09,854.0,ok
 2018,119,UNDER NIGHT IN-BIRTH Exe:Late[cl-r],801630,2018-09,153.37,380.0,ok
 2018,119,UNDER NIGHT IN-BIRTH Exe:Late[cl-r],801630,2018-10,83.2,173.0,ok
@@ -894,11 +894,12 @@ year,rank,name,appid,month,avg_players,peak_players,status
 2018,129,Unavowed,336140,2018-10,13.36,41.0,ok
 2018,129,Unavowed,336140,2018-11,11.38,38.0,ok
 2018,129,Unavowed,336140,2018-12,16.3,65.0,ok
-2018,130,Hentai Girl Hime,963690,,,,request_error
-2018,131,War of Rights,424030,2018-01,23.22,165.0,ok
-2018,131,War of Rights,424030,2018-02,20.02,132.0,ok
-2018,131,War of Rights,424030,2018-03,34.21,198.0,ok
-2018,131,War of Rights,424030,2018-12,382.71,1112.0,ok
+2018,130,War of Rights,424030,2018-01,23.22,165.0,ok
+2018,130,War of Rights,424030,2018-02,20.02,132.0,ok
+2018,130,War of Rights,424030,2018-03,34.21,198.0,ok
+2018,130,War of Rights,424030,2018-12,382.71,1112.0,ok
+2018,131,Hentai Girl Hime,963690,2018-11,32.89,298.0,ok
+2018,131,Hentai Girl Hime,963690,2018-12,28.32,105.0,ok
 2018,132,The House in Fata Morgana: A Requiem for Innocence,804700,2018-05,18.33,50.0,ok
 2018,132,The House in Fata Morgana: A Requiem for Innocence,804700,2018-06,4.06,14.0,ok
 2018,132,The House in Fata Morgana: A Requiem for Innocence,804700,2018-07,2.85,11.0,ok
@@ -928,7 +929,7 @@ year,rank,name,appid,month,avg_players,peak_players,status
 2018,135,FINAL FANTASY XII THE ZODIAC AGE,595520,2018-10,182.39,318.0,ok
 2018,135,FINAL FANTASY XII THE ZODIAC AGE,595520,2018-11,250.55,700.0,ok
 2018,135,FINAL FANTASY XII THE ZODIAC AGE,595520,2018-12,400.09,893.0,ok
-2018,136,The Crown of Leaves,604330,,,,request_error
+2018,136,The Crown of Leaves,604330,2018-12,6.94,32.0,ok
 2018,137,DCS World Steam Edition,223750,2018-01,309.33,563.0,ok
 2018,137,DCS World Steam Edition,223750,2018-02,316.71,647.0,ok
 2018,137,DCS World Steam Edition,223750,2018-03,263.51,475.0,ok
@@ -1066,15 +1067,15 @@ year,rank,name,appid,month,avg_players,peak_players,status
 2018,153,The Legend of Heroes: Trails of Cold Steel II,748490,2018-10,71.99,119.0,ok
 2018,153,The Legend of Heroes: Trails of Cold Steel II,748490,2018-11,114.74,231.0,ok
 2018,153,The Legend of Heroes: Trails of Cold Steel II,748490,2018-12,123.09,216.0,ok
-2018,154,The Jackbox Party Pack 5,774461,,,,request_error
-2018,155,Jet Island,587220,,,,request_error
-2018,156,The Gardens Between,600990,2018-01,0.09,1.0,ok
-2018,156,The Gardens Between,600990,2018-02,0.08,1.0,ok
-2018,156,The Gardens Between,600990,2018-03,0.05,1.0,ok
-2018,156,The Gardens Between,600990,2018-09,12.78,39.0,ok
-2018,156,The Gardens Between,600990,2018-10,2.48,15.0,ok
-2018,156,The Gardens Between,600990,2018-11,1.71,8.0,ok
-2018,156,The Gardens Between,600990,2018-12,2.4,13.0,ok
+2018,154,Jet Island,587220,,,,request_error
+2018,155,The Gardens Between,600990,2018-01,0.09,1.0,ok
+2018,155,The Gardens Between,600990,2018-02,0.08,1.0,ok
+2018,155,The Gardens Between,600990,2018-03,0.05,1.0,ok
+2018,155,The Gardens Between,600990,2018-09,12.78,39.0,ok
+2018,155,The Gardens Between,600990,2018-10,2.48,15.0,ok
+2018,155,The Gardens Between,600990,2018-11,1.71,8.0,ok
+2018,155,The Gardens Between,600990,2018-12,2.4,13.0,ok
+2018,156,The Jackbox Party Pack 5,774461,,,,request_error
 2018,157,Project Hospital,868360,2018-11,780.66,2648.0,ok
 2018,157,Project Hospital,868360,2018-12,375.51,1106.0,ok
 2018,158,Cheeky Chooks,922460,2018-11,124.43,420.0,ok
@@ -1101,7 +1102,14 @@ year,rank,name,appid,month,avg_players,peak_players,status
 2018,160,Delete,773670,2018-10,1.18,6.0,ok
 2018,160,Delete,773670,2018-11,1.27,6.0,ok
 2018,160,Delete,773670,2018-12,2.02,11.0,ok
-2018,161,RetroMaze,852110,,,,request_error
+2018,161,RetroMaze,852110,2018-05,0.61,4.0,ok
+2018,161,RetroMaze,852110,2018-06,0.22,3.0,ok
+2018,161,RetroMaze,852110,2018-07,0.32,4.0,ok
+2018,161,RetroMaze,852110,2018-08,0.21,3.0,ok
+2018,161,RetroMaze,852110,2018-09,0.3,4.0,ok
+2018,161,RetroMaze,852110,2018-10,0.27,4.0,ok
+2018,161,RetroMaze,852110,2018-11,0.16,3.0,ok
+2018,161,RetroMaze,852110,2018-12,0.31,3.0,ok
 2018,162,FINAL FANTASY XV WINDOWS EDITION,637650,2018-01,12.2,43.0,ok
 2018,162,FINAL FANTASY XV WINDOWS EDITION,637650,2018-02,15.31,43.0,ok
 2018,162,FINAL FANTASY XV WINDOWS EDITION,637650,2018-03,10128.71,29279.0,ok
@@ -1114,7 +1122,7 @@ year,rank,name,appid,month,avg_players,peak_players,status
 2018,162,FINAL FANTASY XV WINDOWS EDITION,637650,2018-10,1745.49,3809.0,ok
 2018,162,FINAL FANTASY XV WINDOWS EDITION,637650,2018-11,1106.21,2207.0,ok
 2018,162,FINAL FANTASY XV WINDOWS EDITION,637650,2018-12,1365.07,2969.0,ok
-2018,163,永冻之壳 The Shell of Permafrost,976940,,,,request_error
+2018,163,永冻之壳 The Shell of Permafrost,976940,2018-12,9.46,30.0,ok
 2018,164,Lost in Vivo,963710,2018-11,3.06,16.0,ok
 2018,164,Lost in Vivo,963710,2018-12,20.07,74.0,ok
 2018,165,Dragon Cliff,758190,2018-01,6.3,118.0,ok
@@ -1129,21 +1137,21 @@ year,rank,name,appid,month,avg_players,peak_players,status
 2018,165,Dragon Cliff,758190,2018-10,231.24,497.0,ok
 2018,165,Dragon Cliff,758190,2018-11,217.63,355.0,ok
 2018,165,Dragon Cliff,758190,2018-12,183.74,415.0,ok
-2018,166,Aimtastic,757240,2018-01,8.66,78.0,ok
-2018,166,Aimtastic,757240,2018-02,29.93,100.0,ok
-2018,166,Aimtastic,757240,2018-03,21.78,49.0,ok
-2018,166,Aimtastic,757240,2018-04,26.69,67.0,ok
-2018,166,Aimtastic,757240,2018-05,23.38,51.0,ok
-2018,166,Aimtastic,757240,2018-06,27.35,69.0,ok
-2018,166,Aimtastic,757240,2018-07,34.93,74.0,ok
-2018,166,Aimtastic,757240,2018-08,34.69,147.0,ok
-2018,166,Aimtastic,757240,2018-09,47.85,142.0,ok
-2018,166,Aimtastic,757240,2018-10,39.36,85.0,ok
-2018,166,Aimtastic,757240,2018-11,30.82,65.0,ok
-2018,166,Aimtastic,757240,2018-12,36.05,85.0,ok
-2018,167,The Ditzy Demons Are in Love With Me,802870,2018-10,101.66,139.0,ok
-2018,167,The Ditzy Demons Are in Love With Me,802870,2018-11,49.51,127.0,ok
-2018,167,The Ditzy Demons Are in Love With Me,802870,2018-12,35.12,83.0,ok
+2018,166,The Ditzy Demons Are in Love With Me,802870,2018-10,101.66,139.0,ok
+2018,166,The Ditzy Demons Are in Love With Me,802870,2018-11,49.51,127.0,ok
+2018,166,The Ditzy Demons Are in Love With Me,802870,2018-12,35.12,83.0,ok
+2018,167,Aimtastic,757240,2018-01,8.66,78.0,ok
+2018,167,Aimtastic,757240,2018-02,29.93,100.0,ok
+2018,167,Aimtastic,757240,2018-03,21.78,49.0,ok
+2018,167,Aimtastic,757240,2018-04,26.69,67.0,ok
+2018,167,Aimtastic,757240,2018-05,23.38,51.0,ok
+2018,167,Aimtastic,757240,2018-06,27.35,69.0,ok
+2018,167,Aimtastic,757240,2018-07,34.93,74.0,ok
+2018,167,Aimtastic,757240,2018-08,34.69,147.0,ok
+2018,167,Aimtastic,757240,2018-09,47.85,142.0,ok
+2018,167,Aimtastic,757240,2018-10,39.36,85.0,ok
+2018,167,Aimtastic,757240,2018-11,30.82,65.0,ok
+2018,167,Aimtastic,757240,2018-12,36.05,85.0,ok
 2018,168,Equilinox,853550,2018-11,257.1,485.0,ok
 2018,168,Equilinox,853550,2018-12,193.22,584.0,ok
 2018,169,EXAPUNKS,716490,2018-08,287.0,750.0,ok
@@ -1224,19 +1232,19 @@ year,rank,name,appid,month,avg_players,peak_players,status
 2018,180,Heroes of Hammerwatch,677120,2018-11,171.44,381.0,ok
 2018,180,Heroes of Hammerwatch,677120,2018-12,279.3,793.0,ok
 2018,181,Hexologic,785890,,,,request_error
-2018,182,Scalak,858760,,,,request_error
-2018,183,Dig or Die,315460,2018-01,58.76,140.0,ok
-2018,183,Dig or Die,315460,2018-02,51.22,114.0,ok
-2018,183,Dig or Die,315460,2018-03,45.15,110.0,ok
-2018,183,Dig or Die,315460,2018-04,42.89,96.0,ok
-2018,183,Dig or Die,315460,2018-05,46.18,99.0,ok
-2018,183,Dig or Die,315460,2018-06,47.66,108.0,ok
-2018,183,Dig or Die,315460,2018-07,242.55,842.0,ok
-2018,183,Dig or Die,315460,2018-08,111.63,314.0,ok
-2018,183,Dig or Die,315460,2018-09,81.12,175.0,ok
-2018,183,Dig or Die,315460,2018-10,63.28,191.0,ok
-2018,183,Dig or Die,315460,2018-11,41.3,111.0,ok
-2018,183,Dig or Die,315460,2018-12,39.83,93.0,ok
+2018,182,Dig or Die,315460,2018-01,58.76,140.0,ok
+2018,182,Dig or Die,315460,2018-02,51.22,114.0,ok
+2018,182,Dig or Die,315460,2018-03,45.15,110.0,ok
+2018,182,Dig or Die,315460,2018-04,42.89,96.0,ok
+2018,182,Dig or Die,315460,2018-05,46.18,99.0,ok
+2018,182,Dig or Die,315460,2018-06,47.66,108.0,ok
+2018,182,Dig or Die,315460,2018-07,242.55,842.0,ok
+2018,182,Dig or Die,315460,2018-08,111.63,314.0,ok
+2018,182,Dig or Die,315460,2018-09,81.12,175.0,ok
+2018,182,Dig or Die,315460,2018-10,63.28,191.0,ok
+2018,182,Dig or Die,315460,2018-11,41.3,111.0,ok
+2018,182,Dig or Die,315460,2018-12,39.83,93.0,ok
+2018,183,Scalak,858760,,,,request_error
 2018,184,7 Billion Humans,792100,2018-08,393.67,701.0,ok
 2018,184,7 Billion Humans,792100,2018-09,137.84,423.0,ok
 2018,184,7 Billion Humans,792100,2018-10,39.91,101.0,ok
@@ -1287,12 +1295,12 @@ year,rank,name,appid,month,avg_players,peak_players,status
 2018,193,Touhou Genso Wanderer -Reloaded-,931500,2018-10,532.28,1178.0,ok
 2018,193,Touhou Genso Wanderer -Reloaded-,931500,2018-11,305.34,1107.0,ok
 2018,193,Touhou Genso Wanderer -Reloaded-,931500,2018-12,133.38,355.0,ok
-2018,194,Circle Empires,834740,2018-08,242.71,1003.0,ok
-2018,194,Circle Empires,834740,2018-09,65.06,165.0,ok
-2018,194,Circle Empires,834740,2018-10,82.92,353.0,ok
-2018,194,Circle Empires,834740,2018-11,83.57,269.0,ok
-2018,194,Circle Empires,834740,2018-12,110.98,319.0,ok
-2018,195,Beholder 2,761620,2018-12,492.13,1939.0,ok
+2018,194,Beholder 2,761620,2018-12,492.13,1939.0,ok
+2018,195,Circle Empires,834740,2018-08,242.71,1003.0,ok
+2018,195,Circle Empires,834740,2018-09,65.06,165.0,ok
+2018,195,Circle Empires,834740,2018-10,82.92,353.0,ok
+2018,195,Circle Empires,834740,2018-11,83.57,269.0,ok
+2018,195,Circle Empires,834740,2018-12,110.98,319.0,ok
 2018,196,Hakuoki: Edo Blossoms,733340,2018-01,2.15,8.0,ok
 2018,196,Hakuoki: Edo Blossoms,733340,2018-02,2.02,8.0,ok
 2018,196,Hakuoki: Edo Blossoms,733340,2018-03,32.56,114.0,ok
@@ -1351,8 +1359,16 @@ year,rank,name,appid,month,avg_players,peak_players,status
 2018,203,Full Metal Furies,416600,2018-11,22.27,89.0,ok
 2018,203,Full Metal Furies,416600,2018-12,42.1,132.0,ok
 2018,204,Kabounce,431930,,,,request_error
-2018,205,Adventure of a Lifetime,820730,,,,request_error
-2018,206,Super Ledgehop: Double Laser,787070,,,,request_error
+2018,205,Adventure of a Lifetime,820730,2018-05,2.2,11.0,ok
+2018,205,Adventure of a Lifetime,820730,2018-06,2.47,12.0,ok
+2018,205,Adventure of a Lifetime,820730,2018-07,1.27,12.0,ok
+2018,205,Adventure of a Lifetime,820730,2018-08,2.03,13.0,ok
+2018,205,Adventure of a Lifetime,820730,2018-09,0.99,6.0,ok
+2018,205,Adventure of a Lifetime,820730,2018-10,1.5,7.0,ok
+2018,205,Adventure of a Lifetime,820730,2018-11,1.06,5.0,ok
+2018,205,Adventure of a Lifetime,820730,2018-12,1.15,6.0,ok
+2018,206,Super Ledgehop: Double Laser,787070,2018-11,2.72,19.0,ok
+2018,206,Super Ledgehop: Double Laser,787070,2018-12,1.41,7.0,ok
 2018,207,The Adventure Pals,396710,2018-01,0.15,2.0,ok
 2018,207,The Adventure Pals,396710,2018-02,0.13,2.0,ok
 2018,207,The Adventure Pals,396710,2018-03,0.27,3.0,ok
@@ -1443,7 +1459,12 @@ year,rank,name,appid,month,avg_players,peak_players,status
 2018,224,Hiveswap Friendsim,833040,2018-10,25.08,347.0,ok
 2018,224,Hiveswap Friendsim,833040,2018-11,24.04,396.0,ok
 2018,224,Hiveswap Friendsim,833040,2018-12,41.57,634.0,ok
-2018,225,淑女同萌！,783120,,,,request_error
+2018,225,淑女同萌！,783120,2018-07,24.12,111.0,ok
+2018,225,淑女同萌！,783120,2018-08,4.82,16.0,ok
+2018,225,淑女同萌！,783120,2018-09,4.86,21.0,ok
+2018,225,淑女同萌！,783120,2018-10,2.88,16.0,ok
+2018,225,淑女同萌！,783120,2018-11,1.78,16.0,ok
+2018,225,淑女同萌！,783120,2018-12,2.24,11.0,ok
 2018,226,LEGO® The Incredibles,818320,2018-06,140.12,284.0,ok
 2018,226,LEGO® The Incredibles,818320,2018-07,97.41,204.0,ok
 2018,226,LEGO® The Incredibles,818320,2018-08,62.81,145.0,ok
@@ -1470,46 +1491,46 @@ year,rank,name,appid,month,avg_players,peak_players,status
 2018,229,The friends of Ringo Ishikawa,846110,2018-10,2.23,11.0,ok
 2018,229,The friends of Ringo Ishikawa,846110,2018-11,3.96,19.0,ok
 2018,229,The friends of Ringo Ishikawa,846110,2018-12,2.69,13.0,ok
-2018,230,NavalArt,842780,2018-06,1.05,8.0,ok
-2018,230,NavalArt,842780,2018-07,0.28,3.0,ok
-2018,230,NavalArt,842780,2018-08,0.37,4.0,ok
-2018,230,NavalArt,842780,2018-09,0.47,4.0,ok
-2018,230,NavalArt,842780,2018-10,0.48,6.0,ok
-2018,230,NavalArt,842780,2018-11,0.4,3.0,ok
-2018,230,NavalArt,842780,2018-12,1.5,7.0,ok
-2018,231,"Football, Tactics & Glory",375530,2018-01,38.66,93.0,ok
-2018,231,"Football, Tactics & Glory",375530,2018-02,47.68,119.0,ok
-2018,231,"Football, Tactics & Glory",375530,2018-03,37.9,84.0,ok
-2018,231,"Football, Tactics & Glory",375530,2018-04,66.54,186.0,ok
-2018,231,"Football, Tactics & Glory",375530,2018-05,46.21,105.0,ok
-2018,231,"Football, Tactics & Glory",375530,2018-06,327.57,720.0,ok
-2018,231,"Football, Tactics & Glory",375530,2018-07,354.24,721.0,ok
-2018,231,"Football, Tactics & Glory",375530,2018-08,152.41,335.0,ok
-2018,231,"Football, Tactics & Glory",375530,2018-09,79.97,205.0,ok
-2018,231,"Football, Tactics & Glory",375530,2018-10,53.69,114.0,ok
-2018,231,"Football, Tactics & Glory",375530,2018-11,47.56,105.0,ok
-2018,231,"Football, Tactics & Glory",375530,2018-12,49.08,117.0,ok
-2018,232,Cyberdimension Neptunia: 4 Goddesses Online,632350,2018-01,0.64,5.0,ok
-2018,232,Cyberdimension Neptunia: 4 Goddesses Online,632350,2018-02,83.13,3753.0,ok
-2018,232,Cyberdimension Neptunia: 4 Goddesses Online,632350,2018-03,629.47,3578.0,ok
-2018,232,Cyberdimension Neptunia: 4 Goddesses Online,632350,2018-04,78.04,190.0,ok
-2018,232,Cyberdimension Neptunia: 4 Goddesses Online,632350,2018-05,142.37,768.0,ok
-2018,232,Cyberdimension Neptunia: 4 Goddesses Online,632350,2018-06,101.86,356.0,ok
-2018,232,Cyberdimension Neptunia: 4 Goddesses Online,632350,2018-07,91.31,258.0,ok
-2018,232,Cyberdimension Neptunia: 4 Goddesses Online,632350,2018-08,41.29,91.0,ok
-2018,232,Cyberdimension Neptunia: 4 Goddesses Online,632350,2018-09,53.01,162.0,ok
-2018,232,Cyberdimension Neptunia: 4 Goddesses Online,632350,2018-10,29.13,117.0,ok
-2018,232,Cyberdimension Neptunia: 4 Goddesses Online,632350,2018-11,52.69,167.0,ok
-2018,232,Cyberdimension Neptunia: 4 Goddesses Online,632350,2018-12,52.26,128.0,ok
+2018,230,"Football, Tactics & Glory",375530,2018-01,38.66,93.0,ok
+2018,230,"Football, Tactics & Glory",375530,2018-02,47.68,119.0,ok
+2018,230,"Football, Tactics & Glory",375530,2018-03,37.9,84.0,ok
+2018,230,"Football, Tactics & Glory",375530,2018-04,66.54,186.0,ok
+2018,230,"Football, Tactics & Glory",375530,2018-05,46.21,105.0,ok
+2018,230,"Football, Tactics & Glory",375530,2018-06,327.57,720.0,ok
+2018,230,"Football, Tactics & Glory",375530,2018-07,354.24,721.0,ok
+2018,230,"Football, Tactics & Glory",375530,2018-08,152.41,335.0,ok
+2018,230,"Football, Tactics & Glory",375530,2018-09,79.97,205.0,ok
+2018,230,"Football, Tactics & Glory",375530,2018-10,53.69,114.0,ok
+2018,230,"Football, Tactics & Glory",375530,2018-11,47.56,105.0,ok
+2018,230,"Football, Tactics & Glory",375530,2018-12,49.08,117.0,ok
+2018,231,Cyberdimension Neptunia: 4 Goddesses Online,632350,2018-01,0.64,5.0,ok
+2018,231,Cyberdimension Neptunia: 4 Goddesses Online,632350,2018-02,83.13,3753.0,ok
+2018,231,Cyberdimension Neptunia: 4 Goddesses Online,632350,2018-03,629.47,3578.0,ok
+2018,231,Cyberdimension Neptunia: 4 Goddesses Online,632350,2018-04,78.04,190.0,ok
+2018,231,Cyberdimension Neptunia: 4 Goddesses Online,632350,2018-05,142.37,768.0,ok
+2018,231,Cyberdimension Neptunia: 4 Goddesses Online,632350,2018-06,101.86,356.0,ok
+2018,231,Cyberdimension Neptunia: 4 Goddesses Online,632350,2018-07,91.31,258.0,ok
+2018,231,Cyberdimension Neptunia: 4 Goddesses Online,632350,2018-08,41.29,91.0,ok
+2018,231,Cyberdimension Neptunia: 4 Goddesses Online,632350,2018-09,53.01,162.0,ok
+2018,231,Cyberdimension Neptunia: 4 Goddesses Online,632350,2018-10,29.13,117.0,ok
+2018,231,Cyberdimension Neptunia: 4 Goddesses Online,632350,2018-11,52.69,167.0,ok
+2018,231,Cyberdimension Neptunia: 4 Goddesses Online,632350,2018-12,52.26,128.0,ok
+2018,232,Strange Brigade,312670,2018-01,2.0,19.0,ok
+2018,232,Strange Brigade,312670,2018-02,1.46,12.0,ok
+2018,232,Strange Brigade,312670,2018-03,1.5,17.0,ok
+2018,232,Strange Brigade,312670,2018-09,290.75,1324.0,ok
+2018,232,Strange Brigade,312670,2018-10,110.69,246.0,ok
+2018,232,Strange Brigade,312670,2018-11,142.63,511.0,ok
+2018,232,Strange Brigade,312670,2018-12,114.71,368.0,ok
 2018,233,Snow Daze: The Music of Winter Special Edition,852480,2018-11,27.49,112.0,ok
 2018,233,Snow Daze: The Music of Winter Special Edition,852480,2018-12,10.96,34.0,ok
-2018,234,Strange Brigade,312670,2018-01,2.0,19.0,ok
-2018,234,Strange Brigade,312670,2018-02,1.46,12.0,ok
-2018,234,Strange Brigade,312670,2018-03,1.5,17.0,ok
-2018,234,Strange Brigade,312670,2018-09,290.75,1324.0,ok
-2018,234,Strange Brigade,312670,2018-10,110.69,246.0,ok
-2018,234,Strange Brigade,312670,2018-11,142.63,511.0,ok
-2018,234,Strange Brigade,312670,2018-12,114.71,368.0,ok
+2018,234,NavalArt,842780,2018-06,1.05,8.0,ok
+2018,234,NavalArt,842780,2018-07,0.28,3.0,ok
+2018,234,NavalArt,842780,2018-08,0.37,4.0,ok
+2018,234,NavalArt,842780,2018-09,0.47,4.0,ok
+2018,234,NavalArt,842780,2018-10,0.48,6.0,ok
+2018,234,NavalArt,842780,2018-11,0.4,3.0,ok
+2018,234,NavalArt,842780,2018-12,1.5,7.0,ok
 2018,235,WARRIORS OROCHI 4,831560,2018-10,2171.69,5834.0,ok
 2018,235,WARRIORS OROCHI 4,831560,2018-11,578.64,2241.0,ok
 2018,235,WARRIORS OROCHI 4,831560,2018-12,284.48,742.0,ok
@@ -1558,19 +1579,19 @@ year,rank,name,appid,month,avg_players,peak_players,status
 2018,241,Octogeddon,525620,2018-10,21.51,45.0,ok
 2018,241,Octogeddon,525620,2018-11,21.5,41.0,ok
 2018,241,Octogeddon,525620,2018-12,18.76,42.0,ok
-2018,242,AirMech,206500,2018-01,68.11,193.0,ok
-2018,242,AirMech,206500,2018-02,88.42,188.0,ok
-2018,242,AirMech,206500,2018-03,118.53,1004.0,ok
-2018,242,AirMech,206500,2018-04,511.83,1476.0,ok
-2018,242,AirMech,206500,2018-05,215.88,429.0,ok
-2018,242,AirMech,206500,2018-06,135.08,283.0,ok
-2018,242,AirMech,206500,2018-07,101.65,194.0,ok
-2018,242,AirMech,206500,2018-08,89.52,176.0,ok
-2018,242,AirMech,206500,2018-09,102.41,467.0,ok
-2018,242,AirMech,206500,2018-10,60.48,141.0,ok
-2018,242,AirMech,206500,2018-11,48.53,109.0,ok
-2018,242,AirMech,206500,2018-12,50.39,115.0,ok
-2018,243,Secret Little Haven,827290,,,,request_error
+2018,242,Secret Little Haven,827290,,,,request_error
+2018,243,AirMech,206500,2018-01,68.11,193.0,ok
+2018,243,AirMech,206500,2018-02,88.42,188.0,ok
+2018,243,AirMech,206500,2018-03,118.53,1004.0,ok
+2018,243,AirMech,206500,2018-04,511.83,1476.0,ok
+2018,243,AirMech,206500,2018-05,215.88,429.0,ok
+2018,243,AirMech,206500,2018-06,135.08,283.0,ok
+2018,243,AirMech,206500,2018-07,101.65,194.0,ok
+2018,243,AirMech,206500,2018-08,89.52,176.0,ok
+2018,243,AirMech,206500,2018-09,102.41,467.0,ok
+2018,243,AirMech,206500,2018-10,60.48,141.0,ok
+2018,243,AirMech,206500,2018-11,48.53,109.0,ok
+2018,243,AirMech,206500,2018-12,50.39,115.0,ok
 2018,244,Orion Sandbox Enhanced,929670,2018-09,2.69,12.0,ok
 2018,244,Orion Sandbox Enhanced,929670,2018-10,1.92,8.0,ok
 2018,244,Orion Sandbox Enhanced,929670,2018-11,1.64,7.0,ok
@@ -1588,7 +1609,14 @@ year,rank,name,appid,month,avg_players,peak_players,status
 2018,246,Evenicle,955560,2018-12,54.2,119.0,ok
 2018,247,Google Spotlight Stories: Age of Sail,882110,,,,request_error
 2018,248,东方试闻广纪 ~ Perfect Memento of Touhou Question,904740,,,,request_error
-2018,249,Mini-Dead,851530,,,,request_error
+2018,249,Mini-Dead,851530,2018-05,9.8,34.0,ok
+2018,249,Mini-Dead,851530,2018-06,4.08,13.0,ok
+2018,249,Mini-Dead,851530,2018-07,2.05,11.0,ok
+2018,249,Mini-Dead,851530,2018-08,1.35,7.0,ok
+2018,249,Mini-Dead,851530,2018-09,0.89,76.0,ok
+2018,249,Mini-Dead,851530,2018-10,0.44,4.0,ok
+2018,249,Mini-Dead,851530,2018-11,0.48,4.0,ok
+2018,249,Mini-Dead,851530,2018-12,0.54,4.0,ok
 2018,250,The Crooked Man,736570,2018-01,6.02,19.0,ok
 2018,250,The Crooked Man,736570,2018-02,3.31,12.0,ok
 2018,250,The Crooked Man,736570,2018-03,3.15,11.0,ok
@@ -2334,7 +2362,13 @@ year,rank,name,appid,month,avg_players,peak_players,status
 2019,108,Hot Lava,382560,2019-10,136.99,463.0,ok
 2019,108,Hot Lava,382560,2019-11,66.76,185.0,ok
 2019,108,Hot Lava,382560,2019-12,72.37,239.0,ok
-2019,109,Smile For Me,1018850,,,,request_error
+2019,109,Smile For Me,1018850,2019-06,10.63,41.0,ok
+2019,109,Smile For Me,1018850,2019-07,9.63,28.0,ok
+2019,109,Smile For Me,1018850,2019-08,13.99,39.0,ok
+2019,109,Smile For Me,1018850,2019-09,6.99,21.0,ok
+2019,109,Smile For Me,1018850,2019-10,6.4,25.0,ok
+2019,109,Smile For Me,1018850,2019-11,4.23,17.0,ok
+2019,109,Smile For Me,1018850,2019-12,5.14,22.0,ok
 2019,110,Tropico 6,492720,2019-04,3771.16,11907.0,ok
 2019,110,Tropico 6,492720,2019-05,1361.24,3434.0,ok
 2019,110,Tropico 6,492720,2019-06,875.08,1962.0,ok
@@ -2438,7 +2472,7 @@ year,rank,name,appid,month,avg_players,peak_players,status
 2019,125,DARQ: Complete Edition,433550,2019-10,4.92,22.0,ok
 2019,125,DARQ: Complete Edition,433550,2019-11,4.91,22.0,ok
 2019,125,DARQ: Complete Edition,433550,2019-12,4.61,17.0,ok
-2019,126,The Good Time Garden,1200860,,,,request_error
+2019,126,The Good Time Garden,1200860,2019-12,4.67,16.0,ok
 2019,127,Hentai Girl Fantasy,1146950,2019-11,5.44,20.0,ok
 2019,127,Hentai Girl Fantasy,1146950,2019-12,16.03,265.0,ok
 2019,128,No Time,1043340,2019-04,0.84,7.0,ok
@@ -2562,7 +2596,12 @@ year,rank,name,appid,month,avg_players,peak_players,status
 2019,143,Breeders of the Nephelym,1161770,2019-10,1091.31,2677.0,ok
 2019,143,Breeders of the Nephelym,1161770,2019-11,419.3,887.0,ok
 2019,143,Breeders of the Nephelym,1161770,2019-12,303.06,461.0,ok
-2019,144,异常 | Exception,621000,,,,request_error
+2019,144,异常 | Exception,621000,2019-07,36.15,247.0,ok
+2019,144,异常 | Exception,621000,2019-08,7.31,27.0,ok
+2019,144,异常 | Exception,621000,2019-09,7.07,43.0,ok
+2019,144,异常 | Exception,621000,2019-10,2.35,11.0,ok
+2019,144,异常 | Exception,621000,2019-11,2.08,9.0,ok
+2019,144,异常 | Exception,621000,2019-12,1.88,7.0,ok
 2019,145,Drift86,1070580,2019-05,3.93,17.0,ok
 2019,145,Drift86,1070580,2019-06,2.92,12.0,ok
 2019,145,Drift86,1070580,2019-07,4.89,17.0,ok
@@ -2682,15 +2721,15 @@ year,rank,name,appid,month,avg_players,peak_players,status
 2019,166,9-nine-:Episode 1,976390,2019-11,4.17,14.0,ok
 2019,166,9-nine-:Episode 1,976390,2019-12,3.88,14.0,ok
 2019,167,There is No GreenDam,1109460,,,,request_error
-2019,168,War Selection,1022450,2019-10,287.74,660.0,ok
-2019,168,War Selection,1022450,2019-11,439.37,986.0,ok
-2019,168,War Selection,1022450,2019-12,480.8,1267.0,ok
+2019,168,STEINS;GATE: My Darling's Embrace,970560,2019-12,26.29,54.0,ok
 2019,169,Cricket 19,1028630,2019-08,197.86,416.0,ok
 2019,169,Cricket 19,1028630,2019-09,142.73,275.0,ok
 2019,169,Cricket 19,1028630,2019-10,93.14,177.0,ok
 2019,169,Cricket 19,1028630,2019-11,81.93,158.0,ok
 2019,169,Cricket 19,1028630,2019-12,103.9,207.0,ok
-2019,170,STEINS;GATE: My Darling's Embrace,970560,2019-12,26.29,54.0,ok
+2019,170,War Selection,1022450,2019-10,287.74,660.0,ok
+2019,170,War Selection,1022450,2019-11,439.37,986.0,ok
+2019,170,War Selection,1022450,2019-12,480.8,1267.0,ok
 2019,171,Russian Life Simulator,1070330,2019-05,17.84,94.0,ok
 2019,171,Russian Life Simulator,1070330,2019-06,4.29,17.0,ok
 2019,171,Russian Life Simulator,1070330,2019-07,5.19,25.0,ok
@@ -2731,7 +2770,12 @@ year,rank,name,appid,month,avg_players,peak_players,status
 2019,175,Secret Neighbor: Hello Neighbor Multiplayer,859570,2019-12,236.28,560.0,ok
 2019,176,Pretty Angel,1148510,2019-12,16.53,97.0,ok
 2019,177,Granny: Chapter Two,1205040,,,,no_data_for_year
-2019,178,Touhou Fantasia / 东方梦想曲,1010890,,,,request_error
+2019,178,Touhou Fantasia / 东方梦想曲,1010890,2019-07,34.41,102.0,ok
+2019,178,Touhou Fantasia / 东方梦想曲,1010890,2019-08,11.85,36.0,ok
+2019,178,Touhou Fantasia / 东方梦想曲,1010890,2019-09,5.71,18.0,ok
+2019,178,Touhou Fantasia / 东方梦想曲,1010890,2019-10,4.23,18.0,ok
+2019,178,Touhou Fantasia / 东方梦想曲,1010890,2019-11,3.04,13.0,ok
+2019,178,Touhou Fantasia / 东方梦想曲,1010890,2019-12,3.28,14.0,ok
 2019,179,Swords and Sandals Classic Collection,1055430,2019-04,37.54,87.0,ok
 2019,179,Swords and Sandals Classic Collection,1055430,2019-05,13.71,40.0,ok
 2019,179,Swords and Sandals Classic Collection,1055430,2019-06,25.49,127.0,ok
@@ -2810,7 +2854,14 @@ year,rank,name,appid,month,avg_players,peak_players,status
 2019,189,Destiny 2,1085660,2019-10,165307.82,292314.0,ok
 2019,189,Destiny 2,1085660,2019-11,107955.77,195407.0,ok
 2019,189,Destiny 2,1085660,2019-12,92170.98,138593.0,ok
-2019,190,Ultra Fight Da ! Kyanta 2,1026840,,,,request_error
+2019,190,Ultra Fight Da ! Kyanta 2,1026840,2019-05,6.71,26.0,ok
+2019,190,Ultra Fight Da ! Kyanta 2,1026840,2019-06,3.22,16.0,ok
+2019,190,Ultra Fight Da ! Kyanta 2,1026840,2019-07,3.02,14.0,ok
+2019,190,Ultra Fight Da ! Kyanta 2,1026840,2019-08,9.82,42.0,ok
+2019,190,Ultra Fight Da ! Kyanta 2,1026840,2019-09,3.65,25.0,ok
+2019,190,Ultra Fight Da ! Kyanta 2,1026840,2019-10,2.88,14.0,ok
+2019,190,Ultra Fight Da ! Kyanta 2,1026840,2019-11,2.2,15.0,ok
+2019,190,Ultra Fight Da ! Kyanta 2,1026840,2019-12,2.24,9.0,ok
 2019,191,Eastshade,715560,2019-02,152.82,369.0,ok
 2019,191,Eastshade,715560,2019-03,42.39,155.0,ok
 2019,191,Eastshade,715560,2019-04,22.59,72.0,ok
@@ -2919,7 +2970,10 @@ year,rank,name,appid,month,avg_players,peak_players,status
 2019,209,UNDEFEATED,1116960,2019-11,31.6,72.0,ok
 2019,209,UNDEFEATED,1116960,2019-12,31.41,65.0,ok
 2019,210,Pool 2D - Poolians,891040,2019-12,25.57,71.0,ok
-2019,211,Don't Escape Trilogy,1070550,,,,request_error
+2019,211,Don't Escape Trilogy,1070550,2019-08,0.69,5.0,ok
+2019,211,Don't Escape Trilogy,1070550,2019-09,0.56,4.0,ok
+2019,211,Don't Escape Trilogy,1070550,2019-10,0.97,3.0,ok
+2019,211,Don't Escape Trilogy,1070550,2019-11,0.55,3.0,ok
 2019,212,Mutazione,1080750,2019-09,9.66,24.0,ok
 2019,212,Mutazione,1080750,2019-10,3.13,12.0,ok
 2019,212,Mutazione,1080750,2019-11,1.98,10.0,ok
@@ -2988,25 +3042,25 @@ year,rank,name,appid,month,avg_players,peak_players,status
 2019,221,Tracks - The Train Set Game,657240,2019-10,19.83,43.0,ok
 2019,221,Tracks - The Train Set Game,657240,2019-11,26.48,67.0,ok
 2019,221,Tracks - The Train Set Game,657240,2019-12,25.2,63.0,ok
-2019,222,Lovers of Aether,1043180,2019-04,59.23,637.0,ok
-2019,222,Lovers of Aether,1043180,2019-05,10.11,30.0,ok
-2019,222,Lovers of Aether,1043180,2019-06,7.19,19.0,ok
-2019,222,Lovers of Aether,1043180,2019-07,5.61,15.0,ok
-2019,222,Lovers of Aether,1043180,2019-08,4.09,11.0,ok
-2019,222,Lovers of Aether,1043180,2019-09,3.75,10.0,ok
-2019,222,Lovers of Aether,1043180,2019-10,3.47,11.0,ok
-2019,222,Lovers of Aether,1043180,2019-11,4.32,11.0,ok
-2019,222,Lovers of Aether,1043180,2019-12,4.01,11.0,ok
-2019,223,Tick Tock: A Tale for Two,790740,2019-03,102.42,381.0,ok
-2019,223,Tick Tock: A Tale for Two,790740,2019-04,23.43,158.0,ok
-2019,223,Tick Tock: A Tale for Two,790740,2019-05,13.19,42.0,ok
-2019,223,Tick Tock: A Tale for Two,790740,2019-06,11.11,177.0,ok
-2019,223,Tick Tock: A Tale for Two,790740,2019-07,21.59,157.0,ok
-2019,223,Tick Tock: A Tale for Two,790740,2019-08,7.82,28.0,ok
-2019,223,Tick Tock: A Tale for Two,790740,2019-09,5.16,22.0,ok
-2019,223,Tick Tock: A Tale for Two,790740,2019-10,6.1,35.0,ok
-2019,223,Tick Tock: A Tale for Two,790740,2019-11,9.55,38.0,ok
-2019,223,Tick Tock: A Tale for Two,790740,2019-12,57.06,733.0,ok
+2019,222,Tick Tock: A Tale for Two,790740,2019-03,102.42,381.0,ok
+2019,222,Tick Tock: A Tale for Two,790740,2019-04,23.43,158.0,ok
+2019,222,Tick Tock: A Tale for Two,790740,2019-05,13.19,42.0,ok
+2019,222,Tick Tock: A Tale for Two,790740,2019-06,11.11,177.0,ok
+2019,222,Tick Tock: A Tale for Two,790740,2019-07,21.59,157.0,ok
+2019,222,Tick Tock: A Tale for Two,790740,2019-08,7.82,28.0,ok
+2019,222,Tick Tock: A Tale for Two,790740,2019-09,5.16,22.0,ok
+2019,222,Tick Tock: A Tale for Two,790740,2019-10,6.1,35.0,ok
+2019,222,Tick Tock: A Tale for Two,790740,2019-11,9.55,38.0,ok
+2019,222,Tick Tock: A Tale for Two,790740,2019-12,57.06,733.0,ok
+2019,223,Lovers of Aether,1043180,2019-04,59.23,637.0,ok
+2019,223,Lovers of Aether,1043180,2019-05,10.11,30.0,ok
+2019,223,Lovers of Aether,1043180,2019-06,7.19,19.0,ok
+2019,223,Lovers of Aether,1043180,2019-07,5.61,15.0,ok
+2019,223,Lovers of Aether,1043180,2019-08,4.09,11.0,ok
+2019,223,Lovers of Aether,1043180,2019-09,3.75,10.0,ok
+2019,223,Lovers of Aether,1043180,2019-10,3.47,11.0,ok
+2019,223,Lovers of Aether,1043180,2019-11,4.32,11.0,ok
+2019,223,Lovers of Aether,1043180,2019-12,4.01,11.0,ok
 2019,224,HOME,1067900,,,,request_error
 2019,225,Lonely Mountains: Downhill,711540,2019-10,103.18,183.0,ok
 2019,225,Lonely Mountains: Downhill,711540,2019-11,38.09,152.0,ok
@@ -3028,25 +3082,25 @@ year,rank,name,appid,month,avg_players,peak_players,status
 2019,230,Golden Treasure: The Great Green,1065100,2019-10,3.6,14.0,ok
 2019,230,Golden Treasure: The Great Green,1065100,2019-11,3.55,11.0,ok
 2019,230,Golden Treasure: The Great Green,1065100,2019-12,6.22,24.0,ok
-2019,231,Fishy,1147750,,,,request_error
-2019,232,Super Jigsaw Puzzle: Generations,1036950,2019-04,55.07,96.0,ok
-2019,232,Super Jigsaw Puzzle: Generations,1036950,2019-05,58.31,93.0,ok
-2019,232,Super Jigsaw Puzzle: Generations,1036950,2019-06,50.64,80.0,ok
-2019,232,Super Jigsaw Puzzle: Generations,1036950,2019-07,47.17,76.0,ok
-2019,232,Super Jigsaw Puzzle: Generations,1036950,2019-08,42.72,70.0,ok
-2019,232,Super Jigsaw Puzzle: Generations,1036950,2019-09,42.4,74.0,ok
-2019,232,Super Jigsaw Puzzle: Generations,1036950,2019-10,43.1,67.0,ok
-2019,232,Super Jigsaw Puzzle: Generations,1036950,2019-11,52.76,89.0,ok
-2019,232,Super Jigsaw Puzzle: Generations,1036950,2019-12,56.48,101.0,ok
-2019,233,Blush Blush,777130,2019-04,299.97,462.0,ok
-2019,233,Blush Blush,777130,2019-05,287.04,423.0,ok
-2019,233,Blush Blush,777130,2019-06,255.27,402.0,ok
-2019,233,Blush Blush,777130,2019-07,552.28,2558.0,ok
-2019,233,Blush Blush,777130,2019-08,821.08,1845.0,ok
-2019,233,Blush Blush,777130,2019-09,426.95,622.0,ok
-2019,233,Blush Blush,777130,2019-10,372.4,521.0,ok
-2019,233,Blush Blush,777130,2019-11,382.29,541.0,ok
-2019,233,Blush Blush,777130,2019-12,385.64,571.0,ok
+2019,231,Super Jigsaw Puzzle: Generations,1036950,2019-04,55.07,96.0,ok
+2019,231,Super Jigsaw Puzzle: Generations,1036950,2019-05,58.31,93.0,ok
+2019,231,Super Jigsaw Puzzle: Generations,1036950,2019-06,50.64,80.0,ok
+2019,231,Super Jigsaw Puzzle: Generations,1036950,2019-07,47.17,76.0,ok
+2019,231,Super Jigsaw Puzzle: Generations,1036950,2019-08,42.72,70.0,ok
+2019,231,Super Jigsaw Puzzle: Generations,1036950,2019-09,42.4,74.0,ok
+2019,231,Super Jigsaw Puzzle: Generations,1036950,2019-10,43.1,67.0,ok
+2019,231,Super Jigsaw Puzzle: Generations,1036950,2019-11,52.76,89.0,ok
+2019,231,Super Jigsaw Puzzle: Generations,1036950,2019-12,56.48,101.0,ok
+2019,232,Blush Blush,777130,2019-04,299.97,462.0,ok
+2019,232,Blush Blush,777130,2019-05,287.04,423.0,ok
+2019,232,Blush Blush,777130,2019-06,255.27,402.0,ok
+2019,232,Blush Blush,777130,2019-07,552.28,2558.0,ok
+2019,232,Blush Blush,777130,2019-08,821.08,1845.0,ok
+2019,232,Blush Blush,777130,2019-09,426.95,622.0,ok
+2019,232,Blush Blush,777130,2019-10,372.4,521.0,ok
+2019,232,Blush Blush,777130,2019-11,382.29,541.0,ok
+2019,232,Blush Blush,777130,2019-12,385.64,571.0,ok
+2019,233,Fishy,1147750,,,,request_error
 2019,234,Fun with Ragdolls: The Game,1142500,2019-09,185.76,426.0,ok
 2019,234,Fun with Ragdolls: The Game,1142500,2019-10,102.37,189.0,ok
 2019,234,Fun with Ragdolls: The Game,1142500,2019-11,93.44,209.0,ok
@@ -3100,7 +3154,12 @@ year,rank,name,appid,month,avg_players,peak_players,status
 2019,241,Age of Empires: Definitive Edition,1017900,2019-10,417.08,805.0,ok
 2019,241,Age of Empires: Definitive Edition,1017900,2019-11,534.03,1478.0,ok
 2019,241,Age of Empires: Definitive Edition,1017900,2019-12,1027.74,2705.0,ok
-2019,242,Pact with a witch,865570,,,,request_error
+2019,242,Pact with a witch,865570,2019-07,32.0,75.0,ok
+2019,242,Pact with a witch,865570,2019-08,18.32,42.0,ok
+2019,242,Pact with a witch,865570,2019-09,12.09,29.0,ok
+2019,242,Pact with a witch,865570,2019-10,7.67,21.0,ok
+2019,242,Pact with a witch,865570,2019-11,8.6,23.0,ok
+2019,242,Pact with a witch,865570,2019-12,13.98,99.0,ok
 2019,243,The Expression Amrilato,1044490,2019-06,13.84,26.0,ok
 2019,243,The Expression Amrilato,1044490,2019-07,6.26,20.0,ok
 2019,243,The Expression Amrilato,1044490,2019-08,2.22,7.0,ok
@@ -3356,7 +3415,15 @@ year,rank,name,appid,month,avg_players,peak_players,status
 2020,27,DRAGON BALL Z: KAKAROT,851850,2020-10,386.48,732.0,ok
 2020,27,DRAGON BALL Z: KAKAROT,851850,2020-11,1061.68,3002.0,ok
 2020,27,DRAGON BALL Z: KAKAROT,851850,2020-12,1255.94,2762.0,ok
-2020,28,The Test,1241510,,,,request_error
+2020,28,The Test,1241510,2020-03,2.29,14.0,ok
+2020,28,The Test,1241510,2020-04,1.81,8.0,ok
+2020,28,The Test,1241510,2020-05,1.0,4.0,ok
+2020,28,The Test,1241510,2020-06,0.73,5.0,ok
+2020,28,The Test,1241510,2020-07,1.06,6.0,ok
+2020,28,The Test,1241510,2020-08,0.62,3.0,ok
+2020,28,The Test,1241510,2020-09,1.1,7.0,ok
+2020,28,The Test,1241510,2020-10,0.56,4.0,ok
+2020,28,The Test,1241510,2020-12,0.33,3.0,ok
 2020,29,Untitled Goose Game,837470,2020-09,969.88,1669.0,ok
 2020,29,Untitled Goose Game,837470,2020-10,318.02,1033.0,ok
 2020,29,Untitled Goose Game,837470,2020-11,210.31,622.0,ok
@@ -3559,7 +3626,11 @@ year,rank,name,appid,month,avg_players,peak_players,status
 2020,64,Coffee Talk,914800,2020-10,14.97,38.0,ok
 2020,64,Coffee Talk,914800,2020-11,27.47,79.0,ok
 2020,64,Coffee Talk,914800,2020-12,28.63,63.0,ok
-2020,65,The Test: Hypothesis Rising,1282200,,,,request_error
+2020,65,The Test: Hypothesis Rising,1282200,2020-05,1.19,5.0,ok
+2020,65,The Test: Hypothesis Rising,1282200,2020-06,0.75,4.0,ok
+2020,65,The Test: Hypothesis Rising,1282200,2020-08,0.41,3.0,ok
+2020,65,The Test: Hypothesis Rising,1282200,2020-09,0.67,4.0,ok
+2020,65,The Test: Hypothesis Rising,1282200,2020-11,0.49,3.0,ok
 2020,66,The Test: Final Revelation,1428310,2020-10,1.64,7.0,ok
 2020,66,The Test: Final Revelation,1428310,2020-11,0.63,3.0,ok
 2020,66,The Test: Final Revelation,1428310,2020-12,0.66,4.0,ok
@@ -3594,11 +3665,11 @@ year,rank,name,appid,month,avg_players,peak_players,status
 2020,70,Streets of Rage 4,985890,2020-12,156.49,341.0,ok
 2020,71,Maitetsu:Last Run!!,1434480,2020-11,79.92,319.0,ok
 2020,71,Maitetsu:Last Run!!,1434480,2020-12,39.39,108.0,ok
-2020,72,Wingspan,1054490,2020-09,438.23,819.0,ok
-2020,72,Wingspan,1054490,2020-10,252.9,455.0,ok
-2020,72,Wingspan,1054490,2020-11,275.49,624.0,ok
-2020,72,Wingspan,1054490,2020-12,331.94,731.0,ok
-2020,73,The Supper,1171370,,,,request_error
+2020,72,The Supper,1171370,,,,request_error
+2020,73,Wingspan,1054490,2020-09,438.23,819.0,ok
+2020,73,Wingspan,1054490,2020-10,252.9,455.0,ok
+2020,73,Wingspan,1054490,2020-11,275.49,624.0,ok
+2020,73,Wingspan,1054490,2020-12,331.94,731.0,ok
 2020,74,Kingdom Rush Vengeance - Tower Defense,1367550,2020-10,1236.19,3183.0,ok
 2020,74,Kingdom Rush Vengeance - Tower Defense,1367550,2020-11,449.72,1084.0,ok
 2020,74,Kingdom Rush Vengeance - Tower Defense,1367550,2020-12,299.39,707.0,ok
@@ -3638,13 +3709,13 @@ year,rank,name,appid,month,avg_players,peak_players,status
 2020,79,The Pedestrian,466630,2020-10,7.91,59.0,ok
 2020,79,The Pedestrian,466630,2020-11,6.31,28.0,ok
 2020,79,The Pedestrian,466630,2020-12,9.33,33.0,ok
-2020,80,Songs of Syx,1162750,2020-09,104.7,221.0,ok
-2020,80,Songs of Syx,1162750,2020-10,66.19,156.0,ok
-2020,80,Songs of Syx,1162750,2020-11,38.0,88.0,ok
-2020,80,Songs of Syx,1162750,2020-12,22.96,60.0,ok
-2020,81,Mafia: Definitive Edition,1030840,2020-10,3239.81,13589.0,ok
-2020,81,Mafia: Definitive Edition,1030840,2020-11,878.2,2588.0,ok
-2020,81,Mafia: Definitive Edition,1030840,2020-12,836.71,2345.0,ok
+2020,80,Mafia: Definitive Edition,1030840,2020-10,3239.81,13589.0,ok
+2020,80,Mafia: Definitive Edition,1030840,2020-11,878.2,2588.0,ok
+2020,80,Mafia: Definitive Edition,1030840,2020-12,836.71,2345.0,ok
+2020,81,Songs of Syx,1162750,2020-09,104.7,221.0,ok
+2020,81,Songs of Syx,1162750,2020-10,66.19,156.0,ok
+2020,81,Songs of Syx,1162750,2020-11,38.0,88.0,ok
+2020,81,Songs of Syx,1162750,2020-12,22.96,60.0,ok
 2020,82,Golf With Your Friends,431240,2020-01,603.93,1541.0,ok
 2020,82,Golf With Your Friends,431240,2020-02,492.79,1365.0,ok
 2020,82,Golf With Your Friends,431240,2020-03,810.13,3199.0,ok
@@ -3716,23 +3787,23 @@ year,rank,name,appid,month,avg_players,peak_players,status
 2020,89,TROUBLESHOOTER: Abandoned Children,470310,2020-11,176.46,395.0,ok
 2020,89,TROUBLESHOOTER: Abandoned Children,470310,2020-12,187.45,352.0,ok
 2020,90,DRAGON QUEST® XI S: Echoes of an Elusive Age™ - Definitive Edition,1295510,2020-12,2120.2,4181.0,ok
-2020,91,Holdfast: Nations At War,589290,2020-01,258.34,945.0,ok
-2020,91,Holdfast: Nations At War,589290,2020-02,250.77,1019.0,ok
-2020,91,Holdfast: Nations At War,589290,2020-03,587.11,2133.0,ok
-2020,91,Holdfast: Nations At War,589290,2020-04,394.38,1114.0,ok
-2020,91,Holdfast: Nations At War,589290,2020-05,325.15,1039.0,ok
-2020,91,Holdfast: Nations At War,589290,2020-06,292.03,1133.0,ok
-2020,91,Holdfast: Nations At War,589290,2020-07,390.15,1177.0,ok
-2020,91,Holdfast: Nations At War,589290,2020-08,411.5,1284.0,ok
-2020,91,Holdfast: Nations At War,589290,2020-09,916.06,2751.0,ok
-2020,91,Holdfast: Nations At War,589290,2020-10,505.07,1609.0,ok
-2020,91,Holdfast: Nations At War,589290,2020-11,464.6,1720.0,ok
-2020,91,Holdfast: Nations At War,589290,2020-12,498.0,1579.0,ok
-2020,92,DDNet,412220,2020-08,745.62,1217.0,ok
-2020,92,DDNet,412220,2020-09,525.11,920.0,ok
-2020,92,DDNet,412220,2020-10,543.5,907.0,ok
-2020,92,DDNet,412220,2020-11,522.33,825.0,ok
-2020,92,DDNet,412220,2020-12,513.79,835.0,ok
+2020,91,DDNet,412220,2020-08,745.62,1217.0,ok
+2020,91,DDNet,412220,2020-09,525.11,920.0,ok
+2020,91,DDNet,412220,2020-10,543.5,907.0,ok
+2020,91,DDNet,412220,2020-11,522.33,825.0,ok
+2020,91,DDNet,412220,2020-12,513.79,835.0,ok
+2020,92,Holdfast: Nations At War,589290,2020-01,258.34,945.0,ok
+2020,92,Holdfast: Nations At War,589290,2020-02,250.77,1019.0,ok
+2020,92,Holdfast: Nations At War,589290,2020-03,587.11,2133.0,ok
+2020,92,Holdfast: Nations At War,589290,2020-04,394.38,1114.0,ok
+2020,92,Holdfast: Nations At War,589290,2020-05,325.15,1039.0,ok
+2020,92,Holdfast: Nations At War,589290,2020-06,292.03,1133.0,ok
+2020,92,Holdfast: Nations At War,589290,2020-07,390.15,1177.0,ok
+2020,92,Holdfast: Nations At War,589290,2020-08,411.5,1284.0,ok
+2020,92,Holdfast: Nations At War,589290,2020-09,916.06,2751.0,ok
+2020,92,Holdfast: Nations At War,589290,2020-10,505.07,1609.0,ok
+2020,92,Holdfast: Nations At War,589290,2020-11,464.6,1720.0,ok
+2020,92,Holdfast: Nations At War,589290,2020-12,498.0,1579.0,ok
 2020,93,The Room VR: A Dark Matter,1104380,2020-04,23.14,66.0,ok
 2020,93,The Room VR: A Dark Matter,1104380,2020-05,12.75,39.0,ok
 2020,93,The Room VR: A Dark Matter,1104380,2020-06,11.5,67.0,ok
@@ -3742,18 +3813,18 @@ year,rank,name,appid,month,avg_players,peak_players,status
 2020,93,The Room VR: A Dark Matter,1104380,2020-10,11.8,111.0,ok
 2020,93,The Room VR: A Dark Matter,1104380,2020-11,29.76,88.0,ok
 2020,93,The Room VR: A Dark Matter,1104380,2020-12,30.61,137.0,ok
-2020,94,Zup! Z,1218900,2020-12,11.08,46.0,ok
-2020,95,The Jackbox Party Pack 7,1211630,2020-10,614.43,3666.0,ok
-2020,95,The Jackbox Party Pack 7,1211630,2020-11,570.48,4513.0,ok
-2020,95,The Jackbox Party Pack 7,1211630,2020-12,650.86,4145.0,ok
-2020,96,YOU and ME and HER: A Love Story,1293820,2020-05,71.01,98.0,ok
-2020,96,YOU and ME and HER: A Love Story,1293820,2020-06,22.19,80.0,ok
-2020,96,YOU and ME and HER: A Love Story,1293820,2020-07,17.53,42.0,ok
-2020,96,YOU and ME and HER: A Love Story,1293820,2020-08,13.45,36.0,ok
-2020,96,YOU and ME and HER: A Love Story,1293820,2020-09,8.15,21.0,ok
-2020,96,YOU and ME and HER: A Love Story,1293820,2020-10,6.01,18.0,ok
-2020,96,YOU and ME and HER: A Love Story,1293820,2020-11,8.75,26.0,ok
-2020,96,YOU and ME and HER: A Love Story,1293820,2020-12,8.61,26.0,ok
+2020,94,YOU and ME and HER: A Love Story,1293820,2020-05,71.01,98.0,ok
+2020,94,YOU and ME and HER: A Love Story,1293820,2020-06,22.19,80.0,ok
+2020,94,YOU and ME and HER: A Love Story,1293820,2020-07,17.53,42.0,ok
+2020,94,YOU and ME and HER: A Love Story,1293820,2020-08,13.45,36.0,ok
+2020,94,YOU and ME and HER: A Love Story,1293820,2020-09,8.15,21.0,ok
+2020,94,YOU and ME and HER: A Love Story,1293820,2020-10,6.01,18.0,ok
+2020,94,YOU and ME and HER: A Love Story,1293820,2020-11,8.75,26.0,ok
+2020,94,YOU and ME and HER: A Love Story,1293820,2020-12,8.61,26.0,ok
+2020,95,Zup! Z,1218900,2020-12,11.08,46.0,ok
+2020,96,The Jackbox Party Pack 7,1211630,2020-10,614.43,3666.0,ok
+2020,96,The Jackbox Party Pack 7,1211630,2020-11,570.48,4513.0,ok
+2020,96,The Jackbox Party Pack 7,1211630,2020-12,650.86,4145.0,ok
 2020,97,Tukoni: Prologue,1419860,2020-11,42.65,82.0,ok
 2020,97,Tukoni: Prologue,1419860,2020-12,8.52,47.0,ok
 2020,98,Automobilista 2,1066890,2020-04,214.64,642.0,ok
@@ -3927,18 +3998,24 @@ year,rank,name,appid,month,avg_players,peak_players,status
 2020,118,Kill It With Fire,1179210,2020-10,27.57,166.0,ok
 2020,118,Kill It With Fire,1179210,2020-11,13.93,45.0,ok
 2020,118,Kill It With Fire,1179210,2020-12,23.89,120.0,ok
-2020,119,Soda Dungeon 2,946050,2020-07,7262.81,11281.0,ok
-2020,119,Soda Dungeon 2,946050,2020-08,3508.21,5820.0,ok
-2020,119,Soda Dungeon 2,946050,2020-09,1778.05,2853.0,ok
-2020,119,Soda Dungeon 2,946050,2020-10,1243.51,1754.0,ok
-2020,119,Soda Dungeon 2,946050,2020-11,910.52,1212.0,ok
-2020,119,Soda Dungeon 2,946050,2020-12,684.69,851.0,ok
-2020,120,Neighbours back From Hell,1283190,2020-10,76.37,213.0,ok
-2020,120,Neighbours back From Hell,1283190,2020-11,39.9,126.0,ok
-2020,120,Neighbours back From Hell,1283190,2020-12,30.93,86.0,ok
+2020,119,Neighbours back From Hell,1283190,2020-10,76.37,213.0,ok
+2020,119,Neighbours back From Hell,1283190,2020-11,39.9,126.0,ok
+2020,119,Neighbours back From Hell,1283190,2020-12,30.93,86.0,ok
+2020,120,Soda Dungeon 2,946050,2020-07,7262.81,11281.0,ok
+2020,120,Soda Dungeon 2,946050,2020-08,3508.21,5820.0,ok
+2020,120,Soda Dungeon 2,946050,2020-09,1778.05,2853.0,ok
+2020,120,Soda Dungeon 2,946050,2020-10,1243.51,1754.0,ok
+2020,120,Soda Dungeon 2,946050,2020-11,910.52,1212.0,ok
+2020,120,Soda Dungeon 2,946050,2020-12,684.69,851.0,ok
 2020,121,Creeper World 4,848480,2020-12,1231.32,3779.0,ok
-2020,122,The Riftbreaker: Prologue,1293860,,,,request_error
-2020,123,When The Past Was Around,1164050,,,,request_error
+2020,122,The Riftbreaker: Prologue,1293860,2020-08,260.09,1101.0,ok
+2020,122,The Riftbreaker: Prologue,1293860,2020-09,60.02,180.0,ok
+2020,122,The Riftbreaker: Prologue,1293860,2020-10,36.51,83.0,ok
+2020,122,The Riftbreaker: Prologue,1293860,2020-11,29.2,80.0,ok
+2020,122,The Riftbreaker: Prologue,1293860,2020-12,27.33,87.0,ok
+2020,123,When The Past Was Around,1164050,2020-10,8.66,36.0,ok
+2020,123,When The Past Was Around,1164050,2020-11,7.81,33.0,ok
+2020,123,When The Past Was Around,1164050,2020-12,8.92,28.0,ok
 2020,124,The Battle of Polytopia,874390,2020-08,177.69,430.0,ok
 2020,124,The Battle of Polytopia,874390,2020-09,92.32,161.0,ok
 2020,124,The Battle of Polytopia,874390,2020-10,79.07,179.0,ok
@@ -4185,31 +4262,42 @@ year,rank,name,appid,month,avg_players,peak_players,status
 2020,160,Mosaique Neko Waifus 2,1299120,2020-10,3.23,13.0,ok
 2020,160,Mosaique Neko Waifus 2,1299120,2020-11,3.54,16.0,ok
 2020,160,Mosaique Neko Waifus 2,1299120,2020-12,4.81,60.0,ok
-2020,161,Rival Stars Horse Racing: Desktop Edition,1166860,2020-07,136.6,307.0,ok
-2020,161,Rival Stars Horse Racing: Desktop Edition,1166860,2020-08,77.59,146.0,ok
-2020,161,Rival Stars Horse Racing: Desktop Edition,1166860,2020-09,79.85,162.0,ok
-2020,161,Rival Stars Horse Racing: Desktop Edition,1166860,2020-10,75.78,137.0,ok
-2020,161,Rival Stars Horse Racing: Desktop Edition,1166860,2020-11,68.7,144.0,ok
-2020,161,Rival Stars Horse Racing: Desktop Edition,1166860,2020-12,123.75,390.0,ok
-2020,162,INMOST,938560,2020-08,133.46,421.0,ok
-2020,162,INMOST,938560,2020-09,32.15,79.0,ok
-2020,162,INMOST,938560,2020-10,14.28,44.0,ok
-2020,162,INMOST,938560,2020-11,11.71,42.0,ok
-2020,162,INMOST,938560,2020-12,11.77,51.0,ok
-2020,163,Until You Fall,858260,2020-01,13.39,35.0,ok
-2020,163,Until You Fall,858260,2020-02,9.65,30.0,ok
-2020,163,Until You Fall,858260,2020-03,7.34,21.0,ok
-2020,163,Until You Fall,858260,2020-04,8.38,29.0,ok
-2020,163,Until You Fall,858260,2020-05,27.17,118.0,ok
-2020,163,Until You Fall,858260,2020-06,23.27,98.0,ok
-2020,163,Until You Fall,858260,2020-07,34.51,87.0,ok
-2020,163,Until You Fall,858260,2020-08,18.88,43.0,ok
-2020,163,Until You Fall,858260,2020-09,14.9,36.0,ok
-2020,163,Until You Fall,858260,2020-10,22.41,136.0,ok
-2020,163,Until You Fall,858260,2020-11,29.2,102.0,ok
-2020,163,Until You Fall,858260,2020-12,23.3,79.0,ok
-2020,164,THE CORRIDOR,1347030,,,,request_error
-2020,165,Slap City,725480,,,,request_error
+2020,161,INMOST,938560,2020-08,133.46,421.0,ok
+2020,161,INMOST,938560,2020-09,32.15,79.0,ok
+2020,161,INMOST,938560,2020-10,14.28,44.0,ok
+2020,161,INMOST,938560,2020-11,11.71,42.0,ok
+2020,161,INMOST,938560,2020-12,11.77,51.0,ok
+2020,162,Rival Stars Horse Racing: Desktop Edition,1166860,2020-07,136.6,307.0,ok
+2020,162,Rival Stars Horse Racing: Desktop Edition,1166860,2020-08,77.59,146.0,ok
+2020,162,Rival Stars Horse Racing: Desktop Edition,1166860,2020-09,79.85,162.0,ok
+2020,162,Rival Stars Horse Racing: Desktop Edition,1166860,2020-10,75.78,137.0,ok
+2020,162,Rival Stars Horse Racing: Desktop Edition,1166860,2020-11,68.7,144.0,ok
+2020,162,Rival Stars Horse Racing: Desktop Edition,1166860,2020-12,123.75,390.0,ok
+2020,163,THE CORRIDOR,1347030,,,,request_error
+2020,164,Until You Fall,858260,2020-01,13.39,35.0,ok
+2020,164,Until You Fall,858260,2020-02,9.65,30.0,ok
+2020,164,Until You Fall,858260,2020-03,7.34,21.0,ok
+2020,164,Until You Fall,858260,2020-04,8.38,29.0,ok
+2020,164,Until You Fall,858260,2020-05,27.17,118.0,ok
+2020,164,Until You Fall,858260,2020-06,23.27,98.0,ok
+2020,164,Until You Fall,858260,2020-07,34.51,87.0,ok
+2020,164,Until You Fall,858260,2020-08,18.88,43.0,ok
+2020,164,Until You Fall,858260,2020-09,14.9,36.0,ok
+2020,164,Until You Fall,858260,2020-10,22.41,136.0,ok
+2020,164,Until You Fall,858260,2020-11,29.2,102.0,ok
+2020,164,Until You Fall,858260,2020-12,23.3,79.0,ok
+2020,165,Slap City,725480,2020-01,18.56,60.0,ok
+2020,165,Slap City,725480,2020-02,20.2,76.0,ok
+2020,165,Slap City,725480,2020-03,20.82,86.0,ok
+2020,165,Slap City,725480,2020-04,17.97,70.0,ok
+2020,165,Slap City,725480,2020-05,20.22,62.0,ok
+2020,165,Slap City,725480,2020-06,23.81,78.0,ok
+2020,165,Slap City,725480,2020-07,19.29,57.0,ok
+2020,165,Slap City,725480,2020-08,12.1,39.0,ok
+2020,165,Slap City,725480,2020-09,32.29,252.0,ok
+2020,165,Slap City,725480,2020-10,15.18,47.0,ok
+2020,165,Slap City,725480,2020-11,21.26,95.0,ok
+2020,165,Slap City,725480,2020-12,17.07,51.0,ok
 2020,166,Paradise Killer,1160220,2020-09,60.99,195.0,ok
 2020,166,Paradise Killer,1160220,2020-10,21.42,58.0,ok
 2020,166,Paradise Killer,1160220,2020-11,20.52,64.0,ok
@@ -4236,7 +4324,8 @@ year,rank,name,appid,month,avg_players,peak_players,status
 2020,169,A Summer's End - Hong Kong 1986,1111370,2020-11,2.32,8.0,ok
 2020,169,A Summer's End - Hong Kong 1986,1111370,2020-12,3.31,13.0,ok
 2020,170,The Life and Suffering of Sir Brante — Chapter 1&2,1460090,,,,request_error
-2020,171,像素女友,1368860,,,,request_error
+2020,171,At Dead Of Night,1450830,2020-11,4.52,11.0,ok
+2020,171,At Dead Of Night,1450830,2020-12,4.21,18.0,ok
 2020,172,Hydroneer,1106840,2020-05,943.56,2710.0,ok
 2020,172,Hydroneer,1106840,2020-06,298.17,582.0,ok
 2020,172,Hydroneer,1106840,2020-07,354.66,966.0,ok
@@ -4245,9 +4334,16 @@ year,rank,name,appid,month,avg_players,peak_players,status
 2020,172,Hydroneer,1106840,2020-10,325.99,901.0,ok
 2020,172,Hydroneer,1106840,2020-11,207.64,501.0,ok
 2020,172,Hydroneer,1106840,2020-12,180.59,468.0,ok
-2020,173,At Dead Of Night,1450830,2020-11,4.52,11.0,ok
-2020,173,At Dead Of Night,1450830,2020-12,4.21,18.0,ok
-2020,174,Frog Fractions: Game of the Decade Edition,1194840,,,,request_error
+2020,173,像素女友,1368860,2020-08,64.75,192.0,ok
+2020,173,像素女友,1368860,2020-09,7.27,45.0,ok
+2020,173,像素女友,1368860,2020-10,3.3,20.0,ok
+2020,173,像素女友,1368860,2020-11,3.78,40.0,ok
+2020,173,像素女友,1368860,2020-12,4.3,25.0,ok
+2020,174,Frog Fractions: Game of the Decade Edition,1194840,2020-08,43.8,199.0,ok
+2020,174,Frog Fractions: Game of the Decade Edition,1194840,2020-09,19.62,90.0,ok
+2020,174,Frog Fractions: Game of the Decade Edition,1194840,2020-10,12.31,46.0,ok
+2020,174,Frog Fractions: Game of the Decade Edition,1194840,2020-11,6.21,20.0,ok
+2020,174,Frog Fractions: Game of the Decade Edition,1194840,2020-12,8.18,29.0,ok
 2020,175,NOeSIS01_诉说谎言记忆物语,1246020,2020-03,38.15,86.0,ok
 2020,175,NOeSIS01_诉说谎言记忆物语,1246020,2020-04,26.03,146.0,ok
 2020,175,NOeSIS01_诉说谎言记忆物语,1246020,2020-05,11.69,34.0,ok
@@ -4306,7 +4402,11 @@ year,rank,name,appid,month,avg_players,peak_players,status
 2020,184,Hidden Through Time,524910,2020-10,15.78,38.0,ok
 2020,184,Hidden Through Time,524910,2020-11,15.79,72.0,ok
 2020,184,Hidden Through Time,524910,2020-12,21.96,57.0,ok
-2020,185,ARMORED HEAD,805590,,,,request_error
+2020,185,ARMORED HEAD,805590,2020-08,2.83,17.0,ok
+2020,185,ARMORED HEAD,805590,2020-09,1.41,5.0,ok
+2020,185,ARMORED HEAD,805590,2020-10,1.85,9.0,ok
+2020,185,ARMORED HEAD,805590,2020-11,1.59,5.0,ok
+2020,185,ARMORED HEAD,805590,2020-12,1.9,11.0,ok
 2020,186,Chicken Police - Paint it RED!,1084640,2020-11,42.1,163.0,ok
 2020,186,Chicken Police - Paint it RED!,1084640,2020-12,10.56,31.0,ok
 2020,187,A Space For The Unbound - Prologue,1201280,,,,request_error
@@ -4635,19 +4735,19 @@ year,rank,name,appid,month,avg_players,peak_players,status
 2020,237,Nyakori's Rabbit Doll,1162070,2020-10,2.7,12.0,ok
 2020,237,Nyakori's Rabbit Doll,1162070,2020-11,3.15,12.0,ok
 2020,237,Nyakori's Rabbit Doll,1162070,2020-12,3.8,12.0,ok
-2020,238,Aimbeast,1100990,2020-01,8.43,37.0,ok
-2020,238,Aimbeast,1100990,2020-02,29.73,78.0,ok
-2020,238,Aimbeast,1100990,2020-03,66.55,141.0,ok
-2020,238,Aimbeast,1100990,2020-04,62.94,107.0,ok
-2020,238,Aimbeast,1100990,2020-05,79.39,190.0,ok
-2020,238,Aimbeast,1100990,2020-06,87.15,157.0,ok
-2020,238,Aimbeast,1100990,2020-07,76.98,140.0,ok
-2020,238,Aimbeast,1100990,2020-08,75.34,153.0,ok
-2020,238,Aimbeast,1100990,2020-09,62.48,142.0,ok
-2020,238,Aimbeast,1100990,2020-10,57.89,110.0,ok
-2020,238,Aimbeast,1100990,2020-11,58.07,99.0,ok
-2020,238,Aimbeast,1100990,2020-12,53.99,99.0,ok
-2020,239,Haven,983970,2020-12,136.35,572.0,ok
+2020,238,Haven,983970,2020-12,136.35,572.0,ok
+2020,239,Aimbeast,1100990,2020-01,8.43,37.0,ok
+2020,239,Aimbeast,1100990,2020-02,29.73,78.0,ok
+2020,239,Aimbeast,1100990,2020-03,66.55,141.0,ok
+2020,239,Aimbeast,1100990,2020-04,62.94,107.0,ok
+2020,239,Aimbeast,1100990,2020-05,79.39,190.0,ok
+2020,239,Aimbeast,1100990,2020-06,87.15,157.0,ok
+2020,239,Aimbeast,1100990,2020-07,76.98,140.0,ok
+2020,239,Aimbeast,1100990,2020-08,75.34,153.0,ok
+2020,239,Aimbeast,1100990,2020-09,62.48,142.0,ok
+2020,239,Aimbeast,1100990,2020-10,57.89,110.0,ok
+2020,239,Aimbeast,1100990,2020-11,58.07,99.0,ok
+2020,239,Aimbeast,1100990,2020-12,53.99,99.0,ok
 2020,240,Flowers -Le volume sur automne-,1238730,,,,request_error
 2020,241,Sam & Max Save the World,1440440,2020-12,36.88,160.0,ok
 2020,242,High Entropy: Challenges,1389630,,,,request_error
@@ -4662,8 +4762,13 @@ year,rank,name,appid,month,avg_players,peak_players,status
 2020,244,The Legend of Heroes: Trails of Cold Steel III,991270,2020-10,175.08,330.0,ok
 2020,244,The Legend of Heroes: Trails of Cold Steel III,991270,2020-11,221.48,710.0,ok
 2020,244,The Legend of Heroes: Trails of Cold Steel III,991270,2020-12,148.29,242.0,ok
-2020,245,Fatum Betula,1281270,,,,request_error
-2020,246,Swaying Girl,1393350,,,,request_error
+2020,245,Fatum Betula,1281270,2020-07,0.6,3.0,ok
+2020,245,Fatum Betula,1281270,2020-10,0.39,3.0,ok
+2020,245,Fatum Betula,1281270,2020-11,0.26,2.0,ok
+2020,245,Fatum Betula,1281270,2020-12,0.32,4.0,ok
+2020,246,Swaying Girl,1393350,2020-10,15.48,50.0,ok
+2020,246,Swaying Girl,1393350,2020-11,16.08,138.0,ok
+2020,246,Swaying Girl,1393350,2020-12,14.69,82.0,ok
 2020,247,Lightmatter,994140,2020-01,53.74,106.0,ok
 2020,247,Lightmatter,994140,2020-02,16.79,49.0,ok
 2020,247,Lightmatter,994140,2020-03,8.64,24.0,ok
@@ -5141,13 +5246,17 @@ year,rank,name,appid,month,avg_players,peak_players,status
 2021,62,Medieval Dynasty,1129580,2021-10,5022.96,13658.0,ok
 2021,62,Medieval Dynasty,1129580,2021-11,3192.21,6562.0,ok
 2021,62,Medieval Dynasty,1129580,2021-12,2441.64,4711.0,ok
-2021,63,Far Away,1250760,2021-08,343.32,1041.0,ok
-2021,63,Far Away,1250760,2021-09,81.87,316.0,ok
-2021,63,Far Away,1250760,2021-10,45.2,166.0,ok
-2021,63,Far Away,1250760,2021-11,44.13,161.0,ok
-2021,63,Far Away,1250760,2021-12,37.19,125.0,ok
-2021,64,第七号列车 - Train No. 7,1708870,,,,request_error
-2021,65,At Home Alone Final,1740100,,,,no_data_for_year
+2021,63,At Home Alone Final,1740100,,,,no_data_for_year
+2021,64,第七号列车 - Train No. 7,1708870,2021-08,68.85,259.0,ok
+2021,64,第七号列车 - Train No. 7,1708870,2021-09,13.55,57.0,ok
+2021,64,第七号列车 - Train No. 7,1708870,2021-10,7.11,27.0,ok
+2021,64,第七号列车 - Train No. 7,1708870,2021-11,4.56,19.0,ok
+2021,64,第七号列车 - Train No. 7,1708870,2021-12,3.43,13.0,ok
+2021,65,Far Away,1250760,2021-08,343.32,1041.0,ok
+2021,65,Far Away,1250760,2021-09,81.87,316.0,ok
+2021,65,Far Away,1250760,2021-10,45.2,166.0,ok
+2021,65,Far Away,1250760,2021-11,44.13,161.0,ok
+2021,65,Far Away,1250760,2021-12,37.19,125.0,ok
 2021,66,UNBEATABLE [white label],1290490,2021-05,151.01,367.0,ok
 2021,66,UNBEATABLE [white label],1290490,2021-06,81.81,373.0,ok
 2021,66,UNBEATABLE [white label],1290490,2021-07,42.53,77.0,ok
@@ -5205,19 +5314,19 @@ year,rank,name,appid,month,avg_players,peak_players,status
 2021,75,Severed Steel,1227690,2021-11,15.73,46.0,ok
 2021,75,Severed Steel,1227690,2021-12,10.3,36.0,ok
 2021,76,Word Game: Episode 0,1507970,,,,request_error
-2021,77,Griftlands,601840,2021-01,330.1,569.0,ok
-2021,77,Griftlands,601840,2021-02,332.09,516.0,ok
-2021,77,Griftlands,601840,2021-03,209.05,352.0,ok
-2021,77,Griftlands,601840,2021-04,174.65,293.0,ok
-2021,77,Griftlands,601840,2021-05,179.47,304.0,ok
-2021,77,Griftlands,601840,2021-06,2297.53,7309.0,ok
-2021,77,Griftlands,601840,2021-07,812.17,2074.0,ok
-2021,77,Griftlands,601840,2021-08,373.76,678.0,ok
-2021,77,Griftlands,601840,2021-09,268.16,485.0,ok
-2021,77,Griftlands,601840,2021-10,341.5,989.0,ok
-2021,77,Griftlands,601840,2021-11,295.53,697.0,ok
-2021,77,Griftlands,601840,2021-12,326.29,621.0,ok
-2021,78,Alpaca Stacka,1655140,,,,request_error
+2021,77,Alpaca Stacka,1655140,,,,request_error
+2021,78,Griftlands,601840,2021-01,330.1,569.0,ok
+2021,78,Griftlands,601840,2021-02,332.09,516.0,ok
+2021,78,Griftlands,601840,2021-03,209.05,352.0,ok
+2021,78,Griftlands,601840,2021-04,174.65,293.0,ok
+2021,78,Griftlands,601840,2021-05,179.47,304.0,ok
+2021,78,Griftlands,601840,2021-06,2297.53,7309.0,ok
+2021,78,Griftlands,601840,2021-07,812.17,2074.0,ok
+2021,78,Griftlands,601840,2021-08,373.76,678.0,ok
+2021,78,Griftlands,601840,2021-09,268.16,485.0,ok
+2021,78,Griftlands,601840,2021-10,341.5,989.0,ok
+2021,78,Griftlands,601840,2021-11,295.53,697.0,ok
+2021,78,Griftlands,601840,2021-12,326.29,621.0,ok
 2021,79,Super Auto Pets,1714040,2021-10,1513.44,2478.0,ok
 2021,79,Super Auto Pets,1714040,2021-11,4149.68,7879.0,ok
 2021,79,Super Auto Pets,1714040,2021-12,5484.23,9446.0,ok
@@ -5259,18 +5368,18 @@ year,rank,name,appid,month,avg_players,peak_players,status
 2021,85,GUILTY GEAR -STRIVE-,1384160,2021-10,1989.96,5465.0,ok
 2021,85,GUILTY GEAR -STRIVE-,1384160,2021-11,1840.06,7200.0,ok
 2021,85,GUILTY GEAR -STRIVE-,1384160,2021-12,2467.89,7690.0,ok
-2021,86,Tetris® Effect: Connected,1003590,2021-08,750.18,1253.0,ok
-2021,86,Tetris® Effect: Connected,1003590,2021-09,230.0,544.0,ok
-2021,86,Tetris® Effect: Connected,1003590,2021-10,133.49,272.0,ok
-2021,86,Tetris® Effect: Connected,1003590,2021-11,142.81,330.0,ok
-2021,86,Tetris® Effect: Connected,1003590,2021-12,150.33,355.0,ok
-2021,87,Scarlet Hollow,1609230,2021-06,14.13,77.0,ok
-2021,87,Scarlet Hollow,1609230,2021-07,5.05,18.0,ok
-2021,87,Scarlet Hollow,1609230,2021-08,3.08,10.0,ok
-2021,87,Scarlet Hollow,1609230,2021-09,2.08,8.0,ok
-2021,87,Scarlet Hollow,1609230,2021-10,6.04,21.0,ok
-2021,87,Scarlet Hollow,1609230,2021-11,2.81,15.0,ok
-2021,87,Scarlet Hollow,1609230,2021-12,3.13,11.0,ok
+2021,86,Scarlet Hollow,1609230,2021-06,14.13,77.0,ok
+2021,86,Scarlet Hollow,1609230,2021-07,5.05,18.0,ok
+2021,86,Scarlet Hollow,1609230,2021-08,3.08,10.0,ok
+2021,86,Scarlet Hollow,1609230,2021-09,2.08,8.0,ok
+2021,86,Scarlet Hollow,1609230,2021-10,6.04,21.0,ok
+2021,86,Scarlet Hollow,1609230,2021-11,2.81,15.0,ok
+2021,86,Scarlet Hollow,1609230,2021-12,3.13,11.0,ok
+2021,87,Tetris® Effect: Connected,1003590,2021-08,750.18,1253.0,ok
+2021,87,Tetris® Effect: Connected,1003590,2021-09,230.0,544.0,ok
+2021,87,Tetris® Effect: Connected,1003590,2021-10,133.49,272.0,ok
+2021,87,Tetris® Effect: Connected,1003590,2021-11,142.81,330.0,ok
+2021,87,Tetris® Effect: Connected,1003590,2021-12,150.33,355.0,ok
 2021,88,Lay a Beauty to Rest: The Darkness Peach Blossom Spring,1506980,2021-10,277.28,887.0,ok
 2021,88,Lay a Beauty to Rest: The Darkness Peach Blossom Spring,1506980,2021-11,49.25,229.0,ok
 2021,88,Lay a Beauty to Rest: The Darkness Peach Blossom Spring,1506980,2021-12,30.48,110.0,ok
@@ -5286,13 +5395,19 @@ year,rank,name,appid,month,avg_players,peak_players,status
 2021,91,The Great Ace Attorney Chronicles,1158850,2021-10,332.75,706.0,ok
 2021,91,The Great Ace Attorney Chronicles,1158850,2021-11,229.26,365.0,ok
 2021,91,The Great Ace Attorney Chronicles,1158850,2021-12,268.93,685.0,ok
-2021,92,Sprocket,1674170,2021-09,911.38,1936.0,ok
-2021,92,Sprocket,1674170,2021-10,344.51,806.0,ok
-2021,92,Sprocket,1674170,2021-11,249.24,459.0,ok
-2021,92,Sprocket,1674170,2021-12,185.77,332.0,ok
-2021,93,小白兔电商~Bunny e-Shop,1111460,2021-11,674.75,1775.0,ok
-2021,93,小白兔电商~Bunny e-Shop,1111460,2021-12,364.44,1124.0,ok
-2021,94,枝江往事,1641270,,,,request_error
+2021,92,小白兔电商~Bunny e-Shop,1111460,2021-11,674.75,1775.0,ok
+2021,92,小白兔电商~Bunny e-Shop,1111460,2021-12,364.44,1124.0,ok
+2021,93,Sprocket,1674170,2021-09,911.38,1936.0,ok
+2021,93,Sprocket,1674170,2021-10,344.51,806.0,ok
+2021,93,Sprocket,1674170,2021-11,249.24,459.0,ok
+2021,93,Sprocket,1674170,2021-12,185.77,332.0,ok
+2021,94,枝江往事,1641270,2021-06,84.45,471.0,ok
+2021,94,枝江往事,1641270,2021-07,34.93,98.0,ok
+2021,94,枝江往事,1641270,2021-08,25.67,64.0,ok
+2021,94,枝江往事,1641270,2021-09,11.43,33.0,ok
+2021,94,枝江往事,1641270,2021-10,11.47,38.0,ok
+2021,94,枝江往事,1641270,2021-11,8.39,33.0,ok
+2021,94,枝江往事,1641270,2021-12,8.75,28.0,ok
 2021,95,Bitburner,1812820,2021-12,2495.81,4343.0,ok
 2021,96,Poppy Playtime,1721470,2021-10,499.87,1930.0,ok
 2021,96,Poppy Playtime,1721470,2021-11,904.17,1716.0,ok
@@ -5375,15 +5490,15 @@ year,rank,name,appid,month,avg_players,peak_players,status
 2021,112,Behind the Frame: The Finest Scenery,1634150,2021-10,11.85,56.0,ok
 2021,112,Behind the Frame: The Finest Scenery,1634150,2021-11,7.19,32.0,ok
 2021,112,Behind the Frame: The Finest Scenery,1634150,2021-12,7.61,28.0,ok
-2021,113,Walkabout Mini Golf VR,1408230,2021-07,40.3,110.0,ok
-2021,113,Walkabout Mini Golf VR,1408230,2021-08,24.02,89.0,ok
-2021,113,Walkabout Mini Golf VR,1408230,2021-09,20.17,66.0,ok
-2021,113,Walkabout Mini Golf VR,1408230,2021-10,19.9,93.0,ok
-2021,113,Walkabout Mini Golf VR,1408230,2021-11,25.29,129.0,ok
-2021,113,Walkabout Mini Golf VR,1408230,2021-12,44.69,178.0,ok
-2021,114,Dead Estate,1484720,2021-10,122.58,226.0,ok
-2021,114,Dead Estate,1484720,2021-11,71.69,152.0,ok
-2021,114,Dead Estate,1484720,2021-12,148.24,339.0,ok
+2021,113,Dead Estate,1484720,2021-10,122.58,226.0,ok
+2021,113,Dead Estate,1484720,2021-11,71.69,152.0,ok
+2021,113,Dead Estate,1484720,2021-12,148.24,339.0,ok
+2021,114,Walkabout Mini Golf VR,1408230,2021-07,40.3,110.0,ok
+2021,114,Walkabout Mini Golf VR,1408230,2021-08,24.02,89.0,ok
+2021,114,Walkabout Mini Golf VR,1408230,2021-09,20.17,66.0,ok
+2021,114,Walkabout Mini Golf VR,1408230,2021-10,19.9,93.0,ok
+2021,114,Walkabout Mini Golf VR,1408230,2021-11,25.29,129.0,ok
+2021,114,Walkabout Mini Golf VR,1408230,2021-12,44.69,178.0,ok
 2021,115,Samorost 1,1580970,2021-05,44.08,136.0,ok
 2021,115,Samorost 1,1580970,2021-06,7.43,46.0,ok
 2021,115,Samorost 1,1580970,2021-07,3.7,13.0,ok
@@ -5406,11 +5521,19 @@ year,rank,name,appid,month,avg_players,peak_players,status
 2021,117,Nioh 2 – The Complete Edition,1325200,2021-10,2549.64,5562.0,ok
 2021,117,Nioh 2 – The Complete Edition,1325200,2021-11,2117.66,5737.0,ok
 2021,117,Nioh 2 – The Complete Edition,1325200,2021-12,2944.18,5919.0,ok
-2021,118,Age of Empires IV: Anniversary Edition,1466860,2021-11,27228.96,64911.0,ok
-2021,118,Age of Empires IV: Anniversary Edition,1466860,2021-12,15148.55,31721.0,ok
-2021,119,Sizeable,1333910,,,,request_error
+2021,118,Sizeable,1333910,2021-03,8.09,33.0,ok
+2021,118,Sizeable,1333910,2021-04,3.2,18.0,ok
+2021,118,Sizeable,1333910,2021-05,3.99,20.0,ok
+2021,118,Sizeable,1333910,2021-06,2.78,14.0,ok
+2021,118,Sizeable,1333910,2021-07,2.75,13.0,ok
+2021,118,Sizeable,1333910,2021-08,2.71,9.0,ok
+2021,118,Sizeable,1333910,2021-10,3.68,16.0,ok
+2021,118,Sizeable,1333910,2021-11,1.99,6.0,ok
+2021,118,Sizeable,1333910,2021-12,17.52,77.0,ok
+2021,119,Age of Empires IV: Anniversary Edition,1466860,2021-11,27228.96,64911.0,ok
+2021,119,Age of Empires IV: Anniversary Edition,1466860,2021-12,15148.55,31721.0,ok
 2021,120,Five Nights at Freddy's: Security Breach,747660,2021-12,6370.55,11252.0,ok
-2021,121,Touhou Hero of Ice Fairy: Prologue,1715460,,,,request_error
+2021,121,Touhou Hero of Ice Fairy: Prologue,1715460,2021-12,60.51,250.0,ok
 2021,122,Minecraft Dungeons,1672970,2021-09,1542.99,2901.0,ok
 2021,122,Minecraft Dungeons,1672970,2021-10,856.13,2176.0,ok
 2021,122,Minecraft Dungeons,1672970,2021-11,423.49,810.0,ok
@@ -5539,18 +5662,18 @@ year,rank,name,appid,month,avg_players,peak_players,status
 2021,138,College Kings - The Complete Season,1463120,2021-10,686.79,2088.0,ok
 2021,138,College Kings - The Complete Season,1463120,2021-11,372.67,590.0,ok
 2021,138,College Kings - The Complete Season,1463120,2021-12,379.81,660.0,ok
-2021,139,Swallow the Sea,1511860,2021-09,28.57,132.0,ok
-2021,139,Swallow the Sea,1511860,2021-10,6.42,18.0,ok
-2021,139,Swallow the Sea,1511860,2021-11,3.79,14.0,ok
-2021,139,Swallow the Sea,1511860,2021-12,2.68,12.0,ok
-2021,140,HUNTDOWN,598550,2021-05,97.8,288.0,ok
-2021,140,HUNTDOWN,598550,2021-06,31.85,96.0,ok
-2021,140,HUNTDOWN,598550,2021-07,32.95,89.0,ok
-2021,140,HUNTDOWN,598550,2021-08,15.9,44.0,ok
-2021,140,HUNTDOWN,598550,2021-09,11.84,35.0,ok
-2021,140,HUNTDOWN,598550,2021-10,33.34,146.0,ok
-2021,140,HUNTDOWN,598550,2021-11,27.86,70.0,ok
-2021,140,HUNTDOWN,598550,2021-12,26.64,74.0,ok
+2021,139,HUNTDOWN,598550,2021-05,97.8,288.0,ok
+2021,139,HUNTDOWN,598550,2021-06,31.85,96.0,ok
+2021,139,HUNTDOWN,598550,2021-07,32.95,89.0,ok
+2021,139,HUNTDOWN,598550,2021-08,15.9,44.0,ok
+2021,139,HUNTDOWN,598550,2021-09,11.84,35.0,ok
+2021,139,HUNTDOWN,598550,2021-10,33.34,146.0,ok
+2021,139,HUNTDOWN,598550,2021-11,27.86,70.0,ok
+2021,139,HUNTDOWN,598550,2021-12,26.64,74.0,ok
+2021,140,Swallow the Sea,1511860,2021-09,28.57,132.0,ok
+2021,140,Swallow the Sea,1511860,2021-10,6.42,18.0,ok
+2021,140,Swallow the Sea,1511860,2021-11,3.79,14.0,ok
+2021,140,Swallow the Sea,1511860,2021-12,2.68,12.0,ok
 2021,141,HuniePop 2: Double Date,930210,2021-02,4029.32,15219.0,ok
 2021,141,HuniePop 2: Double Date,930210,2021-03,1181.85,3100.0,ok
 2021,141,HuniePop 2: Double Date,930210,2021-04,593.85,1265.0,ok
@@ -5834,22 +5957,22 @@ year,rank,name,appid,month,avg_players,peak_players,status
 2021,184,Blood Spear,1638660,2021-10,1.79,6.0,ok
 2021,184,Blood Spear,1638660,2021-11,1.24,6.0,ok
 2021,184,Blood Spear,1638660,2021-12,2.47,12.0,ok
-2021,185,Hell Let Loose,686810,2021-01,3789.56,7002.0,ok
-2021,185,Hell Let Loose,686810,2021-02,3747.24,6740.0,ok
-2021,185,Hell Let Loose,686810,2021-03,3597.08,13323.0,ok
-2021,185,Hell Let Loose,686810,2021-04,3766.48,8318.0,ok
-2021,185,Hell Let Loose,686810,2021-05,3250.35,7047.0,ok
-2021,185,Hell Let Loose,686810,2021-06,2616.02,6296.0,ok
-2021,185,Hell Let Loose,686810,2021-07,3604.28,13865.0,ok
-2021,185,Hell Let Loose,686810,2021-08,4857.76,11714.0,ok
-2021,185,Hell Let Loose,686810,2021-09,4007.47,8558.0,ok
-2021,185,Hell Let Loose,686810,2021-10,4272.38,8247.0,ok
-2021,185,Hell Let Loose,686810,2021-11,3974.71,8053.0,ok
-2021,185,Hell Let Loose,686810,2021-12,4712.69,9537.0,ok
-2021,186,Marfusha:Sentinel Girls,1456820,2021-09,143.4,865.0,ok
-2021,186,Marfusha:Sentinel Girls,1456820,2021-10,34.26,107.0,ok
-2021,186,Marfusha:Sentinel Girls,1456820,2021-11,58.18,250.0,ok
-2021,186,Marfusha:Sentinel Girls,1456820,2021-12,35.76,109.0,ok
+2021,185,Marfusha:Sentinel Girls,1456820,2021-09,143.4,865.0,ok
+2021,185,Marfusha:Sentinel Girls,1456820,2021-10,34.26,107.0,ok
+2021,185,Marfusha:Sentinel Girls,1456820,2021-11,58.18,250.0,ok
+2021,185,Marfusha:Sentinel Girls,1456820,2021-12,35.76,109.0,ok
+2021,186,Hell Let Loose,686810,2021-01,3789.56,7002.0,ok
+2021,186,Hell Let Loose,686810,2021-02,3747.24,6740.0,ok
+2021,186,Hell Let Loose,686810,2021-03,3597.08,13323.0,ok
+2021,186,Hell Let Loose,686810,2021-04,3766.48,8318.0,ok
+2021,186,Hell Let Loose,686810,2021-05,3250.35,7047.0,ok
+2021,186,Hell Let Loose,686810,2021-06,2616.02,6296.0,ok
+2021,186,Hell Let Loose,686810,2021-07,3604.28,13865.0,ok
+2021,186,Hell Let Loose,686810,2021-08,4857.76,11714.0,ok
+2021,186,Hell Let Loose,686810,2021-09,4007.47,8558.0,ok
+2021,186,Hell Let Loose,686810,2021-10,4272.38,8247.0,ok
+2021,186,Hell Let Loose,686810,2021-11,3974.71,8053.0,ok
+2021,186,Hell Let Loose,686810,2021-12,4712.69,9537.0,ok
 2021,187,Zeepkist,1440670,2021-02,1.47,8.0,ok
 2021,187,Zeepkist,1440670,2021-11,1.79,17.0,ok
 2021,187,Zeepkist,1440670,2021-12,1.42,11.0,ok
@@ -5908,19 +6031,19 @@ year,rank,name,appid,month,avg_players,peak_players,status
 2021,196,Ambrosia,1078350,2021-10,34.66,115.0,ok
 2021,196,Ambrosia,1078350,2021-11,38.74,107.0,ok
 2021,196,Ambrosia,1078350,2021-12,32.25,81.0,ok
-2021,197,OMFG: One Million Fatal Guns,1555710,2021-03,94.13,221.0,ok
-2021,197,OMFG: One Million Fatal Guns,1555710,2021-04,31.76,68.0,ok
-2021,197,OMFG: One Million Fatal Guns,1555710,2021-05,21.07,41.0,ok
-2021,197,OMFG: One Million Fatal Guns,1555710,2021-06,16.06,36.0,ok
-2021,197,OMFG: One Million Fatal Guns,1555710,2021-07,12.0,26.0,ok
-2021,197,OMFG: One Million Fatal Guns,1555710,2021-08,12.13,27.0,ok
-2021,197,OMFG: One Million Fatal Guns,1555710,2021-09,10.48,27.0,ok
-2021,197,OMFG: One Million Fatal Guns,1555710,2021-10,11.07,36.0,ok
-2021,197,OMFG: One Million Fatal Guns,1555710,2021-11,10.36,27.0,ok
-2021,197,OMFG: One Million Fatal Guns,1555710,2021-12,9.85,26.0,ok
-2021,198,IRMÃO Grande & Brasileiro 2,1569520,2021-10,19.67,130.0,ok
-2021,198,IRMÃO Grande & Brasileiro 2,1569520,2021-11,4.85,24.0,ok
-2021,198,IRMÃO Grande & Brasileiro 2,1569520,2021-12,4.25,21.0,ok
+2021,197,IRMÃO Grande & Brasileiro 2,1569520,2021-10,19.67,130.0,ok
+2021,197,IRMÃO Grande & Brasileiro 2,1569520,2021-11,4.85,24.0,ok
+2021,197,IRMÃO Grande & Brasileiro 2,1569520,2021-12,4.25,21.0,ok
+2021,198,OMFG: One Million Fatal Guns,1555710,2021-03,94.13,221.0,ok
+2021,198,OMFG: One Million Fatal Guns,1555710,2021-04,31.76,68.0,ok
+2021,198,OMFG: One Million Fatal Guns,1555710,2021-05,21.07,41.0,ok
+2021,198,OMFG: One Million Fatal Guns,1555710,2021-06,16.06,36.0,ok
+2021,198,OMFG: One Million Fatal Guns,1555710,2021-07,12.0,26.0,ok
+2021,198,OMFG: One Million Fatal Guns,1555710,2021-08,12.13,27.0,ok
+2021,198,OMFG: One Million Fatal Guns,1555710,2021-09,10.48,27.0,ok
+2021,198,OMFG: One Million Fatal Guns,1555710,2021-10,11.07,36.0,ok
+2021,198,OMFG: One Million Fatal Guns,1555710,2021-11,10.36,27.0,ok
+2021,198,OMFG: One Million Fatal Guns,1555710,2021-12,9.85,26.0,ok
 2021,199,Jerma's Big Adventure,1722570,,,,request_error
 2021,200,Cloud Gardens,1372320,2021-01,11.87,30.0,ok
 2021,200,Cloud Gardens,1372320,2021-02,10.52,28.0,ok
@@ -5957,17 +6080,17 @@ year,rank,name,appid,month,avg_players,peak_players,status
 2021,204,SLUDGE LIFE,1144770,2021-10,1.41,5.0,ok
 2021,204,SLUDGE LIFE,1144770,2021-11,2.0,8.0,ok
 2021,204,SLUDGE LIFE,1144770,2021-12,3.48,13.0,ok
-2021,205,The Darkside Detective: A Fumble in the Dark,795420,2021-04,74.96,205.0,ok
-2021,205,The Darkside Detective: A Fumble in the Dark,795420,2021-05,25.08,86.0,ok
-2021,205,The Darkside Detective: A Fumble in the Dark,795420,2021-06,16.2,61.0,ok
-2021,205,The Darkside Detective: A Fumble in the Dark,795420,2021-07,15.98,44.0,ok
-2021,205,The Darkside Detective: A Fumble in the Dark,795420,2021-08,10.46,32.0,ok
-2021,205,The Darkside Detective: A Fumble in the Dark,795420,2021-09,11.4,32.0,ok
-2021,205,The Darkside Detective: A Fumble in the Dark,795420,2021-10,8.11,26.0,ok
-2021,205,The Darkside Detective: A Fumble in the Dark,795420,2021-11,9.72,29.0,ok
-2021,205,The Darkside Detective: A Fumble in the Dark,795420,2021-12,13.11,74.0,ok
-2021,206,Death Trash,941460,,,,request_error
-2021,207,Martial Law,1712390,,,,request_error
+2021,205,Death Trash,941460,,,,request_error
+2021,206,The Darkside Detective: A Fumble in the Dark,795420,2021-04,74.96,205.0,ok
+2021,206,The Darkside Detective: A Fumble in the Dark,795420,2021-05,25.08,86.0,ok
+2021,206,The Darkside Detective: A Fumble in the Dark,795420,2021-06,16.2,61.0,ok
+2021,206,The Darkside Detective: A Fumble in the Dark,795420,2021-07,15.98,44.0,ok
+2021,206,The Darkside Detective: A Fumble in the Dark,795420,2021-08,10.46,32.0,ok
+2021,206,The Darkside Detective: A Fumble in the Dark,795420,2021-09,11.4,32.0,ok
+2021,206,The Darkside Detective: A Fumble in the Dark,795420,2021-10,8.11,26.0,ok
+2021,206,The Darkside Detective: A Fumble in the Dark,795420,2021-11,9.72,29.0,ok
+2021,206,The Darkside Detective: A Fumble in the Dark,795420,2021-12,13.11,74.0,ok
+2021,207,Martial Law,1712390,2021-12,20.77,86.0,ok
 2021,208,MELTY BLOOD: TYPE LUMINA,1372280,2021-10,2254.51,12467.0,ok
 2021,208,MELTY BLOOD: TYPE LUMINA,1372280,2021-11,404.71,985.0,ok
 2021,208,MELTY BLOOD: TYPE LUMINA,1372280,2021-12,171.84,380.0,ok
@@ -6000,7 +6123,13 @@ year,rank,name,appid,month,avg_players,peak_players,status
 2021,215,坏小孩,1626890,2021-09,5.47,38.0,ok
 2021,215,坏小孩,1626890,2021-10,2.01,10.0,ok
 2021,215,坏小孩,1626890,2021-12,2.74,12.0,ok
-2021,216,Luna's Fishing Garden,1477790,,,,request_error
+2021,216,Luna's Fishing Garden,1477790,2021-06,37.3,172.0,ok
+2021,216,Luna's Fishing Garden,1477790,2021-07,6.45,22.0,ok
+2021,216,Luna's Fishing Garden,1477790,2021-08,3.59,12.0,ok
+2021,216,Luna's Fishing Garden,1477790,2021-09,8.31,34.0,ok
+2021,216,Luna's Fishing Garden,1477790,2021-10,3.34,12.0,ok
+2021,216,Luna's Fishing Garden,1477790,2021-11,4.5,26.0,ok
+2021,216,Luna's Fishing Garden,1477790,2021-12,4.43,15.0,ok
 2021,217,FINAL FANTASY III,1173790,2021-08,732.47,1768.0,ok
 2021,217,FINAL FANTASY III,1173790,2021-09,246.42,606.0,ok
 2021,217,FINAL FANTASY III,1173790,2021-10,105.25,239.0,ok
@@ -6088,7 +6217,9 @@ year,rank,name,appid,month,avg_players,peak_players,status
 2021,228,Intravenous,1486630,2021-10,9.06,23.0,ok
 2021,228,Intravenous,1486630,2021-11,13.14,38.0,ok
 2021,228,Intravenous,1486630,2021-12,9.36,30.0,ok
-2021,229,A YEAR OF SPRINGS,1688580,,,,request_error
+2021,229,A YEAR OF SPRINGS,1688580,2021-10,1.78,9.0,ok
+2021,229,A YEAR OF SPRINGS,1688580,2021-11,1.04,4.0,ok
+2021,229,A YEAR OF SPRINGS,1688580,2021-12,1.26,6.0,ok
 2021,230,Yakuza 5 Remastered,1105510,2021-02,466.65,826.0,ok
 2021,230,Yakuza 5 Remastered,1105510,2021-03,477.43,781.0,ok
 2021,230,Yakuza 5 Remastered,1105510,2021-04,380.68,661.0,ok
@@ -6100,19 +6231,19 @@ year,rank,name,appid,month,avg_players,peak_players,status
 2021,230,Yakuza 5 Remastered,1105510,2021-10,229.1,404.0,ok
 2021,230,Yakuza 5 Remastered,1105510,2021-11,192.23,308.0,ok
 2021,230,Yakuza 5 Remastered,1105510,2021-12,199.86,290.0,ok
-2021,231,Siralim Ultimate,1289810,2021-03,329.65,757.0,ok
-2021,231,Siralim Ultimate,1289810,2021-04,100.41,198.0,ok
-2021,231,Siralim Ultimate,1289810,2021-05,92.41,152.0,ok
-2021,231,Siralim Ultimate,1289810,2021-06,61.73,129.0,ok
-2021,231,Siralim Ultimate,1289810,2021-07,79.44,177.0,ok
-2021,231,Siralim Ultimate,1289810,2021-08,64.35,129.0,ok
-2021,231,Siralim Ultimate,1289810,2021-09,53.59,96.0,ok
-2021,231,Siralim Ultimate,1289810,2021-10,35.99,69.0,ok
-2021,231,Siralim Ultimate,1289810,2021-11,57.99,152.0,ok
-2021,231,Siralim Ultimate,1289810,2021-12,293.03,657.0,ok
-2021,232,ElecHead,1456880,2021-10,20.52,75.0,ok
-2021,232,ElecHead,1456880,2021-11,12.89,55.0,ok
-2021,232,ElecHead,1456880,2021-12,5.0,20.0,ok
+2021,231,ElecHead,1456880,2021-10,20.52,75.0,ok
+2021,231,ElecHead,1456880,2021-11,12.89,55.0,ok
+2021,231,ElecHead,1456880,2021-12,5.0,20.0,ok
+2021,232,Siralim Ultimate,1289810,2021-03,329.65,757.0,ok
+2021,232,Siralim Ultimate,1289810,2021-04,100.41,198.0,ok
+2021,232,Siralim Ultimate,1289810,2021-05,92.41,152.0,ok
+2021,232,Siralim Ultimate,1289810,2021-06,61.73,129.0,ok
+2021,232,Siralim Ultimate,1289810,2021-07,79.44,177.0,ok
+2021,232,Siralim Ultimate,1289810,2021-08,64.35,129.0,ok
+2021,232,Siralim Ultimate,1289810,2021-09,53.59,96.0,ok
+2021,232,Siralim Ultimate,1289810,2021-10,35.99,69.0,ok
+2021,232,Siralim Ultimate,1289810,2021-11,57.99,152.0,ok
+2021,232,Siralim Ultimate,1289810,2021-12,293.03,657.0,ok
 2021,233,Legion TD 2 - Multiplayer Tower Defense,469600,2021-01,378.34,930.0,ok
 2021,233,Legion TD 2 - Multiplayer Tower Defense,469600,2021-02,291.76,607.0,ok
 2021,233,Legion TD 2 - Multiplayer Tower Defense,469600,2021-03,272.28,527.0,ok
@@ -6174,7 +6305,12 @@ year,rank,name,appid,month,avg_players,peak_players,status
 2021,240,Purrfect Apawcalypse: Love at Furst Bite,1532510,2021-12,1.33,6.0,ok
 2021,241,Ancient Dungeon,1125240,2021-11,25.47,86.0,ok
 2021,241,Ancient Dungeon,1125240,2021-12,18.12,63.0,ok
-2021,242,Letters From a Rainy Day -Oceans and Lace-,1637370,,,,request_error
+2021,242,Letters From a Rainy Day -Oceans and Lace-,1637370,2021-07,19.14,123.0,ok
+2021,242,Letters From a Rainy Day -Oceans and Lace-,1637370,2021-08,5.45,18.0,ok
+2021,242,Letters From a Rainy Day -Oceans and Lace-,1637370,2021-09,3.17,10.0,ok
+2021,242,Letters From a Rainy Day -Oceans and Lace-,1637370,2021-10,4.31,19.0,ok
+2021,242,Letters From a Rainy Day -Oceans and Lace-,1637370,2021-11,4.54,20.0,ok
+2021,242,Letters From a Rainy Day -Oceans and Lace-,1637370,2021-12,2.83,14.0,ok
 2021,243,The Adventure of NAYU,1476340,2021-01,24.07,67.0,ok
 2021,243,The Adventure of NAYU,1476340,2021-02,8.4,61.0,ok
 2021,243,The Adventure of NAYU,1476340,2021-03,2.99,11.0,ok
@@ -6581,24 +6717,24 @@ year,rank,name,appid,month,avg_players,peak_players,status
 2022,51,Teenage Mutant Ninja Turtles: Shredder's Revenge,1361510,2022-10,102.18,248.0,ok
 2022,51,Teenage Mutant Ninja Turtles: Shredder's Revenge,1361510,2022-11,89.22,209.0,ok
 2022,51,Teenage Mutant Ninja Turtles: Shredder's Revenge,1361510,2022-12,126.85,295.0,ok
-2022,52,LEGO® Star Wars™: The Skywalker Saga,920210,2022-04,25021.97,82446.0,ok
-2022,52,LEGO® Star Wars™: The Skywalker Saga,920210,2022-05,5430.65,17097.0,ok
-2022,52,LEGO® Star Wars™: The Skywalker Saga,920210,2022-06,2742.21,5436.0,ok
-2022,52,LEGO® Star Wars™: The Skywalker Saga,920210,2022-07,2067.3,4882.0,ok
-2022,52,LEGO® Star Wars™: The Skywalker Saga,920210,2022-08,1276.76,2823.0,ok
-2022,52,LEGO® Star Wars™: The Skywalker Saga,920210,2022-09,842.5,1777.0,ok
-2022,52,LEGO® Star Wars™: The Skywalker Saga,920210,2022-10,1008.11,3065.0,ok
-2022,52,LEGO® Star Wars™: The Skywalker Saga,920210,2022-11,853.33,2159.0,ok
-2022,52,LEGO® Star Wars™: The Skywalker Saga,920210,2022-12,1266.27,2874.0,ok
-2022,53,Ib,1901370,2022-04,261.93,1822.0,ok
-2022,53,Ib,1901370,2022-05,102.2,344.0,ok
-2022,53,Ib,1901370,2022-06,45.88,130.0,ok
-2022,53,Ib,1901370,2022-07,40.72,418.0,ok
-2022,53,Ib,1901370,2022-08,71.87,296.0,ok
-2022,53,Ib,1901370,2022-09,33.89,83.0,ok
-2022,53,Ib,1901370,2022-10,26.5,61.0,ok
-2022,53,Ib,1901370,2022-11,19.45,49.0,ok
-2022,53,Ib,1901370,2022-12,18.06,41.0,ok
+2022,52,Ib,1901370,2022-04,261.93,1822.0,ok
+2022,52,Ib,1901370,2022-05,102.2,344.0,ok
+2022,52,Ib,1901370,2022-06,45.88,130.0,ok
+2022,52,Ib,1901370,2022-07,40.72,418.0,ok
+2022,52,Ib,1901370,2022-08,71.87,296.0,ok
+2022,52,Ib,1901370,2022-09,33.89,83.0,ok
+2022,52,Ib,1901370,2022-10,26.5,61.0,ok
+2022,52,Ib,1901370,2022-11,19.45,49.0,ok
+2022,52,Ib,1901370,2022-12,18.06,41.0,ok
+2022,53,LEGO® Star Wars™: The Skywalker Saga,920210,2022-04,25021.97,82446.0,ok
+2022,53,LEGO® Star Wars™: The Skywalker Saga,920210,2022-05,5430.65,17097.0,ok
+2022,53,LEGO® Star Wars™: The Skywalker Saga,920210,2022-06,2742.21,5436.0,ok
+2022,53,LEGO® Star Wars™: The Skywalker Saga,920210,2022-07,2067.3,4882.0,ok
+2022,53,LEGO® Star Wars™: The Skywalker Saga,920210,2022-08,1276.76,2823.0,ok
+2022,53,LEGO® Star Wars™: The Skywalker Saga,920210,2022-09,842.5,1777.0,ok
+2022,53,LEGO® Star Wars™: The Skywalker Saga,920210,2022-10,1008.11,3065.0,ok
+2022,53,LEGO® Star Wars™: The Skywalker Saga,920210,2022-11,853.33,2159.0,ok
+2022,53,LEGO® Star Wars™: The Skywalker Saga,920210,2022-12,1266.27,2874.0,ok
 2022,54,One-armed cook,1977530,2022-09,357.61,950.0,ok
 2022,54,One-armed cook,1977530,2022-10,503.41,2109.0,ok
 2022,54,One-armed cook,1977530,2022-11,498.3,1903.0,ok
@@ -6716,25 +6852,25 @@ year,rank,name,appid,month,avg_players,peak_players,status
 2022,75,Kena: Bridge of Spirits,1954200,2022-10,476.79,2349.0,ok
 2022,75,Kena: Bridge of Spirits,1954200,2022-11,347.67,1845.0,ok
 2022,75,Kena: Bridge of Spirits,1954200,2022-12,640.0,1552.0,ok
-2022,76,SuchArt: Genius Artist Simulator,1293180,2022-01,45.77,92.0,ok
-2022,76,SuchArt: Genius Artist Simulator,1293180,2022-02,39.84,82.0,ok
-2022,76,SuchArt: Genius Artist Simulator,1293180,2022-03,46.41,238.0,ok
-2022,76,SuchArt: Genius Artist Simulator,1293180,2022-04,44.35,121.0,ok
-2022,76,SuchArt: Genius Artist Simulator,1293180,2022-05,31.76,75.0,ok
-2022,76,SuchArt: Genius Artist Simulator,1293180,2022-06,28.49,60.0,ok
-2022,76,SuchArt: Genius Artist Simulator,1293180,2022-07,35.22,85.0,ok
-2022,76,SuchArt: Genius Artist Simulator,1293180,2022-08,25.73,49.0,ok
-2022,76,SuchArt: Genius Artist Simulator,1293180,2022-09,29.88,100.0,ok
-2022,76,SuchArt: Genius Artist Simulator,1293180,2022-10,63.7,286.0,ok
-2022,76,SuchArt: Genius Artist Simulator,1293180,2022-11,34.85,76.0,ok
-2022,76,SuchArt: Genius Artist Simulator,1293180,2022-12,35.48,74.0,ok
-2022,77,月に寄りそう乙女の作法,1776970,2022-06,300.33,676.0,ok
-2022,77,月に寄りそう乙女の作法,1776970,2022-07,115.0,395.0,ok
-2022,77,月に寄りそう乙女の作法,1776970,2022-08,67.13,156.0,ok
-2022,77,月に寄りそう乙女の作法,1776970,2022-09,44.23,118.0,ok
-2022,77,月に寄りそう乙女の作法,1776970,2022-10,37.86,93.0,ok
-2022,77,月に寄りそう乙女の作法,1776970,2022-11,33.89,96.0,ok
-2022,77,月に寄りそう乙女の作法,1776970,2022-12,44.31,105.0,ok
+2022,76,月に寄りそう乙女の作法,1776970,2022-06,300.33,676.0,ok
+2022,76,月に寄りそう乙女の作法,1776970,2022-07,115.0,395.0,ok
+2022,76,月に寄りそう乙女の作法,1776970,2022-08,67.13,156.0,ok
+2022,76,月に寄りそう乙女の作法,1776970,2022-09,44.23,118.0,ok
+2022,76,月に寄りそう乙女の作法,1776970,2022-10,37.86,93.0,ok
+2022,76,月に寄りそう乙女の作法,1776970,2022-11,33.89,96.0,ok
+2022,76,月に寄りそう乙女の作法,1776970,2022-12,44.31,105.0,ok
+2022,77,SuchArt: Genius Artist Simulator,1293180,2022-01,45.77,92.0,ok
+2022,77,SuchArt: Genius Artist Simulator,1293180,2022-02,39.84,82.0,ok
+2022,77,SuchArt: Genius Artist Simulator,1293180,2022-03,46.41,238.0,ok
+2022,77,SuchArt: Genius Artist Simulator,1293180,2022-04,44.35,121.0,ok
+2022,77,SuchArt: Genius Artist Simulator,1293180,2022-05,31.76,75.0,ok
+2022,77,SuchArt: Genius Artist Simulator,1293180,2022-06,28.49,60.0,ok
+2022,77,SuchArt: Genius Artist Simulator,1293180,2022-07,35.22,85.0,ok
+2022,77,SuchArt: Genius Artist Simulator,1293180,2022-08,25.73,49.0,ok
+2022,77,SuchArt: Genius Artist Simulator,1293180,2022-09,29.88,100.0,ok
+2022,77,SuchArt: Genius Artist Simulator,1293180,2022-10,63.7,286.0,ok
+2022,77,SuchArt: Genius Artist Simulator,1293180,2022-11,34.85,76.0,ok
+2022,77,SuchArt: Genius Artist Simulator,1293180,2022-12,35.48,74.0,ok
 2022,78,Tinykin,1599020,2022-09,64.58,246.0,ok
 2022,78,Tinykin,1599020,2022-10,20.83,50.0,ok
 2022,78,Tinykin,1599020,2022-11,14.66,46.0,ok
@@ -6759,20 +6895,20 @@ year,rank,name,appid,month,avg_players,peak_players,status
 2022,82,Animal Revolt Battle Simulator,1215390,2022-11,254.8,413.0,ok
 2022,82,Animal Revolt Battle Simulator,1215390,2022-12,281.49,400.0,ok
 2022,83,Melatonin,1585220,2022-12,73.37,171.0,ok
-2022,84,Lost Judgment,2058190,2022-09,979.55,2197.0,ok
-2022,84,Lost Judgment,2058190,2022-10,992.41,2230.0,ok
-2022,84,Lost Judgment,2058190,2022-11,522.13,1177.0,ok
-2022,84,Lost Judgment,2058190,2022-12,618.92,1182.0,ok
-2022,85,TUNIC,553420,2022-03,1296.87,2501.0,ok
-2022,85,TUNIC,553420,2022-04,594.97,1339.0,ok
-2022,85,TUNIC,553420,2022-05,308.75,750.0,ok
-2022,85,TUNIC,553420,2022-06,281.75,903.0,ok
-2022,85,TUNIC,553420,2022-07,316.47,788.0,ok
-2022,85,TUNIC,553420,2022-08,156.9,376.0,ok
-2022,85,TUNIC,553420,2022-09,171.25,384.0,ok
-2022,85,TUNIC,553420,2022-10,172.42,353.0,ok
-2022,85,TUNIC,553420,2022-11,136.94,246.0,ok
-2022,85,TUNIC,553420,2022-12,394.73,906.0,ok
+2022,84,TUNIC,553420,2022-03,1296.87,2501.0,ok
+2022,84,TUNIC,553420,2022-04,594.97,1339.0,ok
+2022,84,TUNIC,553420,2022-05,308.75,750.0,ok
+2022,84,TUNIC,553420,2022-06,281.75,903.0,ok
+2022,84,TUNIC,553420,2022-07,316.47,788.0,ok
+2022,84,TUNIC,553420,2022-08,156.9,376.0,ok
+2022,84,TUNIC,553420,2022-09,171.25,384.0,ok
+2022,84,TUNIC,553420,2022-10,172.42,353.0,ok
+2022,84,TUNIC,553420,2022-11,136.94,246.0,ok
+2022,84,TUNIC,553420,2022-12,394.73,906.0,ok
+2022,85,Lost Judgment,2058190,2022-09,979.55,2197.0,ok
+2022,85,Lost Judgment,2058190,2022-10,992.41,2230.0,ok
+2022,85,Lost Judgment,2058190,2022-11,522.13,1177.0,ok
+2022,85,Lost Judgment,2058190,2022-12,618.92,1182.0,ok
 2022,86,私のリアルは充実しすぎている フルボイス版,2106520,2022-12,242.35,1180.0,ok
 2022,87,Sonic Frontiers,1237320,2022-11,4029.66,19104.0,ok
 2022,87,Sonic Frontiers,1237320,2022-12,1184.99,3075.0,ok
@@ -6789,14 +6925,14 @@ year,rank,name,appid,month,avg_players,peak_players,status
 2022,89,I Was a Teenage Exocolonist,1148760,2022-10,105.37,200.0,ok
 2022,89,I Was a Teenage Exocolonist,1148760,2022-11,91.75,175.0,ok
 2022,89,I Was a Teenage Exocolonist,1148760,2022-12,179.14,477.0,ok
-2022,90,Captain of Industry,1594320,2022-06,3240.55,6125.0,ok
-2022,90,Captain of Industry,1594320,2022-07,2234.69,4106.0,ok
-2022,90,Captain of Industry,1594320,2022-08,1500.39,2817.0,ok
-2022,90,Captain of Industry,1594320,2022-09,1136.54,2048.0,ok
-2022,90,Captain of Industry,1594320,2022-10,1084.91,2013.0,ok
-2022,90,Captain of Industry,1594320,2022-11,836.82,1552.0,ok
-2022,90,Captain of Industry,1594320,2022-12,745.22,1358.0,ok
-2022,91,Ticy Adventure Club,2135690,2022-12,47.9,174.0,ok
+2022,90,Ticy Adventure Club,2135690,2022-12,47.9,174.0,ok
+2022,91,Captain of Industry,1594320,2022-06,3240.55,6125.0,ok
+2022,91,Captain of Industry,1594320,2022-07,2234.69,4106.0,ok
+2022,91,Captain of Industry,1594320,2022-08,1500.39,2817.0,ok
+2022,91,Captain of Industry,1594320,2022-09,1136.54,2048.0,ok
+2022,91,Captain of Industry,1594320,2022-10,1084.91,2013.0,ok
+2022,91,Captain of Industry,1594320,2022-11,836.82,1552.0,ok
+2022,91,Captain of Industry,1594320,2022-12,745.22,1358.0,ok
 2022,92,FINAL FANTASY VII REMAKE INTERGRADE,1462040,2022-06,8027.17,13803.0,ok
 2022,92,FINAL FANTASY VII REMAKE INTERGRADE,1462040,2022-07,3367.48,8885.0,ok
 2022,92,FINAL FANTASY VII REMAKE INTERGRADE,1462040,2022-08,1117.86,2236.0,ok
@@ -7147,7 +7283,18 @@ year,rank,name,appid,month,avg_players,peak_players,status
 2022,142,Love Delivery,1817940,2022-10,13.84,58.0,ok
 2022,142,Love Delivery,1817940,2022-11,10.22,31.0,ok
 2022,142,Love Delivery,1817940,2022-12,17.29,107.0,ok
-2022,143,Cave Crawler,1865440,,,,request_error
+2022,143,Cave Crawler,1865440,2022-01,48.44,88.0,ok
+2022,143,Cave Crawler,1865440,2022-02,24.95,94.0,ok
+2022,143,Cave Crawler,1865440,2022-03,10.09,28.0,ok
+2022,143,Cave Crawler,1865440,2022-04,5.19,16.0,ok
+2022,143,Cave Crawler,1865440,2022-05,3.63,13.0,ok
+2022,143,Cave Crawler,1865440,2022-06,2.83,12.0,ok
+2022,143,Cave Crawler,1865440,2022-07,2.55,9.0,ok
+2022,143,Cave Crawler,1865440,2022-08,2.2,7.0,ok
+2022,143,Cave Crawler,1865440,2022-09,2.16,7.0,ok
+2022,143,Cave Crawler,1865440,2022-10,2.02,7.0,ok
+2022,143,Cave Crawler,1865440,2022-11,2.12,7.0,ok
+2022,143,Cave Crawler,1865440,2022-12,1.6,6.0,ok
 2022,144,COMPOUND,615120,,,,request_error
 2022,145,Who's Lila?,1697700,2022-03,20.79,73.0,ok
 2022,145,Who's Lila?,1697700,2022-04,11.03,25.0,ok
@@ -7276,15 +7423,15 @@ year,rank,name,appid,month,avg_players,peak_players,status
 2022,160,Nobody Saves the World,1432050,2022-11,117.52,319.0,ok
 2022,160,Nobody Saves the World,1432050,2022-12,109.77,266.0,ok
 2022,161,Spark the Electric Jester 3,1629530,,,,request_error
-2022,162,ERROR143,2066550,2022-07,123.91,261.0,ok
-2022,162,ERROR143,2066550,2022-08,62.02,124.0,ok
-2022,162,ERROR143,2066550,2022-09,40.43,86.0,ok
-2022,162,ERROR143,2066550,2022-10,35.27,95.0,ok
-2022,162,ERROR143,2066550,2022-11,54.89,197.0,ok
-2022,162,ERROR143,2066550,2022-12,99.81,477.0,ok
-2022,163,Hamidashi Creative,1604380,2022-10,42.82,176.0,ok
-2022,163,Hamidashi Creative,1604380,2022-11,26.27,78.0,ok
-2022,163,Hamidashi Creative,1604380,2022-12,22.88,58.0,ok
+2022,162,Hamidashi Creative,1604380,2022-10,42.82,176.0,ok
+2022,162,Hamidashi Creative,1604380,2022-11,26.27,78.0,ok
+2022,162,Hamidashi Creative,1604380,2022-12,22.88,58.0,ok
+2022,163,ERROR143,2066550,2022-07,123.91,261.0,ok
+2022,163,ERROR143,2066550,2022-08,62.02,124.0,ok
+2022,163,ERROR143,2066550,2022-09,40.43,86.0,ok
+2022,163,ERROR143,2066550,2022-10,35.27,95.0,ok
+2022,163,ERROR143,2066550,2022-11,54.89,197.0,ok
+2022,163,ERROR143,2066550,2022-12,99.81,477.0,ok
 2022,164,Her New Memory - Hentai Simulator,1296770,2022-01,34.84,83.0,ok
 2022,164,Her New Memory - Hentai Simulator,1296770,2022-02,85.68,244.0,ok
 2022,164,Her New Memory - Hentai Simulator,1296770,2022-03,70.85,133.0,ok
@@ -7347,7 +7494,14 @@ year,rank,name,appid,month,avg_players,peak_players,status
 2022,171,Potionomics,1874490,2022-10,1765.99,4570.0,ok
 2022,171,Potionomics,1874490,2022-11,479.29,1137.0,ok
 2022,171,Potionomics,1874490,2022-12,282.25,689.0,ok
-2022,172,Zodiacats,1817000,,,,request_error
+2022,172,Zodiacats,1817000,2022-02,1.11,5.0,ok
+2022,172,Zodiacats,1817000,2022-04,1.02,4.0,ok
+2022,172,Zodiacats,1817000,2022-07,3.4,13.0,ok
+2022,172,Zodiacats,1817000,2022-08,2.81,8.0,ok
+2022,172,Zodiacats,1817000,2022-09,2.34,8.0,ok
+2022,172,Zodiacats,1817000,2022-10,2.14,7.0,ok
+2022,172,Zodiacats,1817000,2022-11,7.87,22.0,ok
+2022,172,Zodiacats,1817000,2022-12,7.11,34.0,ok
 2022,173,Islets,1669420,2022-08,65.66,132.0,ok
 2022,173,Islets,1669420,2022-09,19.41,54.0,ok
 2022,173,Islets,1669420,2022-10,8.46,33.0,ok
@@ -7392,8 +7546,10 @@ year,rank,name,appid,month,avg_players,peak_players,status
 2022,181,Weird RPG,1902710,2022-10,379.39,1148.0,ok
 2022,181,Weird RPG,1902710,2022-11,204.4,933.0,ok
 2022,181,Weird RPG,1902710,2022-12,146.59,715.0,ok
-2022,182,Antimatter Dimensions,1399720,2022-12,5386.55,6824.0,ok
-2022,183,Linelith,1923790,,,,request_error
+2022,182,Linelith,1923790,2022-05,8.06,52.0,ok
+2022,182,Linelith,1923790,2022-06,1.79,8.0,ok
+2022,182,Linelith,1923790,2022-11,1.18,4.0,ok
+2022,183,Antimatter Dimensions,1399720,2022-12,5386.55,6824.0,ok
 2022,184,Hooked on You: A Dead by Daylight Dating Sim™,1866180,2022-08,246.93,1188.0,ok
 2022,184,Hooked on You: A Dead by Daylight Dating Sim™,1866180,2022-09,48.64,96.0,ok
 2022,184,Hooked on You: A Dead by Daylight Dating Sim™,1866180,2022-10,29.17,64.0,ok
@@ -7427,7 +7583,9 @@ year,rank,name,appid,month,avg_players,peak_players,status
 2022,187,瘟疫清零计划 Project Zero,2088250,2022-11,97.49,273.0,ok
 2022,187,瘟疫清零计划 Project Zero,2088250,2022-12,78.64,590.0,ok
 2022,188,Lunistice,1701800,,,,request_error
-2022,189,Endoparasitic,2124780,,,,request_error
+2022,189,Endoparasitic,2124780,2022-10,200.65,346.0,ok
+2022,189,Endoparasitic,2124780,2022-11,30.19,149.0,ok
+2022,189,Endoparasitic,2124780,2022-12,17.66,62.0,ok
 2022,190,Foxhole,505460,2022-01,1572.23,4080.0,ok
 2022,190,Foxhole,505460,2022-02,1389.34,3700.0,ok
 2022,190,Foxhole,505460,2022-03,1290.98,3190.0,ok
@@ -7597,24 +7755,24 @@ year,rank,name,appid,month,avg_players,peak_players,status
 2022,216,The Excavation of Hob's Barrow,1182310,2022-10,55.58,211.0,ok
 2022,216,The Excavation of Hob's Barrow,1182310,2022-11,23.4,71.0,ok
 2022,216,The Excavation of Hob's Barrow,1182310,2022-12,18.81,69.0,ok
-2022,217,Chicken Invaders Universe,1510460,2022-01,84.46,169.0,ok
-2022,217,Chicken Invaders Universe,1510460,2022-02,83.69,166.0,ok
-2022,217,Chicken Invaders Universe,1510460,2022-03,79.61,166.0,ok
-2022,217,Chicken Invaders Universe,1510460,2022-04,76.7,151.0,ok
-2022,217,Chicken Invaders Universe,1510460,2022-05,81.45,179.0,ok
-2022,217,Chicken Invaders Universe,1510460,2022-06,85.02,184.0,ok
-2022,217,Chicken Invaders Universe,1510460,2022-07,94.54,207.0,ok
-2022,217,Chicken Invaders Universe,1510460,2022-08,88.56,181.0,ok
-2022,217,Chicken Invaders Universe,1510460,2022-09,82.11,158.0,ok
-2022,217,Chicken Invaders Universe,1510460,2022-10,74.88,153.0,ok
-2022,217,Chicken Invaders Universe,1510460,2022-11,75.23,146.0,ok
-2022,217,Chicken Invaders Universe,1510460,2022-12,144.73,414.0,ok
-2022,218,We Who Are About To Die,973230,2022-11,885.8,1683.0,ok
-2022,218,We Who Are About To Die,973230,2022-12,547.45,1071.0,ok
-2022,219,The Zachtronics Solitaire Collection,1988540,2022-09,55.54,114.0,ok
-2022,219,The Zachtronics Solitaire Collection,1988540,2022-10,46.97,97.0,ok
-2022,219,The Zachtronics Solitaire Collection,1988540,2022-11,39.96,76.0,ok
-2022,219,The Zachtronics Solitaire Collection,1988540,2022-12,39.78,68.0,ok
+2022,217,The Zachtronics Solitaire Collection,1988540,2022-09,55.54,114.0,ok
+2022,217,The Zachtronics Solitaire Collection,1988540,2022-10,46.97,97.0,ok
+2022,217,The Zachtronics Solitaire Collection,1988540,2022-11,39.96,76.0,ok
+2022,217,The Zachtronics Solitaire Collection,1988540,2022-12,39.78,68.0,ok
+2022,218,Chicken Invaders Universe,1510460,2022-01,84.46,169.0,ok
+2022,218,Chicken Invaders Universe,1510460,2022-02,83.69,166.0,ok
+2022,218,Chicken Invaders Universe,1510460,2022-03,79.61,166.0,ok
+2022,218,Chicken Invaders Universe,1510460,2022-04,76.7,151.0,ok
+2022,218,Chicken Invaders Universe,1510460,2022-05,81.45,179.0,ok
+2022,218,Chicken Invaders Universe,1510460,2022-06,85.02,184.0,ok
+2022,218,Chicken Invaders Universe,1510460,2022-07,94.54,207.0,ok
+2022,218,Chicken Invaders Universe,1510460,2022-08,88.56,181.0,ok
+2022,218,Chicken Invaders Universe,1510460,2022-09,82.11,158.0,ok
+2022,218,Chicken Invaders Universe,1510460,2022-10,74.88,153.0,ok
+2022,218,Chicken Invaders Universe,1510460,2022-11,75.23,146.0,ok
+2022,218,Chicken Invaders Universe,1510460,2022-12,144.73,414.0,ok
+2022,219,We Who Are About To Die,973230,2022-11,885.8,1683.0,ok
+2022,219,We Who Are About To Die,973230,2022-12,547.45,1071.0,ok
 2022,220,House Party,611790,2022-01,264.76,389.0,ok
 2022,220,House Party,611790,2022-02,185.92,338.0,ok
 2022,220,House Party,611790,2022-03,200.9,320.0,ok
@@ -7633,14 +7791,14 @@ year,rank,name,appid,month,avg_players,peak_players,status
 2022,221,GigaBash,1546400,2022-11,10.15,32.0,ok
 2022,221,GigaBash,1546400,2022-12,63.42,291.0,ok
 2022,222,her tears were my light,2112520,,,,request_error
-2022,223,Stay Out of the House,896520,2022-10,57.77,181.0,ok
-2022,223,Stay Out of the House,896520,2022-11,15.43,84.0,ok
-2022,223,Stay Out of the House,896520,2022-12,11.65,32.0,ok
-2022,224,Bear and Breakfast,1136370,2022-08,795.72,2476.0,ok
-2022,224,Bear and Breakfast,1136370,2022-09,249.38,588.0,ok
-2022,224,Bear and Breakfast,1136370,2022-10,130.19,328.0,ok
-2022,224,Bear and Breakfast,1136370,2022-11,114.26,359.0,ok
-2022,224,Bear and Breakfast,1136370,2022-12,213.21,770.0,ok
+2022,223,Bear and Breakfast,1136370,2022-08,795.72,2476.0,ok
+2022,223,Bear and Breakfast,1136370,2022-09,249.38,588.0,ok
+2022,223,Bear and Breakfast,1136370,2022-10,130.19,328.0,ok
+2022,223,Bear and Breakfast,1136370,2022-11,114.26,359.0,ok
+2022,223,Bear and Breakfast,1136370,2022-12,213.21,770.0,ok
+2022,224,Stay Out of the House,896520,2022-10,57.77,181.0,ok
+2022,224,Stay Out of the House,896520,2022-11,15.43,84.0,ok
+2022,224,Stay Out of the House,896520,2022-12,11.65,32.0,ok
 2022,225,Kiwi Clicker - Juiced Up,1980530,2022-08,623.81,1320.0,ok
 2022,225,Kiwi Clicker - Juiced Up,1980530,2022-09,398.57,649.0,ok
 2022,225,Kiwi Clicker - Juiced Up,1980530,2022-10,379.63,651.0,ok
@@ -7675,7 +7833,16 @@ year,rank,name,appid,month,avg_players,peak_players,status
 2022,230,Omega Strikers,1869590,2022-10,3115.33,8569.0,ok
 2022,230,Omega Strikers,1869590,2022-11,928.33,1888.0,ok
 2022,230,Omega Strikers,1869590,2022-12,423.39,768.0,ok
-2022,231,Urbek City Builder: Prologue,1785820,,,,request_error
+2022,231,Urbek City Builder: Prologue,1785820,2022-03,190.57,452.0,ok
+2022,231,Urbek City Builder: Prologue,1785820,2022-04,61.93,144.0,ok
+2022,231,Urbek City Builder: Prologue,1785820,2022-05,38.78,113.0,ok
+2022,231,Urbek City Builder: Prologue,1785820,2022-06,25.14,60.0,ok
+2022,231,Urbek City Builder: Prologue,1785820,2022-07,27.14,67.0,ok
+2022,231,Urbek City Builder: Prologue,1785820,2022-08,21.89,50.0,ok
+2022,231,Urbek City Builder: Prologue,1785820,2022-09,12.47,35.0,ok
+2022,231,Urbek City Builder: Prologue,1785820,2022-10,11.46,35.0,ok
+2022,231,Urbek City Builder: Prologue,1785820,2022-11,10.38,37.0,ok
+2022,231,Urbek City Builder: Prologue,1785820,2022-12,10.21,26.0,ok
 2022,232,Magic Rampage,704920,2022-02,1.61,7.0,ok
 2022,232,Magic Rampage,704920,2022-03,1.11,4.0,ok
 2022,232,Magic Rampage,704920,2022-04,1.73,7.0,ok
@@ -7720,9 +7887,9 @@ year,rank,name,appid,month,avg_players,peak_players,status
 2022,236,Shinobi Warfare,1895300,2022-10,57.79,146.0,ok
 2022,236,Shinobi Warfare,1895300,2022-11,49.93,125.0,ok
 2022,236,Shinobi Warfare,1895300,2022-12,51.97,115.0,ok
-2022,237,JellyCar Worlds,1740930,2022-12,19.25,46.0,ok
-2022,238,Crysis 3 Remastered,2096610,2022-11,276.26,482.0,ok
-2022,238,Crysis 3 Remastered,2096610,2022-12,140.45,376.0,ok
+2022,237,Crysis 3 Remastered,2096610,2022-11,276.26,482.0,ok
+2022,237,Crysis 3 Remastered,2096610,2022-12,140.45,376.0,ok
+2022,238,JellyCar Worlds,1740930,2022-12,19.25,46.0,ok
 2022,239,Crystal Project,1637730,2022-04,357.3,820.0,ok
 2022,239,Crystal Project,1637730,2022-05,216.78,464.0,ok
 2022,239,Crystal Project,1637730,2022-06,125.98,312.0,ok
@@ -7732,26 +7899,26 @@ year,rank,name,appid,month,avg_players,peak_players,status
 2022,239,Crystal Project,1637730,2022-10,55.03,115.0,ok
 2022,239,Crystal Project,1637730,2022-11,44.68,100.0,ok
 2022,239,Crystal Project,1637730,2022-12,55.73,176.0,ok
-2022,240,Towards Future,1888010,2022-02,6.43,28.0,ok
-2022,240,Towards Future,1888010,2022-03,4.53,23.0,ok
-2022,240,Towards Future,1888010,2022-04,3.0,12.0,ok
-2022,240,Towards Future,1888010,2022-05,2.51,10.0,ok
-2022,240,Towards Future,1888010,2022-06,2.07,7.0,ok
-2022,240,Towards Future,1888010,2022-07,2.14,7.0,ok
-2022,240,Towards Future,1888010,2022-08,1.98,8.0,ok
-2022,240,Towards Future,1888010,2022-09,1.37,5.0,ok
-2022,240,Towards Future,1888010,2022-11,1.38,6.0,ok
-2022,241,Kinkoi: Golden Time,1985260,2022-07,107.54,316.0,ok
-2022,241,Kinkoi: Golden Time,1985260,2022-08,27.17,69.0,ok
-2022,241,Kinkoi: Golden Time,1985260,2022-09,13.59,28.0,ok
-2022,241,Kinkoi: Golden Time,1985260,2022-10,9.26,23.0,ok
-2022,241,Kinkoi: Golden Time,1985260,2022-11,8.08,23.0,ok
-2022,241,Kinkoi: Golden Time,1985260,2022-12,11.01,30.0,ok
-2022,242,Two Point Campus,1649080,2022-08,3250.94,7510.0,ok
-2022,242,Two Point Campus,1649080,2022-09,1022.91,2996.0,ok
-2022,242,Two Point Campus,1649080,2022-10,600.7,1562.0,ok
-2022,242,Two Point Campus,1649080,2022-11,367.54,833.0,ok
-2022,242,Two Point Campus,1649080,2022-12,541.91,960.0,ok
+2022,240,Two Point Campus,1649080,2022-08,3250.94,7510.0,ok
+2022,240,Two Point Campus,1649080,2022-09,1022.91,2996.0,ok
+2022,240,Two Point Campus,1649080,2022-10,600.7,1562.0,ok
+2022,240,Two Point Campus,1649080,2022-11,367.54,833.0,ok
+2022,240,Two Point Campus,1649080,2022-12,541.91,960.0,ok
+2022,241,Towards Future,1888010,2022-02,6.43,28.0,ok
+2022,241,Towards Future,1888010,2022-03,4.53,23.0,ok
+2022,241,Towards Future,1888010,2022-04,3.0,12.0,ok
+2022,241,Towards Future,1888010,2022-05,2.51,10.0,ok
+2022,241,Towards Future,1888010,2022-06,2.07,7.0,ok
+2022,241,Towards Future,1888010,2022-07,2.14,7.0,ok
+2022,241,Towards Future,1888010,2022-08,1.98,8.0,ok
+2022,241,Towards Future,1888010,2022-09,1.37,5.0,ok
+2022,241,Towards Future,1888010,2022-11,1.38,6.0,ok
+2022,242,Kinkoi: Golden Time,1985260,2022-07,107.54,316.0,ok
+2022,242,Kinkoi: Golden Time,1985260,2022-08,27.17,69.0,ok
+2022,242,Kinkoi: Golden Time,1985260,2022-09,13.59,28.0,ok
+2022,242,Kinkoi: Golden Time,1985260,2022-10,9.26,23.0,ok
+2022,242,Kinkoi: Golden Time,1985260,2022-11,8.08,23.0,ok
+2022,242,Kinkoi: Golden Time,1985260,2022-12,11.01,30.0,ok
 2022,243,You Will (Not) Remain,1776160,2022-01,39.04,126.0,ok
 2022,243,You Will (Not) Remain,1776160,2022-02,8.51,23.0,ok
 2022,243,You Will (Not) Remain,1776160,2022-03,4.84,14.0,ok
@@ -7798,14 +7965,14 @@ year,rank,name,appid,month,avg_players,peak_players,status
 2022,247,Deducto,1453490,2022-11,64.57,300.0,ok
 2022,247,Deducto,1453490,2022-12,79.0,307.0,ok
 2022,248,DRAINUS,1975360,,,,request_error
-2022,249,Sniper Elite 5,1029690,2022-06,4485.19,11295.0,ok
-2022,249,Sniper Elite 5,1029690,2022-07,2330.98,4406.0,ok
-2022,249,Sniper Elite 5,1029690,2022-08,1847.22,3518.0,ok
-2022,249,Sniper Elite 5,1029690,2022-09,1372.74,2722.0,ok
-2022,249,Sniper Elite 5,1029690,2022-10,1227.8,2491.0,ok
-2022,249,Sniper Elite 5,1029690,2022-11,1256.43,2942.0,ok
-2022,249,Sniper Elite 5,1029690,2022-12,1889.62,3637.0,ok
-2022,250,The Death | Thần Trùng,1726400,,,,request_error
+2022,249,Five Nights At Floppa,1878740,,,,request_error
+2022,250,Sniper Elite 5,1029690,2022-06,4485.19,11295.0,ok
+2022,250,Sniper Elite 5,1029690,2022-07,2330.98,4406.0,ok
+2022,250,Sniper Elite 5,1029690,2022-08,1847.22,3518.0,ok
+2022,250,Sniper Elite 5,1029690,2022-09,1372.74,2722.0,ok
+2022,250,Sniper Elite 5,1029690,2022-10,1227.8,2491.0,ok
+2022,250,Sniper Elite 5,1029690,2022-11,1256.43,2942.0,ok
+2022,250,Sniper Elite 5,1029690,2022-12,1889.62,3637.0,ok
 2023,1,Baldur's Gate 3,1086940,2023-01,3120.62,7184.0,ok
 2023,1,Baldur's Gate 3,1086940,2023-02,2139.12,4676.0,ok
 2023,1,Baldur's Gate 3,1086940,2023-03,2423.73,5106.0,ok
@@ -8227,23 +8394,23 @@ year,rank,name,appid,month,avg_players,peak_players,status
 2023,61,DR LIVESEY ROM AND DEATH EDITION,2181930,2023-10,8.62,32.0,ok
 2023,61,DR LIVESEY ROM AND DEATH EDITION,2181930,2023-11,14.6,78.0,ok
 2023,61,DR LIVESEY ROM AND DEATH EDITION,2181930,2023-12,11.21,35.0,ok
-2023,62,Disney Dreamlight Valley,1401590,2023-01,2855.63,6710.0,ok
-2023,62,Disney Dreamlight Valley,1401590,2023-02,2631.92,8131.0,ok
-2023,62,Disney Dreamlight Valley,1401590,2023-03,1841.24,3740.0,ok
-2023,62,Disney Dreamlight Valley,1401590,2023-04,2860.92,7141.0,ok
-2023,62,Disney Dreamlight Valley,1401590,2023-05,1473.7,2871.0,ok
-2023,62,Disney Dreamlight Valley,1401590,2023-06,2385.34,7482.0,ok
-2023,62,Disney Dreamlight Valley,1401590,2023-07,2206.37,5157.0,ok
-2023,62,Disney Dreamlight Valley,1401590,2023-08,1545.49,3229.0,ok
-2023,62,Disney Dreamlight Valley,1401590,2023-09,2378.68,6383.0,ok
-2023,62,Disney Dreamlight Valley,1401590,2023-10,2114.65,4253.0,ok
-2023,62,Disney Dreamlight Valley,1401590,2023-11,1739.59,4231.0,ok
-2023,62,Disney Dreamlight Valley,1401590,2023-12,4061.98,11392.0,ok
-2023,63,Disfigure,2083160,2023-08,390.87,1263.0,ok
-2023,63,Disfigure,2083160,2023-09,77.97,164.0,ok
-2023,63,Disfigure,2083160,2023-10,46.21,102.0,ok
-2023,63,Disfigure,2083160,2023-11,46.27,95.0,ok
-2023,63,Disfigure,2083160,2023-12,52.79,116.0,ok
+2023,62,Disfigure,2083160,2023-08,390.87,1263.0,ok
+2023,62,Disfigure,2083160,2023-09,77.97,164.0,ok
+2023,62,Disfigure,2083160,2023-10,46.21,102.0,ok
+2023,62,Disfigure,2083160,2023-11,46.27,95.0,ok
+2023,62,Disfigure,2083160,2023-12,52.79,116.0,ok
+2023,63,Disney Dreamlight Valley,1401590,2023-01,2855.63,6710.0,ok
+2023,63,Disney Dreamlight Valley,1401590,2023-02,2631.92,8131.0,ok
+2023,63,Disney Dreamlight Valley,1401590,2023-03,1841.24,3740.0,ok
+2023,63,Disney Dreamlight Valley,1401590,2023-04,2860.92,7141.0,ok
+2023,63,Disney Dreamlight Valley,1401590,2023-05,1473.7,2871.0,ok
+2023,63,Disney Dreamlight Valley,1401590,2023-06,2385.34,7482.0,ok
+2023,63,Disney Dreamlight Valley,1401590,2023-07,2206.37,5157.0,ok
+2023,63,Disney Dreamlight Valley,1401590,2023-08,1545.49,3229.0,ok
+2023,63,Disney Dreamlight Valley,1401590,2023-09,2378.68,6383.0,ok
+2023,63,Disney Dreamlight Valley,1401590,2023-10,2114.65,4253.0,ok
+2023,63,Disney Dreamlight Valley,1401590,2023-11,1739.59,4231.0,ok
+2023,63,Disney Dreamlight Valley,1401590,2023-12,4061.98,11392.0,ok
 2023,64,Yog-Sothoth’s Yard,2194530,2023-10,1937.03,4971.0,ok
 2023,64,Yog-Sothoth’s Yard,2194530,2023-11,716.22,2939.0,ok
 2023,64,Yog-Sothoth’s Yard,2194530,2023-12,422.02,1252.0,ok
@@ -8359,7 +8526,7 @@ year,rank,name,appid,month,avg_players,peak_players,status
 2023,79,Astral Ascent,1280930,2023-10,28.72,56.0,ok
 2023,79,Astral Ascent,1280930,2023-11,559.2,2409.0,ok
 2023,79,Astral Ascent,1280930,2023-12,465.76,1179.0,ok
-2023,80,Grimhook,2667430,,,,request_error
+2023,80,Grimhook,2667430,2023-12,15.26,50.0,ok
 2023,81,Class of '09: The Re-Up,2318310,2023-06,7.22,31.0,ok
 2023,81,Class of '09: The Re-Up,2318310,2023-07,10.35,37.0,ok
 2023,81,Class of '09: The Re-Up,2318310,2023-08,2.63,11.0,ok
@@ -8386,11 +8553,11 @@ year,rank,name,appid,month,avg_players,peak_players,status
 2023,83,Amnesia: The Bunker,1944430,2023-10,74.31,312.0,ok
 2023,83,Amnesia: The Bunker,1944430,2023-11,82.1,285.0,ok
 2023,83,Amnesia: The Bunker,1944430,2023-12,61.72,150.0,ok
-2023,84,Risk of Rain Returns,1337520,2023-11,15575.92,41838.0,ok
-2023,84,Risk of Rain Returns,1337520,2023-12,2932.62,6892.0,ok
-2023,85,Nuclear Option,2168680,2023-10,63.18,132.0,ok
-2023,85,Nuclear Option,2168680,2023-11,51.57,117.0,ok
-2023,85,Nuclear Option,2168680,2023-12,63.64,181.0,ok
+2023,84,Nuclear Option,2168680,2023-10,63.18,132.0,ok
+2023,84,Nuclear Option,2168680,2023-11,51.57,117.0,ok
+2023,84,Nuclear Option,2168680,2023-12,63.64,181.0,ok
+2023,85,Risk of Rain Returns,1337520,2023-11,15575.92,41838.0,ok
+2023,85,Risk of Rain Returns,1337520,2023-12,2932.62,6892.0,ok
 2023,86,Your Turn To Die -Death Game By Majority-,2067780,2023-02,162.24,245.0,ok
 2023,86,Your Turn To Die -Death Game By Majority-,2067780,2023-03,52.18,121.0,ok
 2023,86,Your Turn To Die -Death Game By Majority-,2067780,2023-04,29.94,57.0,ok
@@ -8433,22 +8600,22 @@ year,rank,name,appid,month,avg_players,peak_players,status
 2023,89,Big Ambitions,1331550,2023-10,322.83,698.0,ok
 2023,89,Big Ambitions,1331550,2023-11,346.7,772.0,ok
 2023,89,Big Ambitions,1331550,2023-12,448.47,935.0,ok
-2023,90,I commissioned some bees 0,2250060,2023-01,164.37,362.0,ok
-2023,90,I commissioned some bees 0,2250060,2023-02,50.04,108.0,ok
-2023,90,I commissioned some bees 0,2250060,2023-03,22.94,55.0,ok
-2023,90,I commissioned some bees 0,2250060,2023-04,17.85,47.0,ok
-2023,90,I commissioned some bees 0,2250060,2023-05,17.32,41.0,ok
-2023,90,I commissioned some bees 0,2250060,2023-06,20.35,40.0,ok
-2023,90,I commissioned some bees 0,2250060,2023-07,19.86,44.0,ok
-2023,90,I commissioned some bees 0,2250060,2023-08,19.23,40.0,ok
-2023,90,I commissioned some bees 0,2250060,2023-09,17.93,41.0,ok
-2023,90,I commissioned some bees 0,2250060,2023-10,17.6,40.0,ok
-2023,90,I commissioned some bees 0,2250060,2023-11,18.15,39.0,ok
-2023,90,I commissioned some bees 0,2250060,2023-12,21.08,52.0,ok
-2023,91,We Were Here Expeditions: The FriendShip,2296990,2023-09,6058.42,22179.0,ok
-2023,91,We Were Here Expeditions: The FriendShip,2296990,2023-10,2022.42,8293.0,ok
-2023,91,We Were Here Expeditions: The FriendShip,2296990,2023-11,399.0,1299.0,ok
-2023,91,We Were Here Expeditions: The FriendShip,2296990,2023-12,276.64,771.0,ok
+2023,90,We Were Here Expeditions: The FriendShip,2296990,2023-09,6058.42,22179.0,ok
+2023,90,We Were Here Expeditions: The FriendShip,2296990,2023-10,2022.42,8293.0,ok
+2023,90,We Were Here Expeditions: The FriendShip,2296990,2023-11,399.0,1299.0,ok
+2023,90,We Were Here Expeditions: The FriendShip,2296990,2023-12,276.64,771.0,ok
+2023,91,I commissioned some bees 0,2250060,2023-01,164.37,362.0,ok
+2023,91,I commissioned some bees 0,2250060,2023-02,50.04,108.0,ok
+2023,91,I commissioned some bees 0,2250060,2023-03,22.94,55.0,ok
+2023,91,I commissioned some bees 0,2250060,2023-04,17.85,47.0,ok
+2023,91,I commissioned some bees 0,2250060,2023-05,17.32,41.0,ok
+2023,91,I commissioned some bees 0,2250060,2023-06,20.35,40.0,ok
+2023,91,I commissioned some bees 0,2250060,2023-07,19.86,44.0,ok
+2023,91,I commissioned some bees 0,2250060,2023-08,19.23,40.0,ok
+2023,91,I commissioned some bees 0,2250060,2023-09,17.93,41.0,ok
+2023,91,I commissioned some bees 0,2250060,2023-10,17.6,40.0,ok
+2023,91,I commissioned some bees 0,2250060,2023-11,18.15,39.0,ok
+2023,91,I commissioned some bees 0,2250060,2023-12,21.08,52.0,ok
 2023,92,Bramble: The Mountain King,1623940,2023-05,122.98,469.0,ok
 2023,92,Bramble: The Mountain King,1623940,2023-06,46.25,121.0,ok
 2023,92,Bramble: The Mountain King,1623940,2023-07,45.62,137.0,ok
@@ -8570,23 +8737,23 @@ year,rank,name,appid,month,avg_players,peak_players,status
 2023,105,Mad Games Tycoon 2,1342330,2023-11,180.97,345.0,ok
 2023,105,Mad Games Tycoon 2,1342330,2023-12,242.62,593.0,ok
 2023,106,The Arrogant Kaiju Princess and The Detective Servant,2291680,2023-12,740.09,1886.0,ok
-2023,107,Blasphemous 2,2114740,2023-08,4615.92,9011.0,ok
-2023,107,Blasphemous 2,2114740,2023-09,1144.43,3765.0,ok
-2023,107,Blasphemous 2,2114740,2023-10,350.51,775.0,ok
-2023,107,Blasphemous 2,2114740,2023-11,383.52,793.0,ok
-2023,107,Blasphemous 2,2114740,2023-12,395.04,686.0,ok
-2023,108,The Last Spell,1105670,2023-01,431.8,934.0,ok
-2023,108,The Last Spell,1105670,2023-02,276.3,465.0,ok
-2023,108,The Last Spell,1105670,2023-03,2595.86,6505.0,ok
-2023,108,The Last Spell,1105670,2023-04,1317.61,3189.0,ok
-2023,108,The Last Spell,1105670,2023-05,622.82,1122.0,ok
-2023,108,The Last Spell,1105670,2023-06,328.78,676.0,ok
-2023,108,The Last Spell,1105670,2023-07,487.01,886.0,ok
-2023,108,The Last Spell,1105670,2023-08,242.64,480.0,ok
-2023,108,The Last Spell,1105670,2023-09,238.11,456.0,ok
-2023,108,The Last Spell,1105670,2023-10,215.04,350.0,ok
-2023,108,The Last Spell,1105670,2023-11,351.81,816.0,ok
-2023,108,The Last Spell,1105670,2023-12,356.91,675.0,ok
+2023,107,The Last Spell,1105670,2023-01,431.8,934.0,ok
+2023,107,The Last Spell,1105670,2023-02,276.3,465.0,ok
+2023,107,The Last Spell,1105670,2023-03,2595.86,6505.0,ok
+2023,107,The Last Spell,1105670,2023-04,1317.61,3189.0,ok
+2023,107,The Last Spell,1105670,2023-05,622.82,1122.0,ok
+2023,107,The Last Spell,1105670,2023-06,328.78,676.0,ok
+2023,107,The Last Spell,1105670,2023-07,487.01,886.0,ok
+2023,107,The Last Spell,1105670,2023-08,242.64,480.0,ok
+2023,107,The Last Spell,1105670,2023-09,238.11,456.0,ok
+2023,107,The Last Spell,1105670,2023-10,215.04,350.0,ok
+2023,107,The Last Spell,1105670,2023-11,351.81,816.0,ok
+2023,107,The Last Spell,1105670,2023-12,356.91,675.0,ok
+2023,108,Blasphemous 2,2114740,2023-08,4615.92,9011.0,ok
+2023,108,Blasphemous 2,2114740,2023-09,1144.43,3765.0,ok
+2023,108,Blasphemous 2,2114740,2023-10,350.51,775.0,ok
+2023,108,Blasphemous 2,2114740,2023-11,383.52,793.0,ok
+2023,108,Blasphemous 2,2114740,2023-12,395.04,686.0,ok
 2023,109,Bronzebeard's Tavern,2422870,2023-12,158.83,487.0,ok
 2023,110,Unsorted Horror,2433730,2023-08,10.97,37.0,ok
 2023,110,Unsorted Horror,2433730,2023-09,3.62,12.0,ok
@@ -8803,41 +8970,41 @@ year,rank,name,appid,month,avg_players,peak_players,status
 2023,140,System Shock,482400,2023-12,163.21,366.0,ok
 2023,141,Jusant,1977170,2023-11,63.82,329.0,ok
 2023,141,Jusant,1977170,2023-12,77.99,189.0,ok
-2023,142,NUKITASHI,2399220,2023-06,244.6,586.0,ok
-2023,142,NUKITASHI,2399220,2023-07,91.99,356.0,ok
-2023,142,NUKITASHI,2399220,2023-08,28.12,80.0,ok
-2023,142,NUKITASHI,2399220,2023-09,16.43,48.0,ok
-2023,142,NUKITASHI,2399220,2023-10,12.13,34.0,ok
-2023,142,NUKITASHI,2399220,2023-11,14.3,39.0,ok
-2023,142,NUKITASHI,2399220,2023-12,17.84,59.0,ok
-2023,143,Killer Frequency,1903620,2023-06,113.23,337.0,ok
-2023,143,Killer Frequency,1903620,2023-07,58.87,127.0,ok
-2023,143,Killer Frequency,1903620,2023-08,33.09,107.0,ok
-2023,143,Killer Frequency,1903620,2023-09,30.9,76.0,ok
-2023,143,Killer Frequency,1903620,2023-10,27.9,134.0,ok
-2023,143,Killer Frequency,1903620,2023-11,38.21,142.0,ok
-2023,143,Killer Frequency,1903620,2023-12,67.14,240.0,ok
-2023,144,Tales of ARISE,740130,2023-01,1353.35,2880.0,ok
-2023,144,Tales of ARISE,740130,2023-02,877.09,1905.0,ok
-2023,144,Tales of ARISE,740130,2023-03,682.53,1667.0,ok
-2023,144,Tales of ARISE,740130,2023-04,909.86,2295.0,ok
-2023,144,Tales of ARISE,740130,2023-05,671.88,1474.0,ok
-2023,144,Tales of ARISE,740130,2023-06,443.72,961.0,ok
-2023,144,Tales of ARISE,740130,2023-07,732.26,1492.0,ok
-2023,144,Tales of ARISE,740130,2023-08,437.36,933.0,ok
-2023,144,Tales of ARISE,740130,2023-09,439.02,1154.0,ok
-2023,144,Tales of ARISE,740130,2023-10,547.83,1204.0,ok
-2023,144,Tales of ARISE,740130,2023-11,1178.12,3830.0,ok
-2023,144,Tales of ARISE,740130,2023-12,868.27,2035.0,ok
-2023,145,Coffee Talk Episode 2: Hibiscus & Butterfly,1663220,2023-04,265.57,592.0,ok
-2023,145,Coffee Talk Episode 2: Hibiscus & Butterfly,1663220,2023-05,65.21,183.0,ok
-2023,145,Coffee Talk Episode 2: Hibiscus & Butterfly,1663220,2023-06,49.03,132.0,ok
-2023,145,Coffee Talk Episode 2: Hibiscus & Butterfly,1663220,2023-07,59.01,134.0,ok
-2023,145,Coffee Talk Episode 2: Hibiscus & Butterfly,1663220,2023-08,35.02,70.0,ok
-2023,145,Coffee Talk Episode 2: Hibiscus & Butterfly,1663220,2023-09,26.55,70.0,ok
-2023,145,Coffee Talk Episode 2: Hibiscus & Butterfly,1663220,2023-10,21.08,53.0,ok
-2023,145,Coffee Talk Episode 2: Hibiscus & Butterfly,1663220,2023-11,25.86,62.0,ok
-2023,145,Coffee Talk Episode 2: Hibiscus & Butterfly,1663220,2023-12,31.73,61.0,ok
+2023,142,Killer Frequency,1903620,2023-06,113.23,337.0,ok
+2023,142,Killer Frequency,1903620,2023-07,58.87,127.0,ok
+2023,142,Killer Frequency,1903620,2023-08,33.09,107.0,ok
+2023,142,Killer Frequency,1903620,2023-09,30.9,76.0,ok
+2023,142,Killer Frequency,1903620,2023-10,27.9,134.0,ok
+2023,142,Killer Frequency,1903620,2023-11,38.21,142.0,ok
+2023,142,Killer Frequency,1903620,2023-12,67.14,240.0,ok
+2023,143,Tales of ARISE,740130,2023-01,1353.35,2880.0,ok
+2023,143,Tales of ARISE,740130,2023-02,877.09,1905.0,ok
+2023,143,Tales of ARISE,740130,2023-03,682.53,1667.0,ok
+2023,143,Tales of ARISE,740130,2023-04,909.86,2295.0,ok
+2023,143,Tales of ARISE,740130,2023-05,671.88,1474.0,ok
+2023,143,Tales of ARISE,740130,2023-06,443.72,961.0,ok
+2023,143,Tales of ARISE,740130,2023-07,732.26,1492.0,ok
+2023,143,Tales of ARISE,740130,2023-08,437.36,933.0,ok
+2023,143,Tales of ARISE,740130,2023-09,439.02,1154.0,ok
+2023,143,Tales of ARISE,740130,2023-10,547.83,1204.0,ok
+2023,143,Tales of ARISE,740130,2023-11,1178.12,3830.0,ok
+2023,143,Tales of ARISE,740130,2023-12,868.27,2035.0,ok
+2023,144,Coffee Talk Episode 2: Hibiscus & Butterfly,1663220,2023-04,265.57,592.0,ok
+2023,144,Coffee Talk Episode 2: Hibiscus & Butterfly,1663220,2023-05,65.21,183.0,ok
+2023,144,Coffee Talk Episode 2: Hibiscus & Butterfly,1663220,2023-06,49.03,132.0,ok
+2023,144,Coffee Talk Episode 2: Hibiscus & Butterfly,1663220,2023-07,59.01,134.0,ok
+2023,144,Coffee Talk Episode 2: Hibiscus & Butterfly,1663220,2023-08,35.02,70.0,ok
+2023,144,Coffee Talk Episode 2: Hibiscus & Butterfly,1663220,2023-09,26.55,70.0,ok
+2023,144,Coffee Talk Episode 2: Hibiscus & Butterfly,1663220,2023-10,21.08,53.0,ok
+2023,144,Coffee Talk Episode 2: Hibiscus & Butterfly,1663220,2023-11,25.86,62.0,ok
+2023,144,Coffee Talk Episode 2: Hibiscus & Butterfly,1663220,2023-12,31.73,61.0,ok
+2023,145,NUKITASHI,2399220,2023-06,244.6,586.0,ok
+2023,145,NUKITASHI,2399220,2023-07,91.99,356.0,ok
+2023,145,NUKITASHI,2399220,2023-08,28.12,80.0,ok
+2023,145,NUKITASHI,2399220,2023-09,16.43,48.0,ok
+2023,145,NUKITASHI,2399220,2023-10,12.13,34.0,ok
+2023,145,NUKITASHI,2399220,2023-11,14.3,39.0,ok
+2023,145,NUKITASHI,2399220,2023-12,17.84,59.0,ok
 2023,146,BLACK BOX LSS - The Shining Immortal,2434340,,,,request_error
 2023,147,Endless Monday: Dreams and Deadlines,2262610,2023-05,11.83,71.0,ok
 2023,147,Endless Monday: Dreams and Deadlines,2262610,2023-06,4.3,18.0,ok
@@ -8880,14 +9047,14 @@ year,rank,name,appid,month,avg_players,peak_players,status
 2023,152,Roots of Pacha,1245560,2023-10,154.81,342.0,ok
 2023,152,Roots of Pacha,1245560,2023-11,155.35,455.0,ok
 2023,152,Roots of Pacha,1245560,2023-12,307.45,705.0,ok
-2023,153,Sea of Stars,1244090,2023-09,2799.93,8597.0,ok
-2023,153,Sea of Stars,1244090,2023-10,695.74,1817.0,ok
-2023,153,Sea of Stars,1244090,2023-11,447.35,1044.0,ok
-2023,153,Sea of Stars,1244090,2023-12,678.93,1628.0,ok
-2023,154,"South Scrimshaw, Part One",2443110,,,,request_error
-2023,155,Fears to Fathom - Ironbark Lookout,2506160,2023-10,299.77,694.0,ok
-2023,155,Fears to Fathom - Ironbark Lookout,2506160,2023-11,138.74,654.0,ok
-2023,155,Fears to Fathom - Ironbark Lookout,2506160,2023-12,69.75,175.0,ok
+2023,153,Fears to Fathom - Ironbark Lookout,2506160,2023-10,299.77,694.0,ok
+2023,153,Fears to Fathom - Ironbark Lookout,2506160,2023-11,138.74,654.0,ok
+2023,153,Fears to Fathom - Ironbark Lookout,2506160,2023-12,69.75,175.0,ok
+2023,154,Sea of Stars,1244090,2023-09,2799.93,8597.0,ok
+2023,154,Sea of Stars,1244090,2023-10,695.74,1817.0,ok
+2023,154,Sea of Stars,1244090,2023-11,447.35,1044.0,ok
+2023,154,Sea of Stars,1244090,2023-12,678.93,1628.0,ok
+2023,155,"South Scrimshaw, Part One",2443110,,,,request_error
 2023,156,Cats Hidden in Italy,2313240,,,,request_error
 2023,157,Staffer Case: A Supernatural Mystery Adventure,2128480,2023-03,35.94,128.0,ok
 2023,157,Staffer Case: A Supernatural Mystery Adventure,2128480,2023-04,22.32,681.0,ok
@@ -8929,10 +9096,10 @@ year,rank,name,appid,month,avg_players,peak_players,status
 2023,163,Landfall Archives,2353760,2023-10,26.94,64.0,ok
 2023,163,Landfall Archives,2353760,2023-11,27.14,72.0,ok
 2023,163,Landfall Archives,2353760,2023-12,26.09,72.0,ok
-2023,164,Laika: Aged Through Blood,1796220,2023-10,326.94,631.0,ok
-2023,164,Laika: Aged Through Blood,1796220,2023-11,104.22,240.0,ok
-2023,164,Laika: Aged Through Blood,1796220,2023-12,91.38,242.0,ok
-2023,165,Orbo's Odyssey,2539960,,,,request_error
+2023,164,Orbo's Odyssey,2539960,,,,request_error
+2023,165,Laika: Aged Through Blood,1796220,2023-10,326.94,631.0,ok
+2023,165,Laika: Aged Through Blood,1796220,2023-11,104.22,240.0,ok
+2023,165,Laika: Aged Through Blood,1796220,2023-12,91.38,242.0,ok
 2023,166,STONKS-9800: Stock Market Simulator,1539140,2023-07,35.08,104.0,ok
 2023,166,STONKS-9800: Stock Market Simulator,1539140,2023-08,10.2,30.0,ok
 2023,166,STONKS-9800: Stock Market Simulator,1539140,2023-09,7.34,19.0,ok
@@ -8952,19 +9119,19 @@ year,rank,name,appid,month,avg_players,peak_players,status
 2023,169,Moonring,2373630,2023-10,142.19,512.0,ok
 2023,169,Moonring,2373630,2023-11,43.49,94.0,ok
 2023,169,Moonring,2373630,2023-12,48.83,103.0,ok
-2023,170,Vertigo 2,843390,2023-04,87.48,264.0,ok
-2023,170,Vertigo 2,843390,2023-05,40.18,121.0,ok
-2023,170,Vertigo 2,843390,2023-06,24.28,59.0,ok
-2023,170,Vertigo 2,843390,2023-07,27.86,77.0,ok
-2023,170,Vertigo 2,843390,2023-08,15.49,38.0,ok
-2023,170,Vertigo 2,843390,2023-09,13.4,38.0,ok
-2023,170,Vertigo 2,843390,2023-10,12.7,36.0,ok
-2023,170,Vertigo 2,843390,2023-11,23.72,94.0,ok
-2023,170,Vertigo 2,843390,2023-12,23.98,61.0,ok
-2023,171,Squirrel Stapler,2535830,2023-09,14.07,92.0,ok
-2023,171,Squirrel Stapler,2535830,2023-10,6.93,26.0,ok
-2023,171,Squirrel Stapler,2535830,2023-11,4.83,23.0,ok
-2023,171,Squirrel Stapler,2535830,2023-12,4.24,17.0,ok
+2023,170,Squirrel Stapler,2535830,2023-09,14.07,92.0,ok
+2023,170,Squirrel Stapler,2535830,2023-10,6.93,26.0,ok
+2023,170,Squirrel Stapler,2535830,2023-11,4.83,23.0,ok
+2023,170,Squirrel Stapler,2535830,2023-12,4.24,17.0,ok
+2023,171,Vertigo 2,843390,2023-04,87.48,264.0,ok
+2023,171,Vertigo 2,843390,2023-05,40.18,121.0,ok
+2023,171,Vertigo 2,843390,2023-06,24.28,59.0,ok
+2023,171,Vertigo 2,843390,2023-07,27.86,77.0,ok
+2023,171,Vertigo 2,843390,2023-08,15.49,38.0,ok
+2023,171,Vertigo 2,843390,2023-09,13.4,38.0,ok
+2023,171,Vertigo 2,843390,2023-10,12.7,36.0,ok
+2023,171,Vertigo 2,843390,2023-11,23.72,94.0,ok
+2023,171,Vertigo 2,843390,2023-12,23.98,61.0,ok
 2023,172,Snail Simulator,1500740,2023-12,2.36,34.0,ok
 2023,173,Street Fighter™ 6,1364780,2023-06,34149.27,70540.0,ok
 2023,173,Street Fighter™ 6,1364780,2023-07,21478.51,39834.0,ok
@@ -9018,14 +9185,14 @@ year,rank,name,appid,month,avg_players,peak_players,status
 2023,182,The Baby In Yellow,2291340,2023-10,18.7,52.0,ok
 2023,182,The Baby In Yellow,2291340,2023-11,15.92,72.0,ok
 2023,182,The Baby In Yellow,2291340,2023-12,35.15,94.0,ok
-2023,183,Shadow Gambit: The Cursed Crew,1545560,2023-08,1677.52,3911.0,ok
-2023,183,Shadow Gambit: The Cursed Crew,1545560,2023-09,572.98,1769.0,ok
-2023,183,Shadow Gambit: The Cursed Crew,1545560,2023-10,266.16,658.0,ok
-2023,183,Shadow Gambit: The Cursed Crew,1545560,2023-11,208.36,555.0,ok
-2023,183,Shadow Gambit: The Cursed Crew,1545560,2023-12,420.04,1059.0,ok
-2023,184,dotAGE,638510,2023-10,404.83,1040.0,ok
-2023,184,dotAGE,638510,2023-11,172.33,316.0,ok
-2023,184,dotAGE,638510,2023-12,140.12,280.0,ok
+2023,183,dotAGE,638510,2023-10,404.83,1040.0,ok
+2023,183,dotAGE,638510,2023-11,172.33,316.0,ok
+2023,183,dotAGE,638510,2023-12,140.12,280.0,ok
+2023,184,Shadow Gambit: The Cursed Crew,1545560,2023-08,1677.52,3911.0,ok
+2023,184,Shadow Gambit: The Cursed Crew,1545560,2023-09,572.98,1769.0,ok
+2023,184,Shadow Gambit: The Cursed Crew,1545560,2023-10,266.16,658.0,ok
+2023,184,Shadow Gambit: The Cursed Crew,1545560,2023-11,208.36,555.0,ok
+2023,184,Shadow Gambit: The Cursed Crew,1545560,2023-12,420.04,1059.0,ok
 2023,185,BattleBit Remastered,671860,2023-06,45198.12,86636.0,ok
 2023,185,BattleBit Remastered,671860,2023-07,43408.76,82032.0,ok
 2023,185,BattleBit Remastered,671860,2023-08,17400.73,44559.0,ok
@@ -9072,12 +9239,14 @@ year,rank,name,appid,month,avg_players,peak_players,status
 2023,191,Beat Banger,1813430,2023-10,22.13,213.0,ok
 2023,191,Beat Banger,1813430,2023-11,20.46,40.0,ok
 2023,191,Beat Banger,1813430,2023-12,20.63,51.0,ok
-2023,192,Cats Hidden in Bali,2356500,,,,request_error
-2023,193,Unnamed Space Idle,2471100,2023-08,1530.93,2334.0,ok
-2023,193,Unnamed Space Idle,2471100,2023-09,2326.97,2796.0,ok
-2023,193,Unnamed Space Idle,2471100,2023-10,2488.77,2913.0,ok
-2023,193,Unnamed Space Idle,2471100,2023-11,2488.4,3381.0,ok
-2023,193,Unnamed Space Idle,2471100,2023-12,3338.92,4113.0,ok
+2023,192,Unnamed Space Idle,2471100,2023-08,1530.93,2334.0,ok
+2023,192,Unnamed Space Idle,2471100,2023-09,2326.97,2796.0,ok
+2023,192,Unnamed Space Idle,2471100,2023-10,2488.77,2913.0,ok
+2023,192,Unnamed Space Idle,2471100,2023-11,2488.4,3381.0,ok
+2023,192,Unnamed Space Idle,2471100,2023-12,3338.92,4113.0,ok
+2023,193,Cats Hidden in Bali,2356500,2023-10,3.84,15.0,ok
+2023,193,Cats Hidden in Bali,2356500,2023-11,9.0,40.0,ok
+2023,193,Cats Hidden in Bali,2356500,2023-12,10.07,24.0,ok
 2023,194,Seal World,1684410,2023-12,3.39,18.0,ok
 2023,195,OTXO,1608640,2023-04,108.97,233.0,ok
 2023,195,OTXO,1608640,2023-05,29.29,110.0,ok
@@ -9150,16 +9319,16 @@ year,rank,name,appid,month,avg_players,peak_players,status
 2023,206,Tyrion Cuthbert: Attorney of the Arcane,1590230,2023-10,8.31,28.0,ok
 2023,206,Tyrion Cuthbert: Attorney of the Arcane,1590230,2023-11,8.5,31.0,ok
 2023,206,Tyrion Cuthbert: Attorney of the Arcane,1590230,2023-12,11.93,33.0,ok
-2023,207,Projekt: Passion - Season 1,2173800,2023-06,209.4,470.0,ok
-2023,207,Projekt: Passion - Season 1,2173800,2023-07,234.9,473.0,ok
-2023,207,Projekt: Passion - Season 1,2173800,2023-08,127.0,246.0,ok
-2023,207,Projekt: Passion - Season 1,2173800,2023-09,91.84,184.0,ok
-2023,207,Projekt: Passion - Season 1,2173800,2023-10,64.58,114.0,ok
-2023,207,Projekt: Passion - Season 1,2173800,2023-11,71.44,192.0,ok
-2023,207,Projekt: Passion - Season 1,2173800,2023-12,64.88,107.0,ok
-2023,208,Outpath,2237970,2023-10,637.78,1227.0,ok
-2023,208,Outpath,2237970,2023-11,205.64,526.0,ok
-2023,208,Outpath,2237970,2023-12,146.79,345.0,ok
+2023,207,Outpath,2237970,2023-10,637.78,1227.0,ok
+2023,207,Outpath,2237970,2023-11,205.64,526.0,ok
+2023,207,Outpath,2237970,2023-12,146.79,345.0,ok
+2023,208,Projekt: Passion - Season 1,2173800,2023-06,209.4,470.0,ok
+2023,208,Projekt: Passion - Season 1,2173800,2023-07,234.9,473.0,ok
+2023,208,Projekt: Passion - Season 1,2173800,2023-08,127.0,246.0,ok
+2023,208,Projekt: Passion - Season 1,2173800,2023-09,91.84,184.0,ok
+2023,208,Projekt: Passion - Season 1,2173800,2023-10,64.58,114.0,ok
+2023,208,Projekt: Passion - Season 1,2173800,2023-11,71.44,192.0,ok
+2023,208,Projekt: Passion - Season 1,2173800,2023-12,64.88,107.0,ok
 2023,209,THE BUTTON by Elendow,1999740,2023-06,68.55,247.0,ok
 2023,209,THE BUTTON by Elendow,1999740,2023-07,66.59,155.0,ok
 2023,209,THE BUTTON by Elendow,1999740,2023-08,30.61,84.0,ok
@@ -9201,23 +9370,23 @@ year,rank,name,appid,month,avg_players,peak_players,status
 2023,216,Astrea: Six-Sided Oracles,1755830,2023-11,283.87,601.0,ok
 2023,216,Astrea: Six-Sided Oracles,1755830,2023-12,194.81,425.0,ok
 2023,217,Cats Hidden in Maple Hollow 🍂,2551170,,,,request_error
-2023,218,In Sink: A Co-Op Escape Prologue,2289970,2023-03,183.27,580.0,ok
-2023,218,In Sink: A Co-Op Escape Prologue,2289970,2023-04,150.72,926.0,ok
-2023,218,In Sink: A Co-Op Escape Prologue,2289970,2023-05,123.07,381.0,ok
-2023,218,In Sink: A Co-Op Escape Prologue,2289970,2023-06,134.84,609.0,ok
-2023,218,In Sink: A Co-Op Escape Prologue,2289970,2023-07,115.42,237.0,ok
-2023,218,In Sink: A Co-Op Escape Prologue,2289970,2023-08,101.56,214.0,ok
-2023,218,In Sink: A Co-Op Escape Prologue,2289970,2023-09,75.49,205.0,ok
-2023,218,In Sink: A Co-Op Escape Prologue,2289970,2023-10,66.27,237.0,ok
-2023,218,In Sink: A Co-Op Escape Prologue,2289970,2023-11,54.01,163.0,ok
-2023,218,In Sink: A Co-Op Escape Prologue,2289970,2023-12,51.47,207.0,ok
-2023,219,Slayers X: Terminal Aftermath: Vengance of the Slayer,1931020,2023-06,33.3,152.0,ok
-2023,219,Slayers X: Terminal Aftermath: Vengance of the Slayer,1931020,2023-07,7.08,25.0,ok
-2023,219,Slayers X: Terminal Aftermath: Vengance of the Slayer,1931020,2023-08,4.72,16.0,ok
-2023,219,Slayers X: Terminal Aftermath: Vengance of the Slayer,1931020,2023-09,2.68,11.0,ok
-2023,219,Slayers X: Terminal Aftermath: Vengance of the Slayer,1931020,2023-10,1.73,9.0,ok
-2023,219,Slayers X: Terminal Aftermath: Vengance of the Slayer,1931020,2023-11,3.42,12.0,ok
-2023,219,Slayers X: Terminal Aftermath: Vengance of the Slayer,1931020,2023-12,4.22,14.0,ok
+2023,218,Slayers X: Terminal Aftermath: Vengance of the Slayer,1931020,2023-06,33.3,152.0,ok
+2023,218,Slayers X: Terminal Aftermath: Vengance of the Slayer,1931020,2023-07,7.08,25.0,ok
+2023,218,Slayers X: Terminal Aftermath: Vengance of the Slayer,1931020,2023-08,4.72,16.0,ok
+2023,218,Slayers X: Terminal Aftermath: Vengance of the Slayer,1931020,2023-09,2.68,11.0,ok
+2023,218,Slayers X: Terminal Aftermath: Vengance of the Slayer,1931020,2023-10,1.73,9.0,ok
+2023,218,Slayers X: Terminal Aftermath: Vengance of the Slayer,1931020,2023-11,3.42,12.0,ok
+2023,218,Slayers X: Terminal Aftermath: Vengance of the Slayer,1931020,2023-12,4.22,14.0,ok
+2023,219,In Sink: A Co-Op Escape Prologue,2289970,2023-03,183.27,580.0,ok
+2023,219,In Sink: A Co-Op Escape Prologue,2289970,2023-04,150.72,926.0,ok
+2023,219,In Sink: A Co-Op Escape Prologue,2289970,2023-05,123.07,381.0,ok
+2023,219,In Sink: A Co-Op Escape Prologue,2289970,2023-06,134.84,609.0,ok
+2023,219,In Sink: A Co-Op Escape Prologue,2289970,2023-07,115.42,237.0,ok
+2023,219,In Sink: A Co-Op Escape Prologue,2289970,2023-08,101.56,214.0,ok
+2023,219,In Sink: A Co-Op Escape Prologue,2289970,2023-09,75.49,205.0,ok
+2023,219,In Sink: A Co-Op Escape Prologue,2289970,2023-10,66.27,237.0,ok
+2023,219,In Sink: A Co-Op Escape Prologue,2289970,2023-11,54.01,163.0,ok
+2023,219,In Sink: A Co-Op Escape Prologue,2289970,2023-12,51.47,207.0,ok
 2023,220,Patch Quest,1347970,2023-01,6.84,17.0,ok
 2023,220,Patch Quest,1347970,2023-02,11.57,51.0,ok
 2023,220,Patch Quest,1347970,2023-03,459.18,2333.0,ok
@@ -9337,28 +9506,28 @@ year,rank,name,appid,month,avg_players,peak_players,status
 2023,239,Tony Hawk's™ Pro Skater™ 1 + 2,2395210,2023-10,514.83,1791.0,ok
 2023,239,Tony Hawk's™ Pro Skater™ 1 + 2,2395210,2023-11,154.16,528.0,ok
 2023,239,Tony Hawk's™ Pro Skater™ 1 + 2,2395210,2023-12,149.56,386.0,ok
-2023,240,Demons Roots,1933660,2023-01,238.7,599.0,ok
-2023,240,Demons Roots,1933660,2023-02,68.71,185.0,ok
-2023,240,Demons Roots,1933660,2023-03,42.49,108.0,ok
-2023,240,Demons Roots,1933660,2023-04,38.96,116.0,ok
-2023,240,Demons Roots,1933660,2023-05,40.79,116.0,ok
-2023,240,Demons Roots,1933660,2023-06,35.97,91.0,ok
-2023,240,Demons Roots,1933660,2023-07,39.75,84.0,ok
-2023,240,Demons Roots,1933660,2023-08,25.49,80.0,ok
-2023,240,Demons Roots,1933660,2023-09,20.17,55.0,ok
-2023,240,Demons Roots,1933660,2023-10,17.74,46.0,ok
-2023,240,Demons Roots,1933660,2023-11,20.52,50.0,ok
-2023,240,Demons Roots,1933660,2023-12,26.74,64.0,ok
-2023,241,Meg's Monster,1783360,2023-03,34.93,195.0,ok
-2023,241,Meg's Monster,1783360,2023-04,9.31,40.0,ok
-2023,241,Meg's Monster,1783360,2023-05,6.77,27.0,ok
-2023,241,Meg's Monster,1783360,2023-06,3.59,11.0,ok
-2023,241,Meg's Monster,1783360,2023-07,7.58,29.0,ok
-2023,241,Meg's Monster,1783360,2023-08,5.36,19.0,ok
-2023,241,Meg's Monster,1783360,2023-09,3.7,14.0,ok
-2023,241,Meg's Monster,1783360,2023-10,2.42,9.0,ok
-2023,241,Meg's Monster,1783360,2023-11,3.05,14.0,ok
-2023,241,Meg's Monster,1783360,2023-12,4.55,21.0,ok
+2023,240,Meg's Monster,1783360,2023-03,34.93,195.0,ok
+2023,240,Meg's Monster,1783360,2023-04,9.31,40.0,ok
+2023,240,Meg's Monster,1783360,2023-05,6.77,27.0,ok
+2023,240,Meg's Monster,1783360,2023-06,3.59,11.0,ok
+2023,240,Meg's Monster,1783360,2023-07,7.58,29.0,ok
+2023,240,Meg's Monster,1783360,2023-08,5.36,19.0,ok
+2023,240,Meg's Monster,1783360,2023-09,3.7,14.0,ok
+2023,240,Meg's Monster,1783360,2023-10,2.42,9.0,ok
+2023,240,Meg's Monster,1783360,2023-11,3.05,14.0,ok
+2023,240,Meg's Monster,1783360,2023-12,4.55,21.0,ok
+2023,241,Demons Roots,1933660,2023-01,238.7,599.0,ok
+2023,241,Demons Roots,1933660,2023-02,68.71,185.0,ok
+2023,241,Demons Roots,1933660,2023-03,42.49,108.0,ok
+2023,241,Demons Roots,1933660,2023-04,38.96,116.0,ok
+2023,241,Demons Roots,1933660,2023-05,40.79,116.0,ok
+2023,241,Demons Roots,1933660,2023-06,35.97,91.0,ok
+2023,241,Demons Roots,1933660,2023-07,39.75,84.0,ok
+2023,241,Demons Roots,1933660,2023-08,25.49,80.0,ok
+2023,241,Demons Roots,1933660,2023-09,20.17,55.0,ok
+2023,241,Demons Roots,1933660,2023-10,17.74,46.0,ok
+2023,241,Demons Roots,1933660,2023-11,20.52,50.0,ok
+2023,241,Demons Roots,1933660,2023-12,26.74,64.0,ok
 2023,242,Stray Gods: The Roleplaying Musical,1920780,2023-08,206.92,763.0,ok
 2023,242,Stray Gods: The Roleplaying Musical,1920780,2023-09,77.11,234.0,ok
 2023,242,Stray Gods: The Roleplaying Musical,1920780,2023-10,36.94,96.0,ok
@@ -9390,27 +9559,26 @@ year,rank,name,appid,month,avg_players,peak_players,status
 2023,246,Beecarbonize,2486750,2023-10,10.24,26.0,ok
 2023,246,Beecarbonize,2486750,2023-11,23.19,89.0,ok
 2023,246,Beecarbonize,2486750,2023-12,21.21,50.0,ok
-2023,247,Hero's Adventure: Road to Passion,1948980,2023-03,9681.37,28936.0,ok
-2023,247,Hero's Adventure: Road to Passion,1948980,2023-04,2589.82,7672.0,ok
-2023,247,Hero's Adventure: Road to Passion,1948980,2023-05,1194.75,4076.0,ok
-2023,247,Hero's Adventure: Road to Passion,1948980,2023-06,856.07,3107.0,ok
-2023,247,Hero's Adventure: Road to Passion,1948980,2023-07,1461.19,3790.0,ok
-2023,247,Hero's Adventure: Road to Passion,1948980,2023-08,1418.71,4109.0,ok
-2023,247,Hero's Adventure: Road to Passion,1948980,2023-09,1730.52,4905.0,ok
-2023,247,Hero's Adventure: Road to Passion,1948980,2023-10,1728.47,4649.0,ok
-2023,247,Hero's Adventure: Road to Passion,1948980,2023-11,5330.58,20070.0,ok
-2023,247,Hero's Adventure: Road to Passion,1948980,2023-12,4888.45,16576.0,ok
-2023,248,Touhou Artificial Dream in Arcadia,2248430,2023-09,253.74,406.0,ok
-2023,248,Touhou Artificial Dream in Arcadia,2248430,2023-10,88.32,326.0,ok
-2023,248,Touhou Artificial Dream in Arcadia,2248430,2023-11,32.11,92.0,ok
-2023,248,Touhou Artificial Dream in Arcadia,2248430,2023-12,31.65,64.0,ok
+2023,247,Touhou Artificial Dream in Arcadia,2248430,2023-09,253.74,406.0,ok
+2023,247,Touhou Artificial Dream in Arcadia,2248430,2023-10,88.32,326.0,ok
+2023,247,Touhou Artificial Dream in Arcadia,2248430,2023-11,32.11,92.0,ok
+2023,247,Touhou Artificial Dream in Arcadia,2248430,2023-12,31.65,64.0,ok
+2023,248,Hero's Adventure: Road to Passion,1948980,2023-03,9681.37,28936.0,ok
+2023,248,Hero's Adventure: Road to Passion,1948980,2023-04,2589.82,7672.0,ok
+2023,248,Hero's Adventure: Road to Passion,1948980,2023-05,1194.75,4076.0,ok
+2023,248,Hero's Adventure: Road to Passion,1948980,2023-06,856.07,3107.0,ok
+2023,248,Hero's Adventure: Road to Passion,1948980,2023-07,1461.19,3790.0,ok
+2023,248,Hero's Adventure: Road to Passion,1948980,2023-08,1418.71,4109.0,ok
+2023,248,Hero's Adventure: Road to Passion,1948980,2023-09,1730.52,4905.0,ok
+2023,248,Hero's Adventure: Road to Passion,1948980,2023-10,1728.47,4649.0,ok
+2023,248,Hero's Adventure: Road to Passion,1948980,2023-11,5330.58,20070.0,ok
+2023,248,Hero's Adventure: Road to Passion,1948980,2023-12,4888.45,16576.0,ok
 2023,249,Enjoy the Diner,2336980,2023-08,7.79,26.0,ok
 2023,249,Enjoy the Diner,2336980,2023-09,5.85,21.0,ok
 2023,249,Enjoy the Diner,2336980,2023-10,4.66,18.0,ok
 2023,249,Enjoy the Diner,2336980,2023-11,5.72,24.0,ok
 2023,249,Enjoy the Diner,2336980,2023-12,7.66,29.0,ok
-2023,250,STANDBOX,2246880,2023-08,31.46,105.0,ok
-2023,250,STANDBOX,2246880,2023-09,17.52,53.0,ok
-2023,250,STANDBOX,2246880,2023-10,11.86,26.0,ok
-2023,250,STANDBOX,2246880,2023-11,21.06,63.0,ok
-2023,250,STANDBOX,2246880,2023-12,27.03,55.0,ok
+2023,250,Void Stranger,2121980,2023-09,135.9,321.0,ok
+2023,250,Void Stranger,2121980,2023-10,54.51,142.0,ok
+2023,250,Void Stranger,2121980,2023-11,31.8,64.0,ok
+2023,250,Void Stranger,2121980,2023-12,39.27,112.0,ok

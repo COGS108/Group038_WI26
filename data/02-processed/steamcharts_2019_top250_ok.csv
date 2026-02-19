@@ -729,6 +729,13 @@ year,rank,name,appid,month,avg_players,peak_players,status
 2019,108,Hot Lava,382560,2019-10,136.99,463.0,ok
 2019,108,Hot Lava,382560,2019-11,66.76,185.0,ok
 2019,108,Hot Lava,382560,2019-12,72.37,239.0,ok
+2019,109,Smile For Me,1018850,2019-06,10.63,41.0,ok
+2019,109,Smile For Me,1018850,2019-07,9.63,28.0,ok
+2019,109,Smile For Me,1018850,2019-08,13.99,39.0,ok
+2019,109,Smile For Me,1018850,2019-09,6.99,21.0,ok
+2019,109,Smile For Me,1018850,2019-10,6.4,25.0,ok
+2019,109,Smile For Me,1018850,2019-11,4.23,17.0,ok
+2019,109,Smile For Me,1018850,2019-12,5.14,22.0,ok
 2019,110,Tropico 6,492720,2019-04,3771.16,11907.0,ok
 2019,110,Tropico 6,492720,2019-05,1361.24,3434.0,ok
 2019,110,Tropico 6,492720,2019-06,875.08,1962.0,ok
@@ -830,6 +837,7 @@ year,rank,name,appid,month,avg_players,peak_players,status
 2019,125,DARQ: Complete Edition,433550,2019-10,4.92,22.0,ok
 2019,125,DARQ: Complete Edition,433550,2019-11,4.91,22.0,ok
 2019,125,DARQ: Complete Edition,433550,2019-12,4.61,17.0,ok
+2019,126,The Good Time Garden,1200860,2019-12,4.67,16.0,ok
 2019,127,Hentai Girl Fantasy,1146950,2019-11,5.44,20.0,ok
 2019,127,Hentai Girl Fantasy,1146950,2019-12,16.03,265.0,ok
 2019,128,No Time,1043340,2019-04,0.84,7.0,ok
@@ -953,6 +961,12 @@ year,rank,name,appid,month,avg_players,peak_players,status
 2019,143,Breeders of the Nephelym,1161770,2019-10,1091.31,2677.0,ok
 2019,143,Breeders of the Nephelym,1161770,2019-11,419.3,887.0,ok
 2019,143,Breeders of the Nephelym,1161770,2019-12,303.06,461.0,ok
+2019,144,异常 | Exception,621000,2019-07,36.15,247.0,ok
+2019,144,异常 | Exception,621000,2019-08,7.31,27.0,ok
+2019,144,异常 | Exception,621000,2019-09,7.07,43.0,ok
+2019,144,异常 | Exception,621000,2019-10,2.35,11.0,ok
+2019,144,异常 | Exception,621000,2019-11,2.08,9.0,ok
+2019,144,异常 | Exception,621000,2019-12,1.88,7.0,ok
 2019,145,Drift86,1070580,2019-05,3.93,17.0,ok
 2019,145,Drift86,1070580,2019-06,2.92,12.0,ok
 2019,145,Drift86,1070580,2019-07,4.89,17.0,ok
@@ -1066,15 +1080,15 @@ year,rank,name,appid,month,avg_players,peak_players,status
 2019,166,9-nine-:Episode 1,976390,2019-10,3.91,12.0,ok
 2019,166,9-nine-:Episode 1,976390,2019-11,4.17,14.0,ok
 2019,166,9-nine-:Episode 1,976390,2019-12,3.88,14.0,ok
-2019,168,War Selection,1022450,2019-10,287.74,660.0,ok
-2019,168,War Selection,1022450,2019-11,439.37,986.0,ok
-2019,168,War Selection,1022450,2019-12,480.8,1267.0,ok
+2019,168,STEINS;GATE: My Darling's Embrace,970560,2019-12,26.29,54.0,ok
 2019,169,Cricket 19,1028630,2019-08,197.86,416.0,ok
 2019,169,Cricket 19,1028630,2019-09,142.73,275.0,ok
 2019,169,Cricket 19,1028630,2019-10,93.14,177.0,ok
 2019,169,Cricket 19,1028630,2019-11,81.93,158.0,ok
 2019,169,Cricket 19,1028630,2019-12,103.9,207.0,ok
-2019,170,STEINS;GATE: My Darling's Embrace,970560,2019-12,26.29,54.0,ok
+2019,170,War Selection,1022450,2019-10,287.74,660.0,ok
+2019,170,War Selection,1022450,2019-11,439.37,986.0,ok
+2019,170,War Selection,1022450,2019-12,480.8,1267.0,ok
 2019,171,Russian Life Simulator,1070330,2019-05,17.84,94.0,ok
 2019,171,Russian Life Simulator,1070330,2019-06,4.29,17.0,ok
 2019,171,Russian Life Simulator,1070330,2019-07,5.19,25.0,ok
@@ -1114,6 +1128,12 @@ year,rank,name,appid,month,avg_players,peak_players,status
 2019,175,Secret Neighbor: Hello Neighbor Multiplayer,859570,2019-11,337.39,996.0,ok
 2019,175,Secret Neighbor: Hello Neighbor Multiplayer,859570,2019-12,236.28,560.0,ok
 2019,176,Pretty Angel,1148510,2019-12,16.53,97.0,ok
+2019,178,Touhou Fantasia / 东方梦想曲,1010890,2019-07,34.41,102.0,ok
+2019,178,Touhou Fantasia / 东方梦想曲,1010890,2019-08,11.85,36.0,ok
+2019,178,Touhou Fantasia / 东方梦想曲,1010890,2019-09,5.71,18.0,ok
+2019,178,Touhou Fantasia / 东方梦想曲,1010890,2019-10,4.23,18.0,ok
+2019,178,Touhou Fantasia / 东方梦想曲,1010890,2019-11,3.04,13.0,ok
+2019,178,Touhou Fantasia / 东方梦想曲,1010890,2019-12,3.28,14.0,ok
 2019,179,Swords and Sandals Classic Collection,1055430,2019-04,37.54,87.0,ok
 2019,179,Swords and Sandals Classic Collection,1055430,2019-05,13.71,40.0,ok
 2019,179,Swords and Sandals Classic Collection,1055430,2019-06,25.49,127.0,ok
@@ -1192,6 +1212,14 @@ year,rank,name,appid,month,avg_players,peak_players,status
 2019,189,Destiny 2,1085660,2019-10,165307.82,292314.0,ok
 2019,189,Destiny 2,1085660,2019-11,107955.77,195407.0,ok
 2019,189,Destiny 2,1085660,2019-12,92170.98,138593.0,ok
+2019,190,Ultra Fight Da ! Kyanta 2,1026840,2019-05,6.71,26.0,ok
+2019,190,Ultra Fight Da ! Kyanta 2,1026840,2019-06,3.22,16.0,ok
+2019,190,Ultra Fight Da ! Kyanta 2,1026840,2019-07,3.02,14.0,ok
+2019,190,Ultra Fight Da ! Kyanta 2,1026840,2019-08,9.82,42.0,ok
+2019,190,Ultra Fight Da ! Kyanta 2,1026840,2019-09,3.65,25.0,ok
+2019,190,Ultra Fight Da ! Kyanta 2,1026840,2019-10,2.88,14.0,ok
+2019,190,Ultra Fight Da ! Kyanta 2,1026840,2019-11,2.2,15.0,ok
+2019,190,Ultra Fight Da ! Kyanta 2,1026840,2019-12,2.24,9.0,ok
 2019,191,Eastshade,715560,2019-02,152.82,369.0,ok
 2019,191,Eastshade,715560,2019-03,42.39,155.0,ok
 2019,191,Eastshade,715560,2019-04,22.59,72.0,ok
@@ -1296,6 +1324,10 @@ year,rank,name,appid,month,avg_players,peak_players,status
 2019,209,UNDEFEATED,1116960,2019-11,31.6,72.0,ok
 2019,209,UNDEFEATED,1116960,2019-12,31.41,65.0,ok
 2019,210,Pool 2D - Poolians,891040,2019-12,25.57,71.0,ok
+2019,211,Don't Escape Trilogy,1070550,2019-08,0.69,5.0,ok
+2019,211,Don't Escape Trilogy,1070550,2019-09,0.56,4.0,ok
+2019,211,Don't Escape Trilogy,1070550,2019-10,0.97,3.0,ok
+2019,211,Don't Escape Trilogy,1070550,2019-11,0.55,3.0,ok
 2019,212,Mutazione,1080750,2019-09,9.66,24.0,ok
 2019,212,Mutazione,1080750,2019-10,3.13,12.0,ok
 2019,212,Mutazione,1080750,2019-11,1.98,10.0,ok
@@ -1363,25 +1395,25 @@ year,rank,name,appid,month,avg_players,peak_players,status
 2019,221,Tracks - The Train Set Game,657240,2019-10,19.83,43.0,ok
 2019,221,Tracks - The Train Set Game,657240,2019-11,26.48,67.0,ok
 2019,221,Tracks - The Train Set Game,657240,2019-12,25.2,63.0,ok
-2019,222,Lovers of Aether,1043180,2019-04,59.23,637.0,ok
-2019,222,Lovers of Aether,1043180,2019-05,10.11,30.0,ok
-2019,222,Lovers of Aether,1043180,2019-06,7.19,19.0,ok
-2019,222,Lovers of Aether,1043180,2019-07,5.61,15.0,ok
-2019,222,Lovers of Aether,1043180,2019-08,4.09,11.0,ok
-2019,222,Lovers of Aether,1043180,2019-09,3.75,10.0,ok
-2019,222,Lovers of Aether,1043180,2019-10,3.47,11.0,ok
-2019,222,Lovers of Aether,1043180,2019-11,4.32,11.0,ok
-2019,222,Lovers of Aether,1043180,2019-12,4.01,11.0,ok
-2019,223,Tick Tock: A Tale for Two,790740,2019-03,102.42,381.0,ok
-2019,223,Tick Tock: A Tale for Two,790740,2019-04,23.43,158.0,ok
-2019,223,Tick Tock: A Tale for Two,790740,2019-05,13.19,42.0,ok
-2019,223,Tick Tock: A Tale for Two,790740,2019-06,11.11,177.0,ok
-2019,223,Tick Tock: A Tale for Two,790740,2019-07,21.59,157.0,ok
-2019,223,Tick Tock: A Tale for Two,790740,2019-08,7.82,28.0,ok
-2019,223,Tick Tock: A Tale for Two,790740,2019-09,5.16,22.0,ok
-2019,223,Tick Tock: A Tale for Two,790740,2019-10,6.1,35.0,ok
-2019,223,Tick Tock: A Tale for Two,790740,2019-11,9.55,38.0,ok
-2019,223,Tick Tock: A Tale for Two,790740,2019-12,57.06,733.0,ok
+2019,222,Tick Tock: A Tale for Two,790740,2019-03,102.42,381.0,ok
+2019,222,Tick Tock: A Tale for Two,790740,2019-04,23.43,158.0,ok
+2019,222,Tick Tock: A Tale for Two,790740,2019-05,13.19,42.0,ok
+2019,222,Tick Tock: A Tale for Two,790740,2019-06,11.11,177.0,ok
+2019,222,Tick Tock: A Tale for Two,790740,2019-07,21.59,157.0,ok
+2019,222,Tick Tock: A Tale for Two,790740,2019-08,7.82,28.0,ok
+2019,222,Tick Tock: A Tale for Two,790740,2019-09,5.16,22.0,ok
+2019,222,Tick Tock: A Tale for Two,790740,2019-10,6.1,35.0,ok
+2019,222,Tick Tock: A Tale for Two,790740,2019-11,9.55,38.0,ok
+2019,222,Tick Tock: A Tale for Two,790740,2019-12,57.06,733.0,ok
+2019,223,Lovers of Aether,1043180,2019-04,59.23,637.0,ok
+2019,223,Lovers of Aether,1043180,2019-05,10.11,30.0,ok
+2019,223,Lovers of Aether,1043180,2019-06,7.19,19.0,ok
+2019,223,Lovers of Aether,1043180,2019-07,5.61,15.0,ok
+2019,223,Lovers of Aether,1043180,2019-08,4.09,11.0,ok
+2019,223,Lovers of Aether,1043180,2019-09,3.75,10.0,ok
+2019,223,Lovers of Aether,1043180,2019-10,3.47,11.0,ok
+2019,223,Lovers of Aether,1043180,2019-11,4.32,11.0,ok
+2019,223,Lovers of Aether,1043180,2019-12,4.01,11.0,ok
 2019,225,Lonely Mountains: Downhill,711540,2019-10,103.18,183.0,ok
 2019,225,Lonely Mountains: Downhill,711540,2019-11,38.09,152.0,ok
 2019,225,Lonely Mountains: Downhill,711540,2019-12,21.14,54.0,ok
@@ -1401,24 +1433,24 @@ year,rank,name,appid,month,avg_players,peak_players,status
 2019,230,Golden Treasure: The Great Green,1065100,2019-10,3.6,14.0,ok
 2019,230,Golden Treasure: The Great Green,1065100,2019-11,3.55,11.0,ok
 2019,230,Golden Treasure: The Great Green,1065100,2019-12,6.22,24.0,ok
-2019,232,Super Jigsaw Puzzle: Generations,1036950,2019-04,55.07,96.0,ok
-2019,232,Super Jigsaw Puzzle: Generations,1036950,2019-05,58.31,93.0,ok
-2019,232,Super Jigsaw Puzzle: Generations,1036950,2019-06,50.64,80.0,ok
-2019,232,Super Jigsaw Puzzle: Generations,1036950,2019-07,47.17,76.0,ok
-2019,232,Super Jigsaw Puzzle: Generations,1036950,2019-08,42.72,70.0,ok
-2019,232,Super Jigsaw Puzzle: Generations,1036950,2019-09,42.4,74.0,ok
-2019,232,Super Jigsaw Puzzle: Generations,1036950,2019-10,43.1,67.0,ok
-2019,232,Super Jigsaw Puzzle: Generations,1036950,2019-11,52.76,89.0,ok
-2019,232,Super Jigsaw Puzzle: Generations,1036950,2019-12,56.48,101.0,ok
-2019,233,Blush Blush,777130,2019-04,299.97,462.0,ok
-2019,233,Blush Blush,777130,2019-05,287.04,423.0,ok
-2019,233,Blush Blush,777130,2019-06,255.27,402.0,ok
-2019,233,Blush Blush,777130,2019-07,552.28,2558.0,ok
-2019,233,Blush Blush,777130,2019-08,821.08,1845.0,ok
-2019,233,Blush Blush,777130,2019-09,426.95,622.0,ok
-2019,233,Blush Blush,777130,2019-10,372.4,521.0,ok
-2019,233,Blush Blush,777130,2019-11,382.29,541.0,ok
-2019,233,Blush Blush,777130,2019-12,385.64,571.0,ok
+2019,231,Super Jigsaw Puzzle: Generations,1036950,2019-04,55.07,96.0,ok
+2019,231,Super Jigsaw Puzzle: Generations,1036950,2019-05,58.31,93.0,ok
+2019,231,Super Jigsaw Puzzle: Generations,1036950,2019-06,50.64,80.0,ok
+2019,231,Super Jigsaw Puzzle: Generations,1036950,2019-07,47.17,76.0,ok
+2019,231,Super Jigsaw Puzzle: Generations,1036950,2019-08,42.72,70.0,ok
+2019,231,Super Jigsaw Puzzle: Generations,1036950,2019-09,42.4,74.0,ok
+2019,231,Super Jigsaw Puzzle: Generations,1036950,2019-10,43.1,67.0,ok
+2019,231,Super Jigsaw Puzzle: Generations,1036950,2019-11,52.76,89.0,ok
+2019,231,Super Jigsaw Puzzle: Generations,1036950,2019-12,56.48,101.0,ok
+2019,232,Blush Blush,777130,2019-04,299.97,462.0,ok
+2019,232,Blush Blush,777130,2019-05,287.04,423.0,ok
+2019,232,Blush Blush,777130,2019-06,255.27,402.0,ok
+2019,232,Blush Blush,777130,2019-07,552.28,2558.0,ok
+2019,232,Blush Blush,777130,2019-08,821.08,1845.0,ok
+2019,232,Blush Blush,777130,2019-09,426.95,622.0,ok
+2019,232,Blush Blush,777130,2019-10,372.4,521.0,ok
+2019,232,Blush Blush,777130,2019-11,382.29,541.0,ok
+2019,232,Blush Blush,777130,2019-12,385.64,571.0,ok
 2019,234,Fun with Ragdolls: The Game,1142500,2019-09,185.76,426.0,ok
 2019,234,Fun with Ragdolls: The Game,1142500,2019-10,102.37,189.0,ok
 2019,234,Fun with Ragdolls: The Game,1142500,2019-11,93.44,209.0,ok
@@ -1470,6 +1502,12 @@ year,rank,name,appid,month,avg_players,peak_players,status
 2019,241,Age of Empires: Definitive Edition,1017900,2019-10,417.08,805.0,ok
 2019,241,Age of Empires: Definitive Edition,1017900,2019-11,534.03,1478.0,ok
 2019,241,Age of Empires: Definitive Edition,1017900,2019-12,1027.74,2705.0,ok
+2019,242,Pact with a witch,865570,2019-07,32.0,75.0,ok
+2019,242,Pact with a witch,865570,2019-08,18.32,42.0,ok
+2019,242,Pact with a witch,865570,2019-09,12.09,29.0,ok
+2019,242,Pact with a witch,865570,2019-10,7.67,21.0,ok
+2019,242,Pact with a witch,865570,2019-11,8.6,23.0,ok
+2019,242,Pact with a witch,865570,2019-12,13.98,99.0,ok
 2019,243,The Expression Amrilato,1044490,2019-06,13.84,26.0,ok
 2019,243,The Expression Amrilato,1044490,2019-07,6.26,20.0,ok
 2019,243,The Expression Amrilato,1044490,2019-08,2.22,7.0,ok

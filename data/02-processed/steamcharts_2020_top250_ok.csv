@@ -209,6 +209,15 @@ year,rank,name,appid,month,avg_players,peak_players,status
 2020,27,DRAGON BALL Z: KAKAROT,851850,2020-10,386.48,732.0,ok
 2020,27,DRAGON BALL Z: KAKAROT,851850,2020-11,1061.68,3002.0,ok
 2020,27,DRAGON BALL Z: KAKAROT,851850,2020-12,1255.94,2762.0,ok
+2020,28,The Test,1241510,2020-03,2.29,14.0,ok
+2020,28,The Test,1241510,2020-04,1.81,8.0,ok
+2020,28,The Test,1241510,2020-05,1.0,4.0,ok
+2020,28,The Test,1241510,2020-06,0.73,5.0,ok
+2020,28,The Test,1241510,2020-07,1.06,6.0,ok
+2020,28,The Test,1241510,2020-08,0.62,3.0,ok
+2020,28,The Test,1241510,2020-09,1.1,7.0,ok
+2020,28,The Test,1241510,2020-10,0.56,4.0,ok
+2020,28,The Test,1241510,2020-12,0.33,3.0,ok
 2020,29,Untitled Goose Game,837470,2020-09,969.88,1669.0,ok
 2020,29,Untitled Goose Game,837470,2020-10,318.02,1033.0,ok
 2020,29,Untitled Goose Game,837470,2020-11,210.31,622.0,ok
@@ -411,6 +420,11 @@ year,rank,name,appid,month,avg_players,peak_players,status
 2020,64,Coffee Talk,914800,2020-10,14.97,38.0,ok
 2020,64,Coffee Talk,914800,2020-11,27.47,79.0,ok
 2020,64,Coffee Talk,914800,2020-12,28.63,63.0,ok
+2020,65,The Test: Hypothesis Rising,1282200,2020-05,1.19,5.0,ok
+2020,65,The Test: Hypothesis Rising,1282200,2020-06,0.75,4.0,ok
+2020,65,The Test: Hypothesis Rising,1282200,2020-08,0.41,3.0,ok
+2020,65,The Test: Hypothesis Rising,1282200,2020-09,0.67,4.0,ok
+2020,65,The Test: Hypothesis Rising,1282200,2020-11,0.49,3.0,ok
 2020,66,The Test: Final Revelation,1428310,2020-10,1.64,7.0,ok
 2020,66,The Test: Final Revelation,1428310,2020-11,0.63,3.0,ok
 2020,66,The Test: Final Revelation,1428310,2020-12,0.66,4.0,ok
@@ -445,10 +459,10 @@ year,rank,name,appid,month,avg_players,peak_players,status
 2020,70,Streets of Rage 4,985890,2020-12,156.49,341.0,ok
 2020,71,Maitetsu:Last Run!!,1434480,2020-11,79.92,319.0,ok
 2020,71,Maitetsu:Last Run!!,1434480,2020-12,39.39,108.0,ok
-2020,72,Wingspan,1054490,2020-09,438.23,819.0,ok
-2020,72,Wingspan,1054490,2020-10,252.9,455.0,ok
-2020,72,Wingspan,1054490,2020-11,275.49,624.0,ok
-2020,72,Wingspan,1054490,2020-12,331.94,731.0,ok
+2020,73,Wingspan,1054490,2020-09,438.23,819.0,ok
+2020,73,Wingspan,1054490,2020-10,252.9,455.0,ok
+2020,73,Wingspan,1054490,2020-11,275.49,624.0,ok
+2020,73,Wingspan,1054490,2020-12,331.94,731.0,ok
 2020,74,Kingdom Rush Vengeance - Tower Defense,1367550,2020-10,1236.19,3183.0,ok
 2020,74,Kingdom Rush Vengeance - Tower Defense,1367550,2020-11,449.72,1084.0,ok
 2020,74,Kingdom Rush Vengeance - Tower Defense,1367550,2020-12,299.39,707.0,ok
@@ -488,13 +502,13 @@ year,rank,name,appid,month,avg_players,peak_players,status
 2020,79,The Pedestrian,466630,2020-10,7.91,59.0,ok
 2020,79,The Pedestrian,466630,2020-11,6.31,28.0,ok
 2020,79,The Pedestrian,466630,2020-12,9.33,33.0,ok
-2020,80,Songs of Syx,1162750,2020-09,104.7,221.0,ok
-2020,80,Songs of Syx,1162750,2020-10,66.19,156.0,ok
-2020,80,Songs of Syx,1162750,2020-11,38.0,88.0,ok
-2020,80,Songs of Syx,1162750,2020-12,22.96,60.0,ok
-2020,81,Mafia: Definitive Edition,1030840,2020-10,3239.81,13589.0,ok
-2020,81,Mafia: Definitive Edition,1030840,2020-11,878.2,2588.0,ok
-2020,81,Mafia: Definitive Edition,1030840,2020-12,836.71,2345.0,ok
+2020,80,Mafia: Definitive Edition,1030840,2020-10,3239.81,13589.0,ok
+2020,80,Mafia: Definitive Edition,1030840,2020-11,878.2,2588.0,ok
+2020,80,Mafia: Definitive Edition,1030840,2020-12,836.71,2345.0,ok
+2020,81,Songs of Syx,1162750,2020-09,104.7,221.0,ok
+2020,81,Songs of Syx,1162750,2020-10,66.19,156.0,ok
+2020,81,Songs of Syx,1162750,2020-11,38.0,88.0,ok
+2020,81,Songs of Syx,1162750,2020-12,22.96,60.0,ok
 2020,82,Golf With Your Friends,431240,2020-01,603.93,1541.0,ok
 2020,82,Golf With Your Friends,431240,2020-02,492.79,1365.0,ok
 2020,82,Golf With Your Friends,431240,2020-03,810.13,3199.0,ok
@@ -566,23 +580,23 @@ year,rank,name,appid,month,avg_players,peak_players,status
 2020,89,TROUBLESHOOTER: Abandoned Children,470310,2020-11,176.46,395.0,ok
 2020,89,TROUBLESHOOTER: Abandoned Children,470310,2020-12,187.45,352.0,ok
 2020,90,DRAGON QUEST® XI S: Echoes of an Elusive Age™ - Definitive Edition,1295510,2020-12,2120.2,4181.0,ok
-2020,91,Holdfast: Nations At War,589290,2020-01,258.34,945.0,ok
-2020,91,Holdfast: Nations At War,589290,2020-02,250.77,1019.0,ok
-2020,91,Holdfast: Nations At War,589290,2020-03,587.11,2133.0,ok
-2020,91,Holdfast: Nations At War,589290,2020-04,394.38,1114.0,ok
-2020,91,Holdfast: Nations At War,589290,2020-05,325.15,1039.0,ok
-2020,91,Holdfast: Nations At War,589290,2020-06,292.03,1133.0,ok
-2020,91,Holdfast: Nations At War,589290,2020-07,390.15,1177.0,ok
-2020,91,Holdfast: Nations At War,589290,2020-08,411.5,1284.0,ok
-2020,91,Holdfast: Nations At War,589290,2020-09,916.06,2751.0,ok
-2020,91,Holdfast: Nations At War,589290,2020-10,505.07,1609.0,ok
-2020,91,Holdfast: Nations At War,589290,2020-11,464.6,1720.0,ok
-2020,91,Holdfast: Nations At War,589290,2020-12,498.0,1579.0,ok
-2020,92,DDNet,412220,2020-08,745.62,1217.0,ok
-2020,92,DDNet,412220,2020-09,525.11,920.0,ok
-2020,92,DDNet,412220,2020-10,543.5,907.0,ok
-2020,92,DDNet,412220,2020-11,522.33,825.0,ok
-2020,92,DDNet,412220,2020-12,513.79,835.0,ok
+2020,91,DDNet,412220,2020-08,745.62,1217.0,ok
+2020,91,DDNet,412220,2020-09,525.11,920.0,ok
+2020,91,DDNet,412220,2020-10,543.5,907.0,ok
+2020,91,DDNet,412220,2020-11,522.33,825.0,ok
+2020,91,DDNet,412220,2020-12,513.79,835.0,ok
+2020,92,Holdfast: Nations At War,589290,2020-01,258.34,945.0,ok
+2020,92,Holdfast: Nations At War,589290,2020-02,250.77,1019.0,ok
+2020,92,Holdfast: Nations At War,589290,2020-03,587.11,2133.0,ok
+2020,92,Holdfast: Nations At War,589290,2020-04,394.38,1114.0,ok
+2020,92,Holdfast: Nations At War,589290,2020-05,325.15,1039.0,ok
+2020,92,Holdfast: Nations At War,589290,2020-06,292.03,1133.0,ok
+2020,92,Holdfast: Nations At War,589290,2020-07,390.15,1177.0,ok
+2020,92,Holdfast: Nations At War,589290,2020-08,411.5,1284.0,ok
+2020,92,Holdfast: Nations At War,589290,2020-09,916.06,2751.0,ok
+2020,92,Holdfast: Nations At War,589290,2020-10,505.07,1609.0,ok
+2020,92,Holdfast: Nations At War,589290,2020-11,464.6,1720.0,ok
+2020,92,Holdfast: Nations At War,589290,2020-12,498.0,1579.0,ok
 2020,93,The Room VR: A Dark Matter,1104380,2020-04,23.14,66.0,ok
 2020,93,The Room VR: A Dark Matter,1104380,2020-05,12.75,39.0,ok
 2020,93,The Room VR: A Dark Matter,1104380,2020-06,11.5,67.0,ok
@@ -592,18 +606,18 @@ year,rank,name,appid,month,avg_players,peak_players,status
 2020,93,The Room VR: A Dark Matter,1104380,2020-10,11.8,111.0,ok
 2020,93,The Room VR: A Dark Matter,1104380,2020-11,29.76,88.0,ok
 2020,93,The Room VR: A Dark Matter,1104380,2020-12,30.61,137.0,ok
-2020,94,Zup! Z,1218900,2020-12,11.08,46.0,ok
-2020,95,The Jackbox Party Pack 7,1211630,2020-10,614.43,3666.0,ok
-2020,95,The Jackbox Party Pack 7,1211630,2020-11,570.48,4513.0,ok
-2020,95,The Jackbox Party Pack 7,1211630,2020-12,650.86,4145.0,ok
-2020,96,YOU and ME and HER: A Love Story,1293820,2020-05,71.01,98.0,ok
-2020,96,YOU and ME and HER: A Love Story,1293820,2020-06,22.19,80.0,ok
-2020,96,YOU and ME and HER: A Love Story,1293820,2020-07,17.53,42.0,ok
-2020,96,YOU and ME and HER: A Love Story,1293820,2020-08,13.45,36.0,ok
-2020,96,YOU and ME and HER: A Love Story,1293820,2020-09,8.15,21.0,ok
-2020,96,YOU and ME and HER: A Love Story,1293820,2020-10,6.01,18.0,ok
-2020,96,YOU and ME and HER: A Love Story,1293820,2020-11,8.75,26.0,ok
-2020,96,YOU and ME and HER: A Love Story,1293820,2020-12,8.61,26.0,ok
+2020,94,YOU and ME and HER: A Love Story,1293820,2020-05,71.01,98.0,ok
+2020,94,YOU and ME and HER: A Love Story,1293820,2020-06,22.19,80.0,ok
+2020,94,YOU and ME and HER: A Love Story,1293820,2020-07,17.53,42.0,ok
+2020,94,YOU and ME and HER: A Love Story,1293820,2020-08,13.45,36.0,ok
+2020,94,YOU and ME and HER: A Love Story,1293820,2020-09,8.15,21.0,ok
+2020,94,YOU and ME and HER: A Love Story,1293820,2020-10,6.01,18.0,ok
+2020,94,YOU and ME and HER: A Love Story,1293820,2020-11,8.75,26.0,ok
+2020,94,YOU and ME and HER: A Love Story,1293820,2020-12,8.61,26.0,ok
+2020,95,Zup! Z,1218900,2020-12,11.08,46.0,ok
+2020,96,The Jackbox Party Pack 7,1211630,2020-10,614.43,3666.0,ok
+2020,96,The Jackbox Party Pack 7,1211630,2020-11,570.48,4513.0,ok
+2020,96,The Jackbox Party Pack 7,1211630,2020-12,650.86,4145.0,ok
 2020,97,Tukoni: Prologue,1419860,2020-11,42.65,82.0,ok
 2020,97,Tukoni: Prologue,1419860,2020-12,8.52,47.0,ok
 2020,98,Automobilista 2,1066890,2020-04,214.64,642.0,ok
@@ -776,16 +790,24 @@ year,rank,name,appid,month,avg_players,peak_players,status
 2020,118,Kill It With Fire,1179210,2020-10,27.57,166.0,ok
 2020,118,Kill It With Fire,1179210,2020-11,13.93,45.0,ok
 2020,118,Kill It With Fire,1179210,2020-12,23.89,120.0,ok
-2020,119,Soda Dungeon 2,946050,2020-07,7262.81,11281.0,ok
-2020,119,Soda Dungeon 2,946050,2020-08,3508.21,5820.0,ok
-2020,119,Soda Dungeon 2,946050,2020-09,1778.05,2853.0,ok
-2020,119,Soda Dungeon 2,946050,2020-10,1243.51,1754.0,ok
-2020,119,Soda Dungeon 2,946050,2020-11,910.52,1212.0,ok
-2020,119,Soda Dungeon 2,946050,2020-12,684.69,851.0,ok
-2020,120,Neighbours back From Hell,1283190,2020-10,76.37,213.0,ok
-2020,120,Neighbours back From Hell,1283190,2020-11,39.9,126.0,ok
-2020,120,Neighbours back From Hell,1283190,2020-12,30.93,86.0,ok
+2020,119,Neighbours back From Hell,1283190,2020-10,76.37,213.0,ok
+2020,119,Neighbours back From Hell,1283190,2020-11,39.9,126.0,ok
+2020,119,Neighbours back From Hell,1283190,2020-12,30.93,86.0,ok
+2020,120,Soda Dungeon 2,946050,2020-07,7262.81,11281.0,ok
+2020,120,Soda Dungeon 2,946050,2020-08,3508.21,5820.0,ok
+2020,120,Soda Dungeon 2,946050,2020-09,1778.05,2853.0,ok
+2020,120,Soda Dungeon 2,946050,2020-10,1243.51,1754.0,ok
+2020,120,Soda Dungeon 2,946050,2020-11,910.52,1212.0,ok
+2020,120,Soda Dungeon 2,946050,2020-12,684.69,851.0,ok
 2020,121,Creeper World 4,848480,2020-12,1231.32,3779.0,ok
+2020,122,The Riftbreaker: Prologue,1293860,2020-08,260.09,1101.0,ok
+2020,122,The Riftbreaker: Prologue,1293860,2020-09,60.02,180.0,ok
+2020,122,The Riftbreaker: Prologue,1293860,2020-10,36.51,83.0,ok
+2020,122,The Riftbreaker: Prologue,1293860,2020-11,29.2,80.0,ok
+2020,122,The Riftbreaker: Prologue,1293860,2020-12,27.33,87.0,ok
+2020,123,When The Past Was Around,1164050,2020-10,8.66,36.0,ok
+2020,123,When The Past Was Around,1164050,2020-11,7.81,33.0,ok
+2020,123,When The Past Was Around,1164050,2020-12,8.92,28.0,ok
 2020,124,The Battle of Polytopia,874390,2020-08,177.69,430.0,ok
 2020,124,The Battle of Polytopia,874390,2020-09,92.32,161.0,ok
 2020,124,The Battle of Polytopia,874390,2020-10,79.07,179.0,ok
@@ -1029,29 +1051,41 @@ year,rank,name,appid,month,avg_players,peak_players,status
 2020,160,Mosaique Neko Waifus 2,1299120,2020-10,3.23,13.0,ok
 2020,160,Mosaique Neko Waifus 2,1299120,2020-11,3.54,16.0,ok
 2020,160,Mosaique Neko Waifus 2,1299120,2020-12,4.81,60.0,ok
-2020,161,Rival Stars Horse Racing: Desktop Edition,1166860,2020-07,136.6,307.0,ok
-2020,161,Rival Stars Horse Racing: Desktop Edition,1166860,2020-08,77.59,146.0,ok
-2020,161,Rival Stars Horse Racing: Desktop Edition,1166860,2020-09,79.85,162.0,ok
-2020,161,Rival Stars Horse Racing: Desktop Edition,1166860,2020-10,75.78,137.0,ok
-2020,161,Rival Stars Horse Racing: Desktop Edition,1166860,2020-11,68.7,144.0,ok
-2020,161,Rival Stars Horse Racing: Desktop Edition,1166860,2020-12,123.75,390.0,ok
-2020,162,INMOST,938560,2020-08,133.46,421.0,ok
-2020,162,INMOST,938560,2020-09,32.15,79.0,ok
-2020,162,INMOST,938560,2020-10,14.28,44.0,ok
-2020,162,INMOST,938560,2020-11,11.71,42.0,ok
-2020,162,INMOST,938560,2020-12,11.77,51.0,ok
-2020,163,Until You Fall,858260,2020-01,13.39,35.0,ok
-2020,163,Until You Fall,858260,2020-02,9.65,30.0,ok
-2020,163,Until You Fall,858260,2020-03,7.34,21.0,ok
-2020,163,Until You Fall,858260,2020-04,8.38,29.0,ok
-2020,163,Until You Fall,858260,2020-05,27.17,118.0,ok
-2020,163,Until You Fall,858260,2020-06,23.27,98.0,ok
-2020,163,Until You Fall,858260,2020-07,34.51,87.0,ok
-2020,163,Until You Fall,858260,2020-08,18.88,43.0,ok
-2020,163,Until You Fall,858260,2020-09,14.9,36.0,ok
-2020,163,Until You Fall,858260,2020-10,22.41,136.0,ok
-2020,163,Until You Fall,858260,2020-11,29.2,102.0,ok
-2020,163,Until You Fall,858260,2020-12,23.3,79.0,ok
+2020,161,INMOST,938560,2020-08,133.46,421.0,ok
+2020,161,INMOST,938560,2020-09,32.15,79.0,ok
+2020,161,INMOST,938560,2020-10,14.28,44.0,ok
+2020,161,INMOST,938560,2020-11,11.71,42.0,ok
+2020,161,INMOST,938560,2020-12,11.77,51.0,ok
+2020,162,Rival Stars Horse Racing: Desktop Edition,1166860,2020-07,136.6,307.0,ok
+2020,162,Rival Stars Horse Racing: Desktop Edition,1166860,2020-08,77.59,146.0,ok
+2020,162,Rival Stars Horse Racing: Desktop Edition,1166860,2020-09,79.85,162.0,ok
+2020,162,Rival Stars Horse Racing: Desktop Edition,1166860,2020-10,75.78,137.0,ok
+2020,162,Rival Stars Horse Racing: Desktop Edition,1166860,2020-11,68.7,144.0,ok
+2020,162,Rival Stars Horse Racing: Desktop Edition,1166860,2020-12,123.75,390.0,ok
+2020,164,Until You Fall,858260,2020-01,13.39,35.0,ok
+2020,164,Until You Fall,858260,2020-02,9.65,30.0,ok
+2020,164,Until You Fall,858260,2020-03,7.34,21.0,ok
+2020,164,Until You Fall,858260,2020-04,8.38,29.0,ok
+2020,164,Until You Fall,858260,2020-05,27.17,118.0,ok
+2020,164,Until You Fall,858260,2020-06,23.27,98.0,ok
+2020,164,Until You Fall,858260,2020-07,34.51,87.0,ok
+2020,164,Until You Fall,858260,2020-08,18.88,43.0,ok
+2020,164,Until You Fall,858260,2020-09,14.9,36.0,ok
+2020,164,Until You Fall,858260,2020-10,22.41,136.0,ok
+2020,164,Until You Fall,858260,2020-11,29.2,102.0,ok
+2020,164,Until You Fall,858260,2020-12,23.3,79.0,ok
+2020,165,Slap City,725480,2020-01,18.56,60.0,ok
+2020,165,Slap City,725480,2020-02,20.2,76.0,ok
+2020,165,Slap City,725480,2020-03,20.82,86.0,ok
+2020,165,Slap City,725480,2020-04,17.97,70.0,ok
+2020,165,Slap City,725480,2020-05,20.22,62.0,ok
+2020,165,Slap City,725480,2020-06,23.81,78.0,ok
+2020,165,Slap City,725480,2020-07,19.29,57.0,ok
+2020,165,Slap City,725480,2020-08,12.1,39.0,ok
+2020,165,Slap City,725480,2020-09,32.29,252.0,ok
+2020,165,Slap City,725480,2020-10,15.18,47.0,ok
+2020,165,Slap City,725480,2020-11,21.26,95.0,ok
+2020,165,Slap City,725480,2020-12,17.07,51.0,ok
 2020,166,Paradise Killer,1160220,2020-09,60.99,195.0,ok
 2020,166,Paradise Killer,1160220,2020-10,21.42,58.0,ok
 2020,166,Paradise Killer,1160220,2020-11,20.52,64.0,ok
@@ -1077,6 +1111,8 @@ year,rank,name,appid,month,avg_players,peak_players,status
 2020,169,A Summer's End - Hong Kong 1986,1111370,2020-10,2.25,8.0,ok
 2020,169,A Summer's End - Hong Kong 1986,1111370,2020-11,2.32,8.0,ok
 2020,169,A Summer's End - Hong Kong 1986,1111370,2020-12,3.31,13.0,ok
+2020,171,At Dead Of Night,1450830,2020-11,4.52,11.0,ok
+2020,171,At Dead Of Night,1450830,2020-12,4.21,18.0,ok
 2020,172,Hydroneer,1106840,2020-05,943.56,2710.0,ok
 2020,172,Hydroneer,1106840,2020-06,298.17,582.0,ok
 2020,172,Hydroneer,1106840,2020-07,354.66,966.0,ok
@@ -1085,8 +1121,16 @@ year,rank,name,appid,month,avg_players,peak_players,status
 2020,172,Hydroneer,1106840,2020-10,325.99,901.0,ok
 2020,172,Hydroneer,1106840,2020-11,207.64,501.0,ok
 2020,172,Hydroneer,1106840,2020-12,180.59,468.0,ok
-2020,173,At Dead Of Night,1450830,2020-11,4.52,11.0,ok
-2020,173,At Dead Of Night,1450830,2020-12,4.21,18.0,ok
+2020,173,像素女友,1368860,2020-08,64.75,192.0,ok
+2020,173,像素女友,1368860,2020-09,7.27,45.0,ok
+2020,173,像素女友,1368860,2020-10,3.3,20.0,ok
+2020,173,像素女友,1368860,2020-11,3.78,40.0,ok
+2020,173,像素女友,1368860,2020-12,4.3,25.0,ok
+2020,174,Frog Fractions: Game of the Decade Edition,1194840,2020-08,43.8,199.0,ok
+2020,174,Frog Fractions: Game of the Decade Edition,1194840,2020-09,19.62,90.0,ok
+2020,174,Frog Fractions: Game of the Decade Edition,1194840,2020-10,12.31,46.0,ok
+2020,174,Frog Fractions: Game of the Decade Edition,1194840,2020-11,6.21,20.0,ok
+2020,174,Frog Fractions: Game of the Decade Edition,1194840,2020-12,8.18,29.0,ok
 2020,175,NOeSIS01_诉说谎言记忆物语,1246020,2020-03,38.15,86.0,ok
 2020,175,NOeSIS01_诉说谎言记忆物语,1246020,2020-04,26.03,146.0,ok
 2020,175,NOeSIS01_诉说谎言记忆物语,1246020,2020-05,11.69,34.0,ok
@@ -1144,6 +1188,11 @@ year,rank,name,appid,month,avg_players,peak_players,status
 2020,184,Hidden Through Time,524910,2020-10,15.78,38.0,ok
 2020,184,Hidden Through Time,524910,2020-11,15.79,72.0,ok
 2020,184,Hidden Through Time,524910,2020-12,21.96,57.0,ok
+2020,185,ARMORED HEAD,805590,2020-08,2.83,17.0,ok
+2020,185,ARMORED HEAD,805590,2020-09,1.41,5.0,ok
+2020,185,ARMORED HEAD,805590,2020-10,1.85,9.0,ok
+2020,185,ARMORED HEAD,805590,2020-11,1.59,5.0,ok
+2020,185,ARMORED HEAD,805590,2020-12,1.9,11.0,ok
 2020,186,Chicken Police - Paint it RED!,1084640,2020-11,42.1,163.0,ok
 2020,186,Chicken Police - Paint it RED!,1084640,2020-12,10.56,31.0,ok
 2020,188,Neon Abyss,788100,2020-07,2897.38,5111.0,ok
@@ -1463,19 +1512,19 @@ year,rank,name,appid,month,avg_players,peak_players,status
 2020,237,Nyakori's Rabbit Doll,1162070,2020-10,2.7,12.0,ok
 2020,237,Nyakori's Rabbit Doll,1162070,2020-11,3.15,12.0,ok
 2020,237,Nyakori's Rabbit Doll,1162070,2020-12,3.8,12.0,ok
-2020,238,Aimbeast,1100990,2020-01,8.43,37.0,ok
-2020,238,Aimbeast,1100990,2020-02,29.73,78.0,ok
-2020,238,Aimbeast,1100990,2020-03,66.55,141.0,ok
-2020,238,Aimbeast,1100990,2020-04,62.94,107.0,ok
-2020,238,Aimbeast,1100990,2020-05,79.39,190.0,ok
-2020,238,Aimbeast,1100990,2020-06,87.15,157.0,ok
-2020,238,Aimbeast,1100990,2020-07,76.98,140.0,ok
-2020,238,Aimbeast,1100990,2020-08,75.34,153.0,ok
-2020,238,Aimbeast,1100990,2020-09,62.48,142.0,ok
-2020,238,Aimbeast,1100990,2020-10,57.89,110.0,ok
-2020,238,Aimbeast,1100990,2020-11,58.07,99.0,ok
-2020,238,Aimbeast,1100990,2020-12,53.99,99.0,ok
-2020,239,Haven,983970,2020-12,136.35,572.0,ok
+2020,238,Haven,983970,2020-12,136.35,572.0,ok
+2020,239,Aimbeast,1100990,2020-01,8.43,37.0,ok
+2020,239,Aimbeast,1100990,2020-02,29.73,78.0,ok
+2020,239,Aimbeast,1100990,2020-03,66.55,141.0,ok
+2020,239,Aimbeast,1100990,2020-04,62.94,107.0,ok
+2020,239,Aimbeast,1100990,2020-05,79.39,190.0,ok
+2020,239,Aimbeast,1100990,2020-06,87.15,157.0,ok
+2020,239,Aimbeast,1100990,2020-07,76.98,140.0,ok
+2020,239,Aimbeast,1100990,2020-08,75.34,153.0,ok
+2020,239,Aimbeast,1100990,2020-09,62.48,142.0,ok
+2020,239,Aimbeast,1100990,2020-10,57.89,110.0,ok
+2020,239,Aimbeast,1100990,2020-11,58.07,99.0,ok
+2020,239,Aimbeast,1100990,2020-12,53.99,99.0,ok
 2020,241,Sam & Max Save the World,1440440,2020-12,36.88,160.0,ok
 2020,244,The Legend of Heroes: Trails of Cold Steel III,991270,2020-03,1303.28,1922.0,ok
 2020,244,The Legend of Heroes: Trails of Cold Steel III,991270,2020-04,731.34,1615.0,ok
@@ -1487,6 +1536,13 @@ year,rank,name,appid,month,avg_players,peak_players,status
 2020,244,The Legend of Heroes: Trails of Cold Steel III,991270,2020-10,175.08,330.0,ok
 2020,244,The Legend of Heroes: Trails of Cold Steel III,991270,2020-11,221.48,710.0,ok
 2020,244,The Legend of Heroes: Trails of Cold Steel III,991270,2020-12,148.29,242.0,ok
+2020,245,Fatum Betula,1281270,2020-07,0.6,3.0,ok
+2020,245,Fatum Betula,1281270,2020-10,0.39,3.0,ok
+2020,245,Fatum Betula,1281270,2020-11,0.26,2.0,ok
+2020,245,Fatum Betula,1281270,2020-12,0.32,4.0,ok
+2020,246,Swaying Girl,1393350,2020-10,15.48,50.0,ok
+2020,246,Swaying Girl,1393350,2020-11,16.08,138.0,ok
+2020,246,Swaying Girl,1393350,2020-12,14.69,82.0,ok
 2020,247,Lightmatter,994140,2020-01,53.74,106.0,ok
 2020,247,Lightmatter,994140,2020-02,16.79,49.0,ok
 2020,247,Lightmatter,994140,2020-03,8.64,24.0,ok
