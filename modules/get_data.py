@@ -105,8 +105,12 @@ def get_steam250(years, destination_directory):
 
 def get_kaggle(): 
     target_dir = "./data/00-raw"
-    path = kagglehub.dataset_download("srgiomanhes/steam-games-dataset-2025")
+    # https://www.kaggle.com/datasets/srgiomanhes/steam-games-dataset-2025
+    # path = kagglehub.dataset_download("srgiomanhes/steam-games-dataset-2025")
     
+    # https://www.kaggle.com/datasets/fronkongames/steam-games-dataset
+    path = kagglehub.dataset_download("fronkongames/steam-games-dataset")
+
     os.makedirs(target_dir, exist_ok= True)
 
     # Ignore kagglehub download directory structure
