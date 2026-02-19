@@ -104,7 +104,7 @@ def get_steam250(years, destination_directory):
     print("Top 250 Steam games for 2018-2023 installed!")
 
 def get_kaggle(): 
-    target_dir = "./data/00-raw"
+    target_dir = "./data/00-raw/"
     # https://www.kaggle.com/datasets/srgiomanhes/steam-games-dataset-2025
     # path = kagglehub.dataset_download("srgiomanhes/steam-games-dataset-2025")
     
@@ -117,7 +117,8 @@ def get_kaggle():
     for file in os.listdir(path):
         shutil.move(os.path.join(path, file), target_dir)
 
-    print("Steam 2025 dataset installed!")
+    print("Steam dataset installed!")
+
 
 
 def main():
